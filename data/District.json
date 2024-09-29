@@ -1,6 +1,6 @@
 [
     {
-        "LocationId": 64,
+        "DistrictId": 64,
         "Code_Local": "HNI-QBDH",
         "District_VN": "Ba Đình",
         "ParentCode": "HNI",
@@ -8,7 +8,7 @@
         "District_EN": "Ba Dinh"
     },
     {
-        "LocationId": 65,
+        "DistrictId": 65,
         "Code_Local": "HNI-QHKM",
         "District_VN": "Hoàn Kiếm",
         "ParentCode": "HNI",
@@ -16,7 +16,7 @@
         "District_EN": "Hoan Kiem"
     },
     {
-        "LocationId": 66,
+        "DistrictId": 66,
         "Code_Local": "HNI-QTHO",
         "District_VN": "Tây Hồ",
         "ParentCode": "HNI",
@@ -24,7 +24,7 @@
         "District_EN": "Tay Ho"
     },
     {
-        "LocationId": 67,
+        "DistrictId": 67,
         "Code_Local": "HNI-QLBN",
         "District_VN": "Long Biên",
         "ParentCode": "HNI",
@@ -32,7 +32,7 @@
         "District_EN": "Long Bien"
     },
     {
-        "LocationId": 68,
+        "DistrictId": 68,
         "Code_Local": "HNI-QCGY",
         "District_VN": "Cầu Giấy",
         "ParentCode": "HNI",
@@ -40,7 +40,7 @@
         "District_EN": "Cau Giay"
     },
     {
-        "LocationId": 69,
+        "DistrictId": 69,
         "Code_Local": "HNI-QDDA",
         "District_VN": "Đống Đa",
         "ParentCode": "HNI",
@@ -48,7 +48,7 @@
         "District_EN": "Dong Da"
     },
     {
-        "LocationId": 70,
+        "DistrictId": 70,
         "Code_Local": "HNI-QHBTG",
         "District_VN": "Hai Bà Trưng",
         "ParentCode": "HNI",
@@ -56,7 +56,7 @@
         "District_EN": "Hai Ba Trung"
     },
     {
-        "LocationId": 71,
+        "DistrictId": 71,
         "Code_Local": "HNI-QHMI",
         "District_VN": "Hoàng Mai",
         "ParentCode": "HNI",
@@ -64,7 +64,7 @@
         "District_EN": "Hoang Mai"
     },
     {
-        "LocationId": 72,
+        "DistrictId": 72,
         "Code_Local": "HNI-QTXN",
         "District_VN": "Thanh Xuân",
         "ParentCode": "HNI",
@@ -72,7 +72,7 @@
         "District_EN": "Thanh Xuan"
     },
     {
-        "LocationId": 73,
+        "DistrictId": 73,
         "Code_Local": "HNI-QHDG",
         "District_VN": "Hà Đông",
         "ParentCode": "HNI",
@@ -80,7 +80,7 @@
         "District_EN": "Ha Dong"
     },
     {
-        "LocationId": 74,
+        "DistrictId": 74,
         "Code_Local": "HNI-QSTY",
         "District_VN": "Sơn Tây",
         "ParentCode": "HNI",
@@ -88,7 +88,7 @@
         "District_EN": "Son Tay"
     },
     {
-        "LocationId": 75,
+        "DistrictId": 75,
         "Code_Local": "HNI-QSSN",
         "District_VN": "Sóc Sơn",
         "ParentCode": "HNI",
@@ -96,7 +96,7 @@
         "District_EN": "Soc Son"
     },
     {
-        "LocationId": 76,
+        "DistrictId": 76,
         "Code_Local": "HNI-QDAH",
         "District_VN": "Đông Anh",
         "ParentCode": "HNI",
@@ -104,7 +104,7 @@
         "District_EN": "Dong Anh"
     },
     {
-        "LocationId": 77,
+        "DistrictId": 77,
         "Code_Local": "HNI-QGLM",
         "District_VN": "Gia Lâm",
         "ParentCode": "HNI",
@@ -112,7 +112,7 @@
         "District_EN": "Gia Lam"
     },
     {
-        "LocationId": 78,
+        "DistrictId": 78,
         "Code_Local": "HNI-QNTLM",
         "District_VN": "Nam Từ Liêm",
         "ParentCode": "HNI",
@@ -120,7 +120,7 @@
         "District_EN": "Nam Tu Liem"
     },
     {
-        "LocationId": 79,
+        "DistrictId": 79,
         "Code_Local": "HNI-QTTI",
         "District_VN": "Thanh Trì",
         "ParentCode": "HNI",
@@ -128,7 +128,7 @@
         "District_EN": "Thanh Tri"
     },
     {
-        "LocationId": 80,
+        "DistrictId": 80,
         "Code_Local": "HNI-QMLH",
         "District_VN": "Mê Linh",
         "ParentCode": "HNI",
@@ -136,7 +136,7 @@
         "District_EN": "Me Linh"
     },
     {
-        "LocationId": 81,
+        "DistrictId": 81,
         "Code_Local": "HNI-QBVI",
         "District_VN": "Ba Vì",
         "ParentCode": "HNI",
@@ -144,7 +144,7 @@
         "District_EN": "Ba Vi"
     },
     {
-        "LocationId": 82,
+        "DistrictId": 82,
         "Code_Local": "HNI-QPTO",
         "District_VN": "Phúc Thọ",
         "ParentCode": "HNI",
@@ -152,7 +152,7 @@
         "District_EN": "Phuc Tho"
     },
     {
-        "LocationId": 83,
+        "DistrictId": 83,
         "Code_Local": "HNI-QDPG",
         "District_VN": "Đan Phượng",
         "ParentCode": "HNI",
@@ -160,7 +160,7 @@
         "District_EN": "Dan Phuong"
     },
     {
-        "LocationId": 84,
+        "DistrictId": 84,
         "Code_Local": "HNI-QHDC",
         "District_VN": "Hoài Đức",
         "ParentCode": "HNI",
@@ -168,7 +168,7 @@
         "District_EN": "Hoai Duc"
     },
     {
-        "LocationId": 85,
+        "DistrictId": 85,
         "Code_Local": "HNI-QQOI",
         "District_VN": "Quốc Oai",
         "ParentCode": "HNI",
@@ -176,7 +176,7 @@
         "District_EN": "Quoc Oai"
     },
     {
-        "LocationId": 86,
+        "DistrictId": 86,
         "Code_Local": "HNI-QTTT",
         "District_VN": "Thạch Thất",
         "ParentCode": "HNI",
@@ -184,7 +184,7 @@
         "District_EN": "Thach That"
     },
     {
-        "LocationId": 87,
+        "DistrictId": 87,
         "Code_Local": "HNI-QCMY",
         "District_VN": "Chương Mỹ",
         "ParentCode": "HNI",
@@ -192,7 +192,7 @@
         "District_EN": "Chuong My"
     },
     {
-        "LocationId": 88,
+        "DistrictId": 88,
         "Code_Local": "HNI-QTOI",
         "District_VN": "Thanh Oai",
         "ParentCode": "HNI",
@@ -200,7 +200,7 @@
         "District_EN": "Thanh Oai"
     },
     {
-        "LocationId": 89,
+        "DistrictId": 89,
         "Code_Local": "HNI-QTTN",
         "District_VN": "Thường Tín",
         "ParentCode": "HNI",
@@ -208,7 +208,7 @@
         "District_EN": "Thuong Tin"
     },
     {
-        "LocationId": 90,
+        "DistrictId": 90,
         "Code_Local": "HNI-QPXN",
         "District_VN": "Phú Xuyên",
         "ParentCode": "HNI",
@@ -216,7 +216,7 @@
         "District_EN": "Phu Xuyen"
     },
     {
-        "LocationId": 91,
+        "DistrictId": 91,
         "Code_Local": "HNI-QUHA",
         "District_VN": "Ứng Hòa",
         "ParentCode": "HNI",
@@ -224,7 +224,7 @@
         "District_EN": "Ung Hoa"
     },
     {
-        "LocationId": 92,
+        "DistrictId": 92,
         "Code_Local": "HNI-QMDC",
         "District_VN": "Mỹ Đức",
         "ParentCode": "HNI",
@@ -232,7 +232,7 @@
         "District_EN": "My Duc"
     },
     {
-        "LocationId": 93,
+        "DistrictId": 93,
         "Code_Local": "HAG-TPHGG",
         "District_VN": "Hà Giang",
         "ParentCode": "HAG",
@@ -240,7 +240,7 @@
         "District_EN": "Ha Giang"
     },
     {
-        "LocationId": 94,
+        "DistrictId": 94,
         "Code_Local": "HAG-HDVN",
         "District_VN": "Đồng Văn",
         "ParentCode": "HAG",
@@ -248,7 +248,7 @@
         "District_EN": "Dong Van"
     },
     {
-        "LocationId": 95,
+        "DistrictId": 95,
         "Code_Local": "HAG-HMVC",
         "District_VN": "Mèo Vạc",
         "ParentCode": "HAG",
@@ -256,7 +256,7 @@
         "District_EN": "Meo Vac"
     },
     {
-        "LocationId": 96,
+        "DistrictId": 96,
         "Code_Local": "HAG-HYMN",
         "District_VN": "Yên Minh",
         "ParentCode": "HAG",
@@ -264,7 +264,7 @@
         "District_EN": "Yen Minh"
     },
     {
-        "LocationId": 97,
+        "DistrictId": 97,
         "Code_Local": "HAG-HQBA",
         "District_VN": "Quản Bạ",
         "ParentCode": "HAG",
@@ -272,7 +272,7 @@
         "District_EN": "Quan Ba"
     },
     {
-        "LocationId": 98,
+        "DistrictId": 98,
         "Code_Local": "HAG-HVXN",
         "District_VN": "Vị Xuyên",
         "ParentCode": "HAG",
@@ -280,7 +280,7 @@
         "District_EN": "Vi Xuyen"
     },
     {
-        "LocationId": 99,
+        "DistrictId": 99,
         "Code_Local": "HAG-HBME",
         "District_VN": "Bắc Mê",
         "ParentCode": "HAG",
@@ -288,7 +288,7 @@
         "District_EN": "Bac Me"
     },
     {
-        "LocationId": 100,
+        "DistrictId": 100,
         "Code_Local": "HAG-HHSPI",
         "District_VN": "Hoàng Su Phì",
         "ParentCode": "HAG",
@@ -296,7 +296,7 @@
         "District_EN": "Hoang Su Phi"
     },
     {
-        "LocationId": 101,
+        "DistrictId": 101,
         "Code_Local": "HAG-HXMN",
         "District_VN": "Xín Mần",
         "ParentCode": "HAG",
@@ -304,7 +304,7 @@
         "District_EN": "Xin Man"
     },
     {
-        "LocationId": 102,
+        "DistrictId": 102,
         "Code_Local": "HAG-HBQG",
         "District_VN": "Bắc Quang",
         "ParentCode": "HAG",
@@ -312,7 +312,7 @@
         "District_EN": "Bac Quang"
     },
     {
-        "LocationId": 103,
+        "DistrictId": 103,
         "Code_Local": "HAG-HQBH",
         "District_VN": "Quang Bình",
         "ParentCode": "HAG",
@@ -320,7 +320,7 @@
         "District_EN": "Quang Binh"
     },
     {
-        "LocationId": 104,
+        "DistrictId": 104,
         "Code_Local": "CBG-TPCBG",
         "District_VN": "Cao Bằng",
         "ParentCode": "CBG",
@@ -328,7 +328,7 @@
         "District_EN": "Cao Bang"
     },
     {
-        "LocationId": 105,
+        "DistrictId": 105,
         "Code_Local": "CBG-HBLM",
         "District_VN": "Bảo Lâm",
         "ParentCode": "CBG",
@@ -336,7 +336,7 @@
         "District_EN": "Bao Lam"
     },
     {
-        "LocationId": 106,
+        "DistrictId": 106,
         "Code_Local": "CBG-HBLC",
         "District_VN": "Bảo Lạc",
         "ParentCode": "CBG",
@@ -344,7 +344,7 @@
         "District_EN": "Bao Lac"
     },
     {
-        "LocationId": 107,
+        "DistrictId": 107,
         "Code_Local": "CBG-HTNG",
         "District_VN": "Thông Nông",
         "ParentCode": "CBG",
@@ -352,7 +352,7 @@
         "District_EN": "Thong Nong"
     },
     {
-        "LocationId": 108,
+        "DistrictId": 108,
         "Code_Local": "CBG-HHQG",
         "District_VN": "Hà Quảng",
         "ParentCode": "CBG",
@@ -360,7 +360,7 @@
         "District_EN": "Ha Quang"
     },
     {
-        "LocationId": 109,
+        "DistrictId": 109,
         "Code_Local": "CBG-HTLH",
         "District_VN": "Trà Lĩnh",
         "ParentCode": "CBG",
@@ -368,7 +368,7 @@
         "District_EN": "Tra Linh"
     },
     {
-        "LocationId": 110,
+        "DistrictId": 110,
         "Code_Local": "CBG-HTKH",
         "District_VN": "Trùng Khánh",
         "ParentCode": "CBG",
@@ -376,7 +376,7 @@
         "District_EN": "Trung Khanh"
     },
     {
-        "LocationId": 111,
+        "DistrictId": 111,
         "Code_Local": "CBG-HHLG",
         "District_VN": "Hạ Lang",
         "ParentCode": "CBG",
@@ -384,7 +384,7 @@
         "District_EN": "Ha Lang"
     },
     {
-        "LocationId": 112,
+        "DistrictId": 112,
         "Code_Local": "CBG-HQUN",
         "District_VN": "Quảng Uyên",
         "ParentCode": "CBG",
@@ -392,7 +392,7 @@
         "District_EN": "Quang Uyen"
     },
     {
-        "LocationId": 114,
+        "DistrictId": 114,
         "Code_Local": "CBG-HHAN",
         "District_VN": "Hoà An",
         "ParentCode": "CBG",
@@ -400,7 +400,7 @@
         "District_EN": "Hoa An"
     },
     {
-        "LocationId": 115,
+        "DistrictId": 115,
         "Code_Local": "CBG-HNBH",
         "District_VN": "Nguyên Bình",
         "ParentCode": "CBG",
@@ -408,7 +408,7 @@
         "District_EN": "Nguyen Binh"
     },
     {
-        "LocationId": 116,
+        "DistrictId": 116,
         "Code_Local": "CBG-HTAN",
         "District_VN": "Thạch An",
         "ParentCode": "CBG",
@@ -416,7 +416,7 @@
         "District_EN": "Thach An"
     },
     {
-        "LocationId": 117,
+        "DistrictId": 117,
         "Code_Local": "BCN-TXBKN",
         "District_VN": "Bắc Kạn",
         "ParentCode": "BCN",
@@ -424,7 +424,7 @@
         "District_EN": "Bac Kan"
     },
     {
-        "LocationId": 118,
+        "DistrictId": 118,
         "Code_Local": "BCN-HPNM",
         "District_VN": "Pác Nặm",
         "ParentCode": "BCN",
@@ -432,7 +432,7 @@
         "District_EN": "Pac Nam"
     },
     {
-        "LocationId": 119,
+        "DistrictId": 119,
         "Code_Local": "BCN-HBBE",
         "District_VN": "Ba Bể",
         "ParentCode": "BCN",
@@ -440,7 +440,7 @@
         "District_EN": "Ba Be"
     },
     {
-        "LocationId": 120,
+        "DistrictId": 120,
         "Code_Local": "BCN-HNSN",
         "District_VN": "Ngân Sơn",
         "ParentCode": "BCN",
@@ -448,7 +448,7 @@
         "District_EN": "Ngan Son"
     },
     {
-        "LocationId": 121,
+        "DistrictId": 121,
         "Code_Local": "BCN-HBTG",
         "District_VN": "Bạch Thông",
         "ParentCode": "BCN",
@@ -456,7 +456,7 @@
         "District_EN": "Bach Thong"
     },
     {
-        "LocationId": 122,
+        "DistrictId": 122,
         "Code_Local": "BCN-HCDN",
         "District_VN": "Chợ Đồn",
         "ParentCode": "BCN",
@@ -464,7 +464,7 @@
         "District_EN": "Cho Don"
     },
     {
-        "LocationId": 123,
+        "DistrictId": 123,
         "Code_Local": "BCN-HCMI",
         "District_VN": "Chợ Mới",
         "ParentCode": "BCN",
@@ -472,7 +472,7 @@
         "District_EN": "Cho Moi"
     },
     {
-        "LocationId": 124,
+        "DistrictId": 124,
         "Code_Local": "BCN-HNRI",
         "District_VN": "Na Rì",
         "ParentCode": "BCN",
@@ -480,7 +480,7 @@
         "District_EN": "Na Ri"
     },
     {
-        "LocationId": 125,
+        "DistrictId": 125,
         "Code_Local": "TQG-TPTQG",
         "District_VN": "Tuyên Quang",
         "ParentCode": "TQG",
@@ -488,7 +488,7 @@
         "District_EN": "Tuyen Quang"
     },
     {
-        "LocationId": 126,
+        "DistrictId": 126,
         "Code_Local": "TQG-HNHG",
         "District_VN": "Nà Hang",
         "ParentCode": "TQG",
@@ -496,7 +496,7 @@
         "District_EN": "Na Hang"
     },
     {
-        "LocationId": 127,
+        "DistrictId": 127,
         "Code_Local": "TQG-HCHA",
         "District_VN": "Chiêm Hóa",
         "ParentCode": "TQG",
@@ -504,7 +504,7 @@
         "District_EN": "Chiem Hoa"
     },
     {
-        "LocationId": 128,
+        "DistrictId": 128,
         "Code_Local": "TQG-HHYN",
         "District_VN": "Hàm Yên",
         "ParentCode": "TQG",
@@ -512,7 +512,7 @@
         "District_EN": "Ham Yen"
     },
     {
-        "LocationId": 129,
+        "DistrictId": 129,
         "Code_Local": "TQG-HYSN",
         "District_VN": "Yên Sơn",
         "ParentCode": "TQG",
@@ -520,7 +520,7 @@
         "District_EN": "Yen Son"
     },
     {
-        "LocationId": 130,
+        "DistrictId": 130,
         "Code_Local": "TQG-HSDG",
         "District_VN": "Sơn Dương",
         "ParentCode": "TQG",
@@ -528,7 +528,7 @@
         "District_EN": "Son Duong"
     },
     {
-        "LocationId": 131,
+        "DistrictId": 131,
         "Code_Local": "LCI-TPLCI",
         "District_VN": "Lào Cai",
         "ParentCode": "LCI",
@@ -536,7 +536,7 @@
         "District_EN": "Lao Cai"
     },
     {
-        "LocationId": 132,
+        "DistrictId": 132,
         "Code_Local": "LCI-HBXT",
         "District_VN": "Bát Xát",
         "ParentCode": "LCI",
@@ -544,7 +544,7 @@
         "District_EN": "Bat Xat"
     },
     {
-        "LocationId": 133,
+        "DistrictId": 133,
         "Code_Local": "LCI-HMKG",
         "District_VN": "Mường Khương",
         "ParentCode": "LCI",
@@ -552,7 +552,7 @@
         "District_EN": "Muong Khuong"
     },
     {
-        "LocationId": 134,
+        "DistrictId": 134,
         "Code_Local": "LCI-HSMCI",
         "District_VN": "Si Ma Cai",
         "ParentCode": "LCI",
@@ -560,7 +560,7 @@
         "District_EN": "Si Ma Cai"
     },
     {
-        "LocationId": 135,
+        "DistrictId": 135,
         "Code_Local": "LCI-HBHA",
         "District_VN": "Bắc Hà",
         "ParentCode": "LCI",
@@ -568,7 +568,7 @@
         "District_EN": "Bac Ha"
     },
     {
-        "LocationId": 136,
+        "DistrictId": 136,
         "Code_Local": "LCI-HBTG",
         "District_VN": "Bảo Thắng",
         "ParentCode": "LCI",
@@ -576,7 +576,7 @@
         "District_EN": "Bao Thang"
     },
     {
-        "LocationId": 137,
+        "DistrictId": 137,
         "Code_Local": "LCI-HBYN",
         "District_VN": "Bảo Yên",
         "ParentCode": "LCI",
@@ -584,7 +584,7 @@
         "District_EN": "Bao Yen"
     },
     {
-        "LocationId": 138,
+        "DistrictId": 138,
         "Code_Local": "LCI-HSPA",
         "District_VN": "Sa Pa",
         "ParentCode": "LCI",
@@ -592,7 +592,7 @@
         "District_EN": "Sa Pa"
     },
     {
-        "LocationId": 139,
+        "DistrictId": 139,
         "Code_Local": "LCI-HVBN",
         "District_VN": "Văn Bàn",
         "ParentCode": "LCI",
@@ -600,7 +600,7 @@
         "District_EN": "Van Ban"
     },
     {
-        "LocationId": 140,
+        "DistrictId": 140,
         "Code_Local": "DBN-TPDBPU",
         "District_VN": "Điện Biên Phủ",
         "ParentCode": "DBN",
@@ -608,7 +608,7 @@
         "District_EN": "Dien Bien Phu"
     },
     {
-        "LocationId": 141,
+        "DistrictId": 141,
         "Code_Local": "DBN-HMLY",
         "District_VN": "Mường Lay",
         "ParentCode": "DBN",
@@ -616,7 +616,7 @@
         "District_EN": "Muong Lay"
     },
     {
-        "LocationId": 142,
+        "DistrictId": 142,
         "Code_Local": "DBN-HMNE",
         "District_VN": "Mường Nhé",
         "ParentCode": "DBN",
@@ -624,7 +624,7 @@
         "District_EN": "Muong Nhe"
     },
     {
-        "LocationId": 143,
+        "DistrictId": 143,
         "Code_Local": "DBN-HMCA",
         "District_VN": "Mường Chà",
         "ParentCode": "DBN",
@@ -632,7 +632,7 @@
         "District_EN": "Muong Cha"
     },
     {
-        "LocationId": 144,
+        "DistrictId": 144,
         "Code_Local": "DBN-HTCA",
         "District_VN": "Tủa Chùa",
         "ParentCode": "DBN",
@@ -640,7 +640,7 @@
         "District_EN": "Tua Chua"
     },
     {
-        "LocationId": 145,
+        "DistrictId": 145,
         "Code_Local": "DBN-HTGO",
         "District_VN": "Tuần Giáo",
         "ParentCode": "DBN",
@@ -648,7 +648,7 @@
         "District_EN": "Tuan Giao"
     },
     {
-        "LocationId": 146,
+        "DistrictId": 146,
         "Code_Local": "DBN-HDBN",
         "District_VN": "Điện Biên",
         "ParentCode": "DBN",
@@ -656,7 +656,7 @@
         "District_EN": "Dien Bien"
     },
     {
-        "LocationId": 147,
+        "DistrictId": 147,
         "Code_Local": "DBN-HDBDG",
         "District_VN": "Điện Biên Đông",
         "ParentCode": "DBN",
@@ -664,7 +664,7 @@
         "District_EN": "Dien Bien Dong"
     },
     {
-        "LocationId": 148,
+        "DistrictId": 148,
         "Code_Local": "DBN-HMAG",
         "District_VN": "Mường Ảng",
         "ParentCode": "DBN",
@@ -672,7 +672,7 @@
         "District_EN": "Muong Ang"
     },
     {
-        "LocationId": 149,
+        "DistrictId": 149,
         "Code_Local": "LCU-TPLCU",
         "District_VN": "Lai Châu",
         "ParentCode": "LCU",
@@ -680,7 +680,7 @@
         "District_EN": "Lai Chau"
     },
     {
-        "LocationId": 150,
+        "DistrictId": 150,
         "Code_Local": "LCU-HTDG",
         "District_VN": "Tam Đường",
         "ParentCode": "LCU",
@@ -688,7 +688,7 @@
         "District_EN": "Tam Duong"
     },
     {
-        "LocationId": 151,
+        "DistrictId": 151,
         "Code_Local": "LCU-HMTE",
         "District_VN": "Mường Tè",
         "ParentCode": "LCU",
@@ -696,7 +696,7 @@
         "District_EN": "Muong Te"
     },
     {
-        "LocationId": 152,
+        "DistrictId": 152,
         "Code_Local": "LCU-HSHO",
         "District_VN": "Sìn Hồ",
         "ParentCode": "LCU",
@@ -704,7 +704,7 @@
         "District_EN": "Sin Ho"
     },
     {
-        "LocationId": 153,
+        "DistrictId": 153,
         "Code_Local": "LCU-HPTO",
         "District_VN": "Phong Thổ",
         "ParentCode": "LCU",
@@ -712,7 +712,7 @@
         "District_EN": "Phong Tho"
     },
     {
-        "LocationId": 154,
+        "DistrictId": 154,
         "Code_Local": "LCU-HTHU",
         "District_VN": "Than Uyên",
         "ParentCode": "LCU",
@@ -720,7 +720,7 @@
         "District_EN": "Than Uyen"
     },
     {
-        "LocationId": 155,
+        "DistrictId": 155,
         "Code_Local": "LCU-HTUN",
         "District_VN": "Tân Uyên",
         "ParentCode": "LCU",
@@ -728,7 +728,7 @@
         "District_EN": "Tan Uyen"
     },
     {
-        "LocationId": 156,
+        "DistrictId": 156,
         "Code_Local": "SLA-TPSLA",
         "District_VN": "Sơn La",
         "ParentCode": "SLA",
@@ -736,7 +736,7 @@
         "District_EN": "Son La"
     },
     {
-        "LocationId": 157,
+        "DistrictId": 157,
         "Code_Local": "SLA-HQNI",
         "District_VN": "Quỳnh Nhai",
         "ParentCode": "SLA",
@@ -744,7 +744,7 @@
         "District_EN": "Quynh Nhai"
     },
     {
-        "LocationId": 158,
+        "DistrictId": 158,
         "Code_Local": "SLA-HTCU",
         "District_VN": "Thuận Châu",
         "ParentCode": "SLA",
@@ -752,7 +752,7 @@
         "District_EN": "Thuan Chau"
     },
     {
-        "LocationId": 159,
+        "DistrictId": 159,
         "Code_Local": "SLA-HMLA",
         "District_VN": "Mường La",
         "ParentCode": "SLA",
@@ -760,7 +760,7 @@
         "District_EN": "Muong La"
     },
     {
-        "LocationId": 160,
+        "DistrictId": 160,
         "Code_Local": "SLA-HBYN",
         "District_VN": "Bắc Yên",
         "ParentCode": "SLA",
@@ -768,7 +768,7 @@
         "District_EN": "Bac Yen"
     },
     {
-        "LocationId": 161,
+        "DistrictId": 161,
         "Code_Local": "SLA-HPYN",
         "District_VN": "Phù Yên",
         "ParentCode": "SLA",
@@ -776,7 +776,7 @@
         "District_EN": "Phu Yen"
     },
     {
-        "LocationId": 162,
+        "DistrictId": 162,
         "Code_Local": "SLA-HMCU",
         "District_VN": "Mộc Châu",
         "ParentCode": "SLA",
@@ -784,7 +784,7 @@
         "District_EN": "Moc Chau"
     },
     {
-        "LocationId": 163,
+        "DistrictId": 163,
         "Code_Local": "SLA-HYCU",
         "District_VN": "Yên Châu",
         "ParentCode": "SLA",
@@ -792,7 +792,7 @@
         "District_EN": "Yen Chau"
     },
     {
-        "LocationId": 164,
+        "DistrictId": 164,
         "Code_Local": "SLA-HMSN",
         "District_VN": "Mai Sơn",
         "ParentCode": "SLA",
@@ -800,7 +800,7 @@
         "District_EN": "Mai Son"
     },
     {
-        "LocationId": 165,
+        "DistrictId": 165,
         "Code_Local": "SLA-HSMA",
         "District_VN": "Sông Mã",
         "ParentCode": "SLA",
@@ -808,7 +808,7 @@
         "District_EN": "Song Ma"
     },
     {
-        "LocationId": 166,
+        "DistrictId": 166,
         "Code_Local": "SLA-HSCP",
         "District_VN": "Sốp Cộp",
         "ParentCode": "SLA",
@@ -816,7 +816,7 @@
         "District_EN": "Sop Cop"
     },
     {
-        "LocationId": 167,
+        "DistrictId": 167,
         "Code_Local": "YBI-TPYBI",
         "District_VN": "Yên Bái",
         "ParentCode": "YBI",
@@ -824,7 +824,7 @@
         "District_EN": "Yen Bai"
     },
     {
-        "LocationId": 168,
+        "DistrictId": 168,
         "Code_Local": "YBI-HNLO",
         "District_VN": "Nghĩa Lộ",
         "ParentCode": "YBI",
@@ -832,7 +832,7 @@
         "District_EN": "Nghia Lo"
     },
     {
-        "LocationId": 169,
+        "DistrictId": 169,
         "Code_Local": "YBI-HLYN",
         "District_VN": "Lục Yên",
         "ParentCode": "YBI",
@@ -840,7 +840,7 @@
         "District_EN": "Luc Yen"
     },
     {
-        "LocationId": 170,
+        "DistrictId": 170,
         "Code_Local": "YBI-HVYN",
         "District_VN": "Văn Yên",
         "ParentCode": "YBI",
@@ -848,7 +848,7 @@
         "District_EN": "Van Yen"
     },
     {
-        "LocationId": 171,
+        "DistrictId": 171,
         "Code_Local": "YBI-HMCCI",
         "District_VN": "Mù Cang Chải",
         "ParentCode": "YBI",
@@ -856,7 +856,7 @@
         "District_EN": "Mu Cang Chai"
     },
     {
-        "LocationId": 172,
+        "DistrictId": 172,
         "Code_Local": "YBI-HTYN",
         "District_VN": "Trấn Yên",
         "ParentCode": "YBI",
@@ -864,7 +864,7 @@
         "District_EN": "Tran Yen"
     },
     {
-        "LocationId": 173,
+        "DistrictId": 173,
         "Code_Local": "YBI-HTTU",
         "District_VN": "Trạm Tấu",
         "ParentCode": "YBI",
@@ -872,7 +872,7 @@
         "District_EN": "Tram Tau"
     },
     {
-        "LocationId": 174,
+        "DistrictId": 174,
         "Code_Local": "YBI-HVCN",
         "District_VN": "Văn Chấn",
         "ParentCode": "YBI",
@@ -880,7 +880,7 @@
         "District_EN": "Van Chan"
     },
     {
-        "LocationId": 175,
+        "DistrictId": 175,
         "Code_Local": "YBI-HYBH",
         "District_VN": "Yên Bình",
         "ParentCode": "YBI",
@@ -888,7 +888,7 @@
         "District_EN": "Yen Binh"
     },
     {
-        "LocationId": 176,
+        "DistrictId": 176,
         "Code_Local": "HBH-TPHBH",
         "District_VN": "Hòa Bình",
         "ParentCode": "HBH",
@@ -896,7 +896,7 @@
         "District_EN": "Hoa Binh"
     },
     {
-        "LocationId": 177,
+        "DistrictId": 177,
         "Code_Local": "HBH-HDBC",
         "District_VN": "Đà Bắc",
         "ParentCode": "HBH",
@@ -904,7 +904,7 @@
         "District_EN": "Da Bac"
     },
     {
-        "LocationId": 178,
+        "DistrictId": 178,
         "Code_Local": "HBH-HKSN",
         "District_VN": "Kỳ Sơn",
         "ParentCode": "HBH",
@@ -912,7 +912,7 @@
         "District_EN": "Ky Son"
     },
     {
-        "LocationId": 179,
+        "DistrictId": 179,
         "Code_Local": "HBH-HLGSN",
         "District_VN": "Lương Sơn",
         "ParentCode": "HBH",
@@ -920,7 +920,7 @@
         "District_EN": "Luong Son"
     },
     {
-        "LocationId": 180,
+        "DistrictId": 180,
         "Code_Local": "HBH-HKBI",
         "District_VN": "Kim Bôi",
         "ParentCode": "HBH",
@@ -928,7 +928,7 @@
         "District_EN": "Kim Boi"
     },
     {
-        "LocationId": 181,
+        "DistrictId": 181,
         "Code_Local": "HBH-HCPG",
         "District_VN": "Cao Phong",
         "ParentCode": "HBH",
@@ -936,7 +936,7 @@
         "District_EN": "Cao Phong"
     },
     {
-        "LocationId": 182,
+        "DistrictId": 182,
         "Code_Local": "HBH-HTLC",
         "District_VN": "Tân Lạc",
         "ParentCode": "HBH",
@@ -944,7 +944,7 @@
         "District_EN": "Tan Lac"
     },
     {
-        "LocationId": 183,
+        "DistrictId": 183,
         "Code_Local": "HBH-HMCU",
         "District_VN": "Mai Châu",
         "ParentCode": "HBH",
@@ -952,7 +952,7 @@
         "District_EN": "Mai Chau"
     },
     {
-        "LocationId": 184,
+        "DistrictId": 184,
         "Code_Local": "HBH-HLSN",
         "District_VN": "Lạc Sơn",
         "ParentCode": "HBH",
@@ -960,7 +960,7 @@
         "District_EN": "Lac Son"
     },
     {
-        "LocationId": 185,
+        "DistrictId": 185,
         "Code_Local": "HBH-HYTY",
         "District_VN": "Yên Thủy",
         "ParentCode": "HBH",
@@ -968,7 +968,7 @@
         "District_EN": "Yen Thuy"
     },
     {
-        "LocationId": 186,
+        "DistrictId": 186,
         "Code_Local": "HBH-HLTY",
         "District_VN": "Lạc Thủy",
         "ParentCode": "HBH",
@@ -976,7 +976,7 @@
         "District_EN": "Lac Thuy"
     },
     {
-        "LocationId": 187,
+        "DistrictId": 187,
         "Code_Local": "TNN-TPTNN",
         "District_VN": "Thái Nguyên",
         "ParentCode": "TNN",
@@ -984,7 +984,7 @@
         "District_EN": "Thai Nguyen"
     },
     {
-        "LocationId": 188,
+        "DistrictId": 188,
         "Code_Local": "TNN-HSCG",
         "District_VN": "Sông Công",
         "ParentCode": "TNN",
@@ -992,7 +992,7 @@
         "District_EN": "Song Cong"
     },
     {
-        "LocationId": 189,
+        "DistrictId": 189,
         "Code_Local": "TNN-HDHA",
         "District_VN": "Định Hóa",
         "ParentCode": "TNN",
@@ -1000,7 +1000,7 @@
         "District_EN": "Dinh Hoa"
     },
     {
-        "LocationId": 190,
+        "DistrictId": 190,
         "Code_Local": "TNN-HPLG",
         "District_VN": "Phú Lương",
         "ParentCode": "TNN",
@@ -1008,7 +1008,7 @@
         "District_EN": "Phu Luong"
     },
     {
-        "LocationId": 191,
+        "DistrictId": 191,
         "Code_Local": "TNN-HDHY",
         "District_VN": "Đồng Hỷ",
         "ParentCode": "TNN",
@@ -1016,7 +1016,7 @@
         "District_EN": "Dong Hy"
     },
     {
-        "LocationId": 192,
+        "DistrictId": 192,
         "Code_Local": "TNN-HVNI",
         "District_VN": "Võ Nhai",
         "ParentCode": "TNN",
@@ -1024,7 +1024,7 @@
         "District_EN": "Vo Nhai"
     },
     {
-        "LocationId": 193,
+        "DistrictId": 193,
         "Code_Local": "TNN-HDTU",
         "District_VN": "Đại Từ",
         "ParentCode": "TNN",
@@ -1032,7 +1032,7 @@
         "District_EN": "Dai Tu"
     },
     {
-        "LocationId": 194,
+        "DistrictId": 194,
         "Code_Local": "TNN-HPYN",
         "District_VN": "Phổ Yên",
         "ParentCode": "TNN",
@@ -1040,7 +1040,7 @@
         "District_EN": "Pho Yen"
     },
     {
-        "LocationId": 195,
+        "DistrictId": 195,
         "Code_Local": "TNN-HPBH",
         "District_VN": "Phú Bình",
         "ParentCode": "TNN",
@@ -1048,7 +1048,7 @@
         "District_EN": "Phu Binh"
     },
     {
-        "LocationId": 196,
+        "DistrictId": 196,
         "Code_Local": "LSN-TPLSN",
         "District_VN": "Lạng Sơn",
         "ParentCode": "LSN",
@@ -1056,7 +1056,7 @@
         "District_EN": "Lang Son"
     },
     {
-        "LocationId": 197,
+        "DistrictId": 197,
         "Code_Local": "LSN-HTDH",
         "District_VN": "Tràng Định",
         "ParentCode": "LSN",
@@ -1064,7 +1064,7 @@
         "District_EN": "Trang Dinh"
     },
     {
-        "LocationId": 198,
+        "DistrictId": 198,
         "Code_Local": "LSN-HBGA",
         "District_VN": "Bình Gia",
         "ParentCode": "LSN",
@@ -1072,7 +1072,7 @@
         "District_EN": "Binh Gia"
     },
     {
-        "LocationId": 199,
+        "DistrictId": 199,
         "Code_Local": "LSN-HVLG",
         "District_VN": "Văn Lãng",
         "ParentCode": "LSN",
@@ -1080,7 +1080,7 @@
         "District_EN": "Van Lang"
     },
     {
-        "LocationId": 200,
+        "DistrictId": 200,
         "Code_Local": "LSN-HCLC",
         "District_VN": "Cao Lộc",
         "ParentCode": "LSN",
@@ -1088,7 +1088,7 @@
         "District_EN": "Cao Loc"
     },
     {
-        "LocationId": 201,
+        "DistrictId": 201,
         "Code_Local": "LSN-HVQN",
         "District_VN": "Văn Quan",
         "ParentCode": "LSN",
@@ -1096,7 +1096,7 @@
         "District_EN": "Van Quan"
     },
     {
-        "LocationId": 202,
+        "DistrictId": 202,
         "Code_Local": "LSN-HBSN",
         "District_VN": "Bắc Sơn",
         "ParentCode": "LSN",
@@ -1104,7 +1104,7 @@
         "District_EN": "Bac Son"
     },
     {
-        "LocationId": 203,
+        "DistrictId": 203,
         "Code_Local": "LSN-HHLG",
         "District_VN": "Hữu Lũng",
         "ParentCode": "LSN",
@@ -1112,7 +1112,7 @@
         "District_EN": "Huu Lung"
     },
     {
-        "LocationId": 204,
+        "DistrictId": 204,
         "Code_Local": "LSN-HCLG",
         "District_VN": "Chi Lăng",
         "ParentCode": "LSN",
@@ -1120,7 +1120,7 @@
         "District_EN": "Chi Lang"
     },
     {
-        "LocationId": 205,
+        "DistrictId": 205,
         "Code_Local": "LSN-HLBH",
         "District_VN": "Lộc Bình",
         "ParentCode": "LSN",
@@ -1128,7 +1128,7 @@
         "District_EN": "Loc Binh"
     },
     {
-        "LocationId": 206,
+        "DistrictId": 206,
         "Code_Local": "LSN-HDLP",
         "District_VN": "Đình Lập",
         "ParentCode": "LSN",
@@ -1136,7 +1136,7 @@
         "District_EN": "Dinh Lap"
     },
     {
-        "LocationId": 207,
+        "DistrictId": 207,
         "Code_Local": "QNH-TPHLG",
         "District_VN": "Hạ Long",
         "ParentCode": "QNH",
@@ -1144,7 +1144,7 @@
         "District_EN": "Ha Long"
     },
     {
-        "LocationId": 208,
+        "DistrictId": 208,
         "Code_Local": "QNH-HMCI",
         "District_VN": "Móng Cái",
         "ParentCode": "QNH",
@@ -1152,7 +1152,7 @@
         "District_EN": "Mong Cai"
     },
     {
-        "LocationId": 209,
+        "DistrictId": 209,
         "Code_Local": "QNH-HCPA",
         "District_VN": "Cẩm Phả",
         "ParentCode": "QNH",
@@ -1160,7 +1160,7 @@
         "District_EN": "Cam Pha"
     },
     {
-        "LocationId": 210,
+        "DistrictId": 210,
         "Code_Local": "QNH-HUBI",
         "District_VN": "Uông Bí",
         "ParentCode": "QNH",
@@ -1168,7 +1168,7 @@
         "District_EN": "Uong Bi"
     },
     {
-        "LocationId": 211,
+        "DistrictId": 211,
         "Code_Local": "QNH-HBLU",
         "District_VN": "Bình Liêu",
         "ParentCode": "QNH",
@@ -1176,7 +1176,7 @@
         "District_EN": "Binh Lieu"
     },
     {
-        "LocationId": 212,
+        "DistrictId": 212,
         "Code_Local": "QNH-HTYN",
         "District_VN": "Tiên Yên",
         "ParentCode": "QNH",
@@ -1184,7 +1184,7 @@
         "District_EN": "Tien Yen"
     },
     {
-        "LocationId": 213,
+        "DistrictId": 213,
         "Code_Local": "QNH-HDHA",
         "District_VN": "Đầm Hà",
         "ParentCode": "QNH",
@@ -1192,7 +1192,7 @@
         "District_EN": "Dam Ha"
     },
     {
-        "LocationId": 214,
+        "DistrictId": 214,
         "Code_Local": "QNH-HHHA",
         "District_VN": "Hải Hà",
         "ParentCode": "QNH",
@@ -1200,7 +1200,7 @@
         "District_EN": "Hai Ha"
     },
     {
-        "LocationId": 215,
+        "DistrictId": 215,
         "Code_Local": "QNH-HBCE",
         "District_VN": "Ba Chẽ",
         "ParentCode": "QNH",
@@ -1208,7 +1208,7 @@
         "District_EN": "Ba Che"
     },
     {
-        "LocationId": 216,
+        "DistrictId": 216,
         "Code_Local": "QNH-HVDN",
         "District_VN": "Vân Đồn",
         "ParentCode": "QNH",
@@ -1216,7 +1216,7 @@
         "District_EN": "Van Don"
     },
     {
-        "LocationId": 217,
+        "DistrictId": 217,
         "Code_Local": "QNH-HHBO",
         "District_VN": "Hoành Bồ",
         "ParentCode": "QNH",
@@ -1224,7 +1224,7 @@
         "District_EN": "Hoanh Bo"
     },
     {
-        "LocationId": 218,
+        "DistrictId": 218,
         "Code_Local": "QNH-HDTU",
         "District_VN": "Đông Triều",
         "ParentCode": "QNH",
@@ -1232,7 +1232,7 @@
         "District_EN": "Dong Trieu"
     },
     {
-        "LocationId": 219,
+        "DistrictId": 219,
         "Code_Local": "QNH-HQYN",
         "District_VN": "Quảng Yên",
         "ParentCode": "QNH",
@@ -1240,7 +1240,7 @@
         "District_EN": "Quang Yen"
     },
     {
-        "LocationId": 220,
+        "DistrictId": 220,
         "Code_Local": "QNH-HCTO",
         "District_VN": "Cô Tô",
         "ParentCode": "QNH",
@@ -1248,7 +1248,7 @@
         "District_EN": "Co To"
     },
     {
-        "LocationId": 221,
+        "DistrictId": 221,
         "Code_Local": "BGG-TPBGG",
         "District_VN": "Bắc Giang",
         "ParentCode": "BGG",
@@ -1256,7 +1256,7 @@
         "District_EN": "Bac Giang"
     },
     {
-        "LocationId": 222,
+        "DistrictId": 222,
         "Code_Local": "BGG-HYTE",
         "District_VN": "Yên Thế",
         "ParentCode": "BGG",
@@ -1264,7 +1264,7 @@
         "District_EN": "Yen The"
     },
     {
-        "LocationId": 223,
+        "DistrictId": 223,
         "Code_Local": "BGG-HTYN",
         "District_VN": "Tân Yên",
         "ParentCode": "BGG",
@@ -1272,7 +1272,7 @@
         "District_EN": "Tan Yen"
     },
     {
-        "LocationId": 224,
+        "DistrictId": 224,
         "Code_Local": "BGG-HLGG",
         "District_VN": "Lạng Giang",
         "ParentCode": "BGG",
@@ -1280,7 +1280,7 @@
         "District_EN": "Lang Giang"
     },
     {
-        "LocationId": 225,
+        "DistrictId": 225,
         "Code_Local": "BGG-HLNM",
         "District_VN": "Lục Nam",
         "ParentCode": "BGG",
@@ -1288,7 +1288,7 @@
         "District_EN": "Luc Nam"
     },
     {
-        "LocationId": 226,
+        "DistrictId": 226,
         "Code_Local": "BGG-HLNN",
         "District_VN": "Lục Ngạn",
         "ParentCode": "BGG",
@@ -1296,7 +1296,7 @@
         "District_EN": "Luc Ngan"
     },
     {
-        "LocationId": 227,
+        "DistrictId": 227,
         "Code_Local": "BGG-HSDG",
         "District_VN": "Sơn Động",
         "ParentCode": "BGG",
@@ -1304,7 +1304,7 @@
         "District_EN": "Son Dong"
     },
     {
-        "LocationId": 228,
+        "DistrictId": 228,
         "Code_Local": "BGG-HYDG",
         "District_VN": "Yên Dũng",
         "ParentCode": "BGG",
@@ -1312,7 +1312,7 @@
         "District_EN": "Yen Dung"
     },
     {
-        "LocationId": 229,
+        "DistrictId": 229,
         "Code_Local": "BGG-HVYN",
         "District_VN": "Việt Yên",
         "ParentCode": "BGG",
@@ -1320,7 +1320,7 @@
         "District_EN": "Viet Yen"
     },
     {
-        "LocationId": 230,
+        "DistrictId": 230,
         "Code_Local": "BGG-HHHA",
         "District_VN": "Hiệp Hòa",
         "ParentCode": "BGG",
@@ -1328,7 +1328,7 @@
         "District_EN": "Hiep Hoa"
     },
     {
-        "LocationId": 231,
+        "DistrictId": 231,
         "Code_Local": "PTO-TPVTI",
         "District_VN": "Việt Trì",
         "ParentCode": "PTO",
@@ -1336,7 +1336,7 @@
         "District_EN": "Viet Tri"
     },
     {
-        "LocationId": 232,
+        "DistrictId": 232,
         "Code_Local": "PTO-HPTO",
         "District_VN": "Phú Thọ",
         "ParentCode": "PTO",
@@ -1344,7 +1344,7 @@
         "District_EN": "Phu Tho"
     },
     {
-        "LocationId": 233,
+        "DistrictId": 233,
         "Code_Local": "PTO-HDHG",
         "District_VN": "Đoan Hùng",
         "ParentCode": "PTO",
@@ -1352,7 +1352,7 @@
         "District_EN": "Doan Hung"
     },
     {
-        "LocationId": 234,
+        "DistrictId": 234,
         "Code_Local": "PTO-HHHA",
         "District_VN": "Hạ Hoà",
         "ParentCode": "PTO",
@@ -1360,7 +1360,7 @@
         "District_EN": "Ha Hoa"
     },
     {
-        "LocationId": 235,
+        "DistrictId": 235,
         "Code_Local": "PTO-HTBA",
         "District_VN": "Thanh Ba",
         "ParentCode": "PTO",
@@ -1368,7 +1368,7 @@
         "District_EN": "Thanh Ba"
     },
     {
-        "LocationId": 236,
+        "DistrictId": 236,
         "Code_Local": "PTO-HPNH",
         "District_VN": "Phù Ninh",
         "ParentCode": "PTO",
@@ -1376,7 +1376,7 @@
         "District_EN": "Phu Ninh"
     },
     {
-        "LocationId": 237,
+        "DistrictId": 237,
         "Code_Local": "PTO-HYLP",
         "District_VN": "Yên Lập",
         "ParentCode": "PTO",
@@ -1384,7 +1384,7 @@
         "District_EN": "Yen Lap"
     },
     {
-        "LocationId": 238,
+        "DistrictId": 238,
         "Code_Local": "PTO-HCKE",
         "District_VN": "Cẩm Khê",
         "ParentCode": "PTO",
@@ -1392,7 +1392,7 @@
         "District_EN": "Cam Khe"
     },
     {
-        "LocationId": 239,
+        "DistrictId": 239,
         "Code_Local": "PTO-HTNG",
         "District_VN": "Tam Nông",
         "ParentCode": "PTO",
@@ -1400,7 +1400,7 @@
         "District_EN": "Tam Nong"
     },
     {
-        "LocationId": 240,
+        "DistrictId": 240,
         "Code_Local": "PTO-HLTO",
         "District_VN": "Lâm Thao",
         "ParentCode": "PTO",
@@ -1408,7 +1408,7 @@
         "District_EN": "Lam Thao"
     },
     {
-        "LocationId": 241,
+        "DistrictId": 241,
         "Code_Local": "PTO-HTHSN",
         "District_VN": "Thanh Sơn",
         "ParentCode": "PTO",
@@ -1416,7 +1416,7 @@
         "District_EN": "Thanh Son"
     },
     {
-        "LocationId": 242,
+        "DistrictId": 242,
         "Code_Local": "PTO-HTTY",
         "District_VN": "Thanh Thuỷ",
         "ParentCode": "PTO",
@@ -1424,7 +1424,7 @@
         "District_EN": "Thanh Thuy"
     },
     {
-        "LocationId": 243,
+        "DistrictId": 243,
         "Code_Local": "PTO-HTSN",
         "District_VN": "Tân Sơn",
         "ParentCode": "PTO",
@@ -1432,7 +1432,7 @@
         "District_EN": "Tan Son"
     },
     {
-        "LocationId": 244,
+        "DistrictId": 244,
         "Code_Local": "VPC-TPVYN",
         "District_VN": "Vĩnh Yên",
         "ParentCode": "VPC",
@@ -1440,7 +1440,7 @@
         "District_EN": "Vinh Yen"
     },
     {
-        "LocationId": 245,
+        "DistrictId": 245,
         "Code_Local": "VPC-HPYN",
         "District_VN": "Phúc Yên",
         "ParentCode": "VPC",
@@ -1448,7 +1448,7 @@
         "District_EN": "Phuc Yen"
     },
     {
-        "LocationId": 246,
+        "DistrictId": 246,
         "Code_Local": "VPC-HLTH",
         "District_VN": "Lập Thạch",
         "ParentCode": "VPC",
@@ -1456,7 +1456,7 @@
         "District_EN": "Lap Thach"
     },
     {
-        "LocationId": 247,
+        "DistrictId": 247,
         "Code_Local": "VPC-HTDG",
         "District_VN": "Tam Dương",
         "ParentCode": "VPC",
@@ -1464,7 +1464,7 @@
         "District_EN": "Tam Duong"
     },
     {
-        "LocationId": 248,
+        "DistrictId": 248,
         "Code_Local": "VPC-HTDO",
         "District_VN": "Tam Đảo",
         "ParentCode": "VPC",
@@ -1472,7 +1472,7 @@
         "District_EN": "Tam Dao"
     },
     {
-        "LocationId": 249,
+        "DistrictId": 249,
         "Code_Local": "VPC-HBXN",
         "District_VN": "Bình Xuyên",
         "ParentCode": "VPC",
@@ -1480,7 +1480,7 @@
         "District_EN": "Binh Xuyen"
     },
     {
-        "LocationId": 250,
+        "DistrictId": 250,
         "Code_Local": "VPC-HYLC",
         "District_VN": "Yên Lạc",
         "ParentCode": "VPC",
@@ -1488,7 +1488,7 @@
         "District_EN": "Yen Lac"
     },
     {
-        "LocationId": 251,
+        "DistrictId": 251,
         "Code_Local": "VPC-HVTG",
         "District_VN": "Vĩnh Tường",
         "ParentCode": "VPC",
@@ -1496,7 +1496,7 @@
         "District_EN": "Vinh Tuong"
     },
     {
-        "LocationId": 252,
+        "DistrictId": 252,
         "Code_Local": "VPC-HSLO",
         "District_VN": "Sông Lô",
         "ParentCode": "VPC",
@@ -1504,7 +1504,7 @@
         "District_EN": "Song Lo"
     },
     {
-        "LocationId": 253,
+        "DistrictId": 253,
         "Code_Local": "BNH-TPBNH",
         "District_VN": "Bắc Ninh",
         "ParentCode": "BNH",
@@ -1512,7 +1512,7 @@
         "District_EN": "Bac Ninh"
     },
     {
-        "LocationId": 254,
+        "DistrictId": 254,
         "Code_Local": "BNH-HTSN",
         "District_VN": "Từ Sơn",
         "ParentCode": "BNH",
@@ -1520,7 +1520,7 @@
         "District_EN": "Tu Son"
     },
     {
-        "LocationId": 255,
+        "DistrictId": 255,
         "Code_Local": "BNH-HYPG",
         "District_VN": "Yên Phong",
         "ParentCode": "BNH",
@@ -1528,7 +1528,7 @@
         "District_EN": "Yen Phong"
     },
     {
-        "LocationId": 256,
+        "DistrictId": 256,
         "Code_Local": "BNH-HQVO",
         "District_VN": "Quế Võ",
         "ParentCode": "BNH",
@@ -1536,7 +1536,7 @@
         "District_EN": "Que Vo"
     },
     {
-        "LocationId": 257,
+        "DistrictId": 257,
         "Code_Local": "BNH-HTDU",
         "District_VN": "Tiên Du",
         "ParentCode": "BNH",
@@ -1544,7 +1544,7 @@
         "District_EN": "Tien Du"
     },
     {
-        "LocationId": 258,
+        "DistrictId": 258,
         "Code_Local": "BNH-HTTH",
         "District_VN": "Thuận Thành",
         "ParentCode": "BNH",
@@ -1552,7 +1552,7 @@
         "District_EN": "Thuan Thanh"
     },
     {
-        "LocationId": 259,
+        "DistrictId": 259,
         "Code_Local": "BNH-HGBH",
         "District_VN": "Gia Bình",
         "ParentCode": "BNH",
@@ -1560,7 +1560,7 @@
         "District_EN": "Gia Binh"
     },
     {
-        "LocationId": 260,
+        "DistrictId": 260,
         "Code_Local": "BNH-HLTI",
         "District_VN": "Lương Tài",
         "ParentCode": "BNH",
@@ -1568,7 +1568,7 @@
         "District_EN": "Luong Tai"
     },
     {
-        "LocationId": 261,
+        "DistrictId": 261,
         "Code_Local": "HDG-TPHDG",
         "District_VN": "Hải Dương",
         "ParentCode": "HDG",
@@ -1576,7 +1576,7 @@
         "District_EN": "Hai Duong"
     },
     {
-        "LocationId": 262,
+        "DistrictId": 262,
         "Code_Local": "HDG-HCLH",
         "District_VN": "Chí Linh",
         "ParentCode": "HDG",
@@ -1584,7 +1584,7 @@
         "District_EN": "Chi Linh"
     },
     {
-        "LocationId": 263,
+        "DistrictId": 263,
         "Code_Local": "HDG-HNSH",
         "District_VN": "Nam Sách",
         "ParentCode": "HDG",
@@ -1592,7 +1592,7 @@
         "District_EN": "Nam Sach"
     },
     {
-        "LocationId": 264,
+        "DistrictId": 264,
         "Code_Local": "HDG-HKMN",
         "District_VN": "Kinh Môn",
         "ParentCode": "HDG",
@@ -1600,7 +1600,7 @@
         "District_EN": "Kinh Mon"
     },
     {
-        "LocationId": 265,
+        "DistrictId": 265,
         "Code_Local": "HDG-HKTH",
         "District_VN": "Kim Thành",
         "ParentCode": "HDG",
@@ -1608,7 +1608,7 @@
         "District_EN": "Kim Thanh"
     },
     {
-        "LocationId": 266,
+        "DistrictId": 266,
         "Code_Local": "HDG-HTHA",
         "District_VN": "Thanh Hà",
         "ParentCode": "HDG",
@@ -1616,7 +1616,7 @@
         "District_EN": "Thanh Ha"
     },
     {
-        "LocationId": 267,
+        "DistrictId": 267,
         "Code_Local": "HDG-HCGG",
         "District_VN": "Cẩm Giàng",
         "ParentCode": "HDG",
@@ -1624,7 +1624,7 @@
         "District_EN": "Cam Giang"
     },
     {
-        "LocationId": 268,
+        "DistrictId": 268,
         "Code_Local": "HDG-HBGG",
         "District_VN": "Bình Giang",
         "ParentCode": "HDG",
@@ -1632,7 +1632,7 @@
         "District_EN": "Binh Giang"
     },
     {
-        "LocationId": 269,
+        "DistrictId": 269,
         "Code_Local": "HDG-HGLC",
         "District_VN": "Gia Lộc",
         "ParentCode": "HDG",
@@ -1640,7 +1640,7 @@
         "District_EN": "Gia Loc"
     },
     {
-        "LocationId": 270,
+        "DistrictId": 270,
         "Code_Local": "HDG-HTKY",
         "District_VN": "Tứ Kỳ",
         "ParentCode": "HDG",
@@ -1648,7 +1648,7 @@
         "District_EN": "Tu Ky"
     },
     {
-        "LocationId": 271,
+        "DistrictId": 271,
         "Code_Local": "HDG-HNGG",
         "District_VN": "Ninh Giang",
         "ParentCode": "HDG",
@@ -1656,7 +1656,7 @@
         "District_EN": "Ninh Giang"
     },
     {
-        "LocationId": 272,
+        "DistrictId": 272,
         "Code_Local": "HDG-HTMN",
         "District_VN": "Thanh Miện",
         "ParentCode": "HDG",
@@ -1664,7 +1664,7 @@
         "District_EN": "Thanh Mien"
     },
     {
-        "LocationId": 273,
+        "DistrictId": 273,
         "Code_Local": "HPG-QHBG",
         "District_VN": "Hồng Bàng",
         "ParentCode": "HPG",
@@ -1672,7 +1672,7 @@
         "District_EN": "Hong Bang"
     },
     {
-        "LocationId": 274,
+        "DistrictId": 274,
         "Code_Local": "HPG-QNQN",
         "District_VN": "Ngô Quyền",
         "ParentCode": "HPG",
@@ -1680,7 +1680,7 @@
         "District_EN": "Ngo Quyen"
     },
     {
-        "LocationId": 275,
+        "DistrictId": 275,
         "Code_Local": "HPG-QLCN",
         "District_VN": "Lê Chân",
         "ParentCode": "HPG",
@@ -1688,7 +1688,7 @@
         "District_EN": "Le Chan"
     },
     {
-        "LocationId": 276,
+        "DistrictId": 276,
         "Code_Local": "HPG-QHAN",
         "District_VN": "Hải An",
         "ParentCode": "HPG",
@@ -1696,7 +1696,7 @@
         "District_EN": "Hai An"
     },
     {
-        "LocationId": 277,
+        "DistrictId": 277,
         "Code_Local": "HPG-QKAN",
         "District_VN": "Kiến An",
         "ParentCode": "HPG",
@@ -1704,7 +1704,7 @@
         "District_EN": "Kien An"
     },
     {
-        "LocationId": 278,
+        "DistrictId": 278,
         "Code_Local": "HPG-QDSN",
         "District_VN": "Đồ Sơn",
         "ParentCode": "HPG",
@@ -1712,7 +1712,7 @@
         "District_EN": "Do Son"
     },
     {
-        "LocationId": 279,
+        "DistrictId": 279,
         "Code_Local": "HPG-QDKH",
         "District_VN": "Dương Kinh",
         "ParentCode": "HPG",
@@ -1720,7 +1720,7 @@
         "District_EN": "Duong Kinh"
     },
     {
-        "LocationId": 280,
+        "DistrictId": 280,
         "Code_Local": "HPG-HTNN",
         "District_VN": "Thủy Nguyên",
         "ParentCode": "HPG",
@@ -1728,7 +1728,7 @@
         "District_EN": "Thuy Nguyen"
     },
     {
-        "LocationId": 281,
+        "DistrictId": 281,
         "Code_Local": "HPG-HADG",
         "District_VN": "An Dương",
         "ParentCode": "HPG",
@@ -1736,7 +1736,7 @@
         "District_EN": "An Duong"
     },
     {
-        "LocationId": 282,
+        "DistrictId": 282,
         "Code_Local": "HPG-HALO",
         "District_VN": "An Lão",
         "ParentCode": "HPG",
@@ -1744,7 +1744,7 @@
         "District_EN": "An Lao"
     },
     {
-        "LocationId": 283,
+        "DistrictId": 283,
         "Code_Local": "HPG-HKTY",
         "District_VN": "Kiến Thụy",
         "ParentCode": "HPG",
@@ -1752,7 +1752,7 @@
         "District_EN": "Kien Thuy"
     },
     {
-        "LocationId": 284,
+        "DistrictId": 284,
         "Code_Local": "HPG-HTLG",
         "District_VN": "Tiên Lãng",
         "ParentCode": "HPG",
@@ -1760,7 +1760,7 @@
         "District_EN": "Tien Lang"
     },
     {
-        "LocationId": 285,
+        "DistrictId": 285,
         "Code_Local": "HPG-HVBO",
         "District_VN": "Vĩnh Bảo",
         "ParentCode": "HPG",
@@ -1768,7 +1768,7 @@
         "District_EN": "Vinh Bao"
     },
     {
-        "LocationId": 286,
+        "DistrictId": 286,
         "Code_Local": "HPG-HCHI",
         "District_VN": "Cát Hải",
         "ParentCode": "HPG",
@@ -1776,7 +1776,7 @@
         "District_EN": "Cat Hai"
     },
     {
-        "LocationId": 287,
+        "DistrictId": 287,
         "Code_Local": "HPG-HBVI",
         "District_VN": "Bạch Long Vĩ",
         "ParentCode": "HPG",
@@ -1784,7 +1784,7 @@
         "District_EN": "Bach Long Vi"
     },
     {
-        "LocationId": 288,
+        "DistrictId": 288,
         "Code_Local": "HYN-TPHYN",
         "District_VN": "Hưng Yên",
         "ParentCode": "HYN",
@@ -1792,7 +1792,7 @@
         "District_EN": "Hung Yen"
     },
     {
-        "LocationId": 289,
+        "DistrictId": 289,
         "Code_Local": "HYN-HVLM",
         "District_VN": "Văn Lâm",
         "ParentCode": "HYN",
@@ -1800,7 +1800,7 @@
         "District_EN": "Van Lam"
     },
     {
-        "LocationId": 290,
+        "DistrictId": 290,
         "Code_Local": "HYN-HVGG",
         "District_VN": "Văn Giang",
         "ParentCode": "HYN",
@@ -1808,7 +1808,7 @@
         "District_EN": "Van Giang"
     },
     {
-        "LocationId": 291,
+        "DistrictId": 291,
         "Code_Local": "HYN-HYMY",
         "District_VN": "Yên Mỹ",
         "ParentCode": "HYN",
@@ -1816,7 +1816,7 @@
         "District_EN": "Yen My"
     },
     {
-        "LocationId": 292,
+        "DistrictId": 292,
         "Code_Local": "HYN-HMHO",
         "District_VN": "Mỹ Hào",
         "ParentCode": "HYN",
@@ -1824,7 +1824,7 @@
         "District_EN": "My Hao"
     },
     {
-        "LocationId": 293,
+        "DistrictId": 293,
         "Code_Local": "HYN-HATI",
         "District_VN": "Ân Thi",
         "ParentCode": "HYN",
@@ -1832,7 +1832,7 @@
         "District_EN": "An Thi"
     },
     {
-        "LocationId": 294,
+        "DistrictId": 294,
         "Code_Local": "HYN-HKCU",
         "District_VN": "Khoái Châu",
         "ParentCode": "HYN",
@@ -1840,7 +1840,7 @@
         "District_EN": "Khoai Chau"
     },
     {
-        "LocationId": 295,
+        "DistrictId": 295,
         "Code_Local": "HYN-HKDG",
         "District_VN": "Kim Động",
         "ParentCode": "HYN",
@@ -1848,7 +1848,7 @@
         "District_EN": "Kim Dong"
     },
     {
-        "LocationId": 296,
+        "DistrictId": 296,
         "Code_Local": "HYN-HTLU",
         "District_VN": "Tiên Lữ",
         "ParentCode": "HYN",
@@ -1856,7 +1856,7 @@
         "District_EN": "Tien Lu"
     },
     {
-        "LocationId": 297,
+        "DistrictId": 297,
         "Code_Local": "HYN-HPCU",
         "District_VN": "Phù Cừ",
         "ParentCode": "HYN",
@@ -1864,7 +1864,7 @@
         "District_EN": "Phu Cu"
     },
     {
-        "LocationId": 298,
+        "DistrictId": 298,
         "Code_Local": "TBH-TPTBH",
         "District_VN": "Thái Bình",
         "ParentCode": "TBH",
@@ -1872,7 +1872,7 @@
         "District_EN": "Thai Binh"
     },
     {
-        "LocationId": 299,
+        "DistrictId": 299,
         "Code_Local": "TBH-HQPU",
         "District_VN": "Quỳnh Phụ",
         "ParentCode": "TBH",
@@ -1880,7 +1880,7 @@
         "District_EN": "Quynh Phu"
     },
     {
-        "LocationId": 300,
+        "DistrictId": 300,
         "Code_Local": "TBH-HHHA",
         "District_VN": "Hưng Hà",
         "ParentCode": "TBH",
@@ -1888,7 +1888,7 @@
         "District_EN": "Hung Ha"
     },
     {
-        "LocationId": 301,
+        "DistrictId": 301,
         "Code_Local": "TBH-HDHG",
         "District_VN": "Đông Hưng",
         "ParentCode": "TBH",
@@ -1896,7 +1896,7 @@
         "District_EN": "Dong Hung"
     },
     {
-        "LocationId": 302,
+        "DistrictId": 302,
         "Code_Local": "TBH-HTTY",
         "District_VN": "Thái Thụy",
         "ParentCode": "TBH",
@@ -1904,7 +1904,7 @@
         "District_EN": "Thai Thuy"
     },
     {
-        "LocationId": 303,
+        "DistrictId": 303,
         "Code_Local": "TBH-HTHI",
         "District_VN": "Tiền Hải",
         "ParentCode": "TBH",
@@ -1912,7 +1912,7 @@
         "District_EN": "Tien Hai"
     },
     {
-        "LocationId": 304,
+        "DistrictId": 304,
         "Code_Local": "TBH-HKXG",
         "District_VN": "Kiến Xương",
         "ParentCode": "TBH",
@@ -1920,7 +1920,7 @@
         "District_EN": "Kien Xuong"
     },
     {
-        "LocationId": 305,
+        "DistrictId": 305,
         "Code_Local": "TBH-HVTU",
         "District_VN": "Vũ Thư",
         "ParentCode": "TBH",
@@ -1928,7 +1928,7 @@
         "District_EN": "Vu Thu"
     },
     {
-        "LocationId": 306,
+        "DistrictId": 306,
         "Code_Local": "HNM-TPPLY",
         "District_VN": "Phủ Lý",
         "ParentCode": "HNM",
@@ -1936,7 +1936,7 @@
         "District_EN": "Phu Ly"
     },
     {
-        "LocationId": 307,
+        "DistrictId": 307,
         "Code_Local": "HNM-HDTN",
         "District_VN": "Duy Tiên",
         "ParentCode": "HNM",
@@ -1944,7 +1944,7 @@
         "District_EN": "Duy Tien"
     },
     {
-        "LocationId": 308,
+        "DistrictId": 308,
         "Code_Local": "HNM-HKBG",
         "District_VN": "Kim Bảng",
         "ParentCode": "HNM",
@@ -1952,7 +1952,7 @@
         "District_EN": "Kim Bang"
     },
     {
-        "LocationId": 309,
+        "DistrictId": 309,
         "Code_Local": "HNM-HTLM",
         "District_VN": "Thanh Liêm",
         "ParentCode": "HNM",
@@ -1960,7 +1960,7 @@
         "District_EN": "Thanh Liem"
     },
     {
-        "LocationId": 310,
+        "DistrictId": 310,
         "Code_Local": "HNM-HBLC",
         "District_VN": "Bình Lục",
         "ParentCode": "HNM",
@@ -1968,7 +1968,7 @@
         "District_EN": "Binh Luc"
     },
     {
-        "LocationId": 311,
+        "DistrictId": 311,
         "Code_Local": "HNM-HLNN",
         "District_VN": "Lý Nhân",
         "ParentCode": "HNM",
@@ -1976,7 +1976,7 @@
         "District_EN": "Ly Nhan"
     },
     {
-        "LocationId": 312,
+        "DistrictId": 312,
         "Code_Local": "NDH-TPNDH",
         "District_VN": "Nam Định",
         "ParentCode": "NDH",
@@ -1984,7 +1984,7 @@
         "District_EN": "Nam Dinh"
     },
     {
-        "LocationId": 313,
+        "DistrictId": 313,
         "Code_Local": "NDH-HMLC",
         "District_VN": "Mỹ Lộc",
         "ParentCode": "NDH",
@@ -1992,7 +1992,7 @@
         "District_EN": "My Loc"
     },
     {
-        "LocationId": 314,
+        "DistrictId": 314,
         "Code_Local": "NDH-HVBN",
         "District_VN": "Vụ Bản",
         "ParentCode": "NDH",
@@ -2000,7 +2000,7 @@
         "District_EN": "Vu Ban"
     },
     {
-        "LocationId": 315,
+        "DistrictId": 315,
         "Code_Local": "NDH-HYYN",
         "District_VN": "Ý Yên",
         "ParentCode": "NDH",
@@ -2008,7 +2008,7 @@
         "District_EN": "Y Yen"
     },
     {
-        "LocationId": 316,
+        "DistrictId": 316,
         "Code_Local": "NDH-HNHG",
         "District_VN": "Nghĩa Hưng",
         "ParentCode": "NDH",
@@ -2016,7 +2016,7 @@
         "District_EN": "Nghia Hung"
     },
     {
-        "LocationId": 317,
+        "DistrictId": 317,
         "Code_Local": "NDH-HNTC",
         "District_VN": "Nam Trực",
         "ParentCode": "NDH",
@@ -2024,7 +2024,7 @@
         "District_EN": "Nam Truc"
     },
     {
-        "LocationId": 318,
+        "DistrictId": 318,
         "Code_Local": "NDH-HTNH",
         "District_VN": "Trực Ninh",
         "ParentCode": "NDH",
@@ -2032,7 +2032,7 @@
         "District_EN": "Truc Ninh"
     },
     {
-        "LocationId": 319,
+        "DistrictId": 319,
         "Code_Local": "NDH-HXTG",
         "District_VN": "Xuân Trường",
         "ParentCode": "NDH",
@@ -2040,7 +2040,7 @@
         "District_EN": "Xuan Truong"
     },
     {
-        "LocationId": 320,
+        "DistrictId": 320,
         "Code_Local": "NDH-HGTY",
         "District_VN": "Giao Thủy",
         "ParentCode": "NDH",
@@ -2048,7 +2048,7 @@
         "District_EN": "Giao Thuy"
     },
     {
-        "LocationId": 321,
+        "DistrictId": 321,
         "Code_Local": "NDH-HHHU",
         "District_VN": "Hải Hậu",
         "ParentCode": "NDH",
@@ -2056,7 +2056,7 @@
         "District_EN": "Hai Hau"
     },
     {
-        "LocationId": 322,
+        "DistrictId": 322,
         "Code_Local": "NBH-TPNBH",
         "District_VN": "Ninh Bình",
         "ParentCode": "NBH",
@@ -2064,7 +2064,7 @@
         "District_EN": "Ninh Binh"
     },
     {
-        "LocationId": 323,
+        "DistrictId": 323,
         "Code_Local": "NBH-HTDP",
         "District_VN": "Tam Điệp",
         "ParentCode": "NBH",
@@ -2072,7 +2072,7 @@
         "District_EN": "Tam Diep"
     },
     {
-        "LocationId": 324,
+        "DistrictId": 324,
         "Code_Local": "NBH-HNQN",
         "District_VN": "Nho Quan",
         "ParentCode": "NBH",
@@ -2080,7 +2080,7 @@
         "District_EN": "Nho Quan"
     },
     {
-        "LocationId": 325,
+        "DistrictId": 325,
         "Code_Local": "NBH-HGVN",
         "District_VN": "Gia Viễn",
         "ParentCode": "NBH",
@@ -2088,7 +2088,7 @@
         "District_EN": "Gia Vien"
     },
     {
-        "LocationId": 326,
+        "DistrictId": 326,
         "Code_Local": "NBH-HHLU",
         "District_VN": "Hoa Lư",
         "ParentCode": "NBH",
@@ -2096,7 +2096,7 @@
         "District_EN": "Hoa Lu"
     },
     {
-        "LocationId": 327,
+        "DistrictId": 327,
         "Code_Local": "NBH-HYKH",
         "District_VN": "Yên Khánh",
         "ParentCode": "NBH",
@@ -2104,7 +2104,7 @@
         "District_EN": "Yen Khanh"
     },
     {
-        "LocationId": 328,
+        "DistrictId": 328,
         "Code_Local": "NBH-HKSN",
         "District_VN": "Kim Sơn",
         "ParentCode": "NBH",
@@ -2112,7 +2112,7 @@
         "District_EN": "Kim Son"
     },
     {
-        "LocationId": 329,
+        "DistrictId": 329,
         "Code_Local": "NBH-HYMO",
         "District_VN": "Yên Mô",
         "ParentCode": "NBH",
@@ -2120,7 +2120,7 @@
         "District_EN": "Yen Mo"
     },
     {
-        "LocationId": 330,
+        "DistrictId": 330,
         "Code_Local": "THA-TPTHA",
         "District_VN": "Thanh Hóa",
         "ParentCode": "THA",
@@ -2128,7 +2128,7 @@
         "District_EN": "Thanh Hoa"
     },
     {
-        "LocationId": 331,
+        "DistrictId": 331,
         "Code_Local": "THA-HBSN",
         "District_VN": "Bỉm Sơn",
         "ParentCode": "THA",
@@ -2136,7 +2136,7 @@
         "District_EN": "Bim Son"
     },
     {
-        "LocationId": 332,
+        "DistrictId": 332,
         "Code_Local": "THA-HSSN",
         "District_VN": "Sầm Sơn",
         "ParentCode": "THA",
@@ -2144,7 +2144,7 @@
         "District_EN": "Sam Son"
     },
     {
-        "LocationId": 333,
+        "DistrictId": 333,
         "Code_Local": "THA-HMLT",
         "District_VN": "Mường Lát",
         "ParentCode": "THA",
@@ -2152,7 +2152,7 @@
         "District_EN": "Muong Lat"
     },
     {
-        "LocationId": 334,
+        "DistrictId": 334,
         "Code_Local": "THA-HQHA",
         "District_VN": "Quan Hóa",
         "ParentCode": "THA",
@@ -2160,7 +2160,7 @@
         "District_EN": "Quan Hoa"
     },
     {
-        "LocationId": 335,
+        "DistrictId": 335,
         "Code_Local": "THA-HBTC",
         "District_VN": "Bá Thước",
         "ParentCode": "THA",
@@ -2168,7 +2168,7 @@
         "District_EN": "Ba Thuoc"
     },
     {
-        "LocationId": 336,
+        "DistrictId": 336,
         "Code_Local": "THA-HQSN",
         "District_VN": "Quan Sơn",
         "ParentCode": "THA",
@@ -2176,7 +2176,7 @@
         "District_EN": "Quan Son"
     },
     {
-        "LocationId": 337,
+        "DistrictId": 337,
         "Code_Local": "THA-HLCH",
         "District_VN": "Lang Chánh",
         "ParentCode": "THA",
@@ -2184,7 +2184,7 @@
         "District_EN": "Lang Chanh"
     },
     {
-        "LocationId": 338,
+        "DistrictId": 338,
         "Code_Local": "THA-HNLC",
         "District_VN": "Ngọc Lặc",
         "ParentCode": "THA",
@@ -2192,7 +2192,7 @@
         "District_EN": "Ngoc Lac"
     },
     {
-        "LocationId": 339,
+        "DistrictId": 339,
         "Code_Local": "THA-HCTY",
         "District_VN": "Cẩm Thủy",
         "ParentCode": "THA",
@@ -2200,7 +2200,7 @@
         "District_EN": "Cam Thuy"
     },
     {
-        "LocationId": 340,
+        "DistrictId": 340,
         "Code_Local": "THA-HTTH",
         "District_VN": "Thạch Thành",
         "ParentCode": "THA",
@@ -2208,7 +2208,7 @@
         "District_EN": "Thach Thanh"
     },
     {
-        "LocationId": 341,
+        "DistrictId": 341,
         "Code_Local": "THA-HHTG",
         "District_VN": "Hà Trung",
         "ParentCode": "THA",
@@ -2216,7 +2216,7 @@
         "District_EN": "Ha Trung"
     },
     {
-        "LocationId": 342,
+        "DistrictId": 342,
         "Code_Local": "THA-HVLC",
         "District_VN": "Vĩnh Lộc",
         "ParentCode": "THA",
@@ -2224,7 +2224,7 @@
         "District_EN": "Vinh Loc"
     },
     {
-        "LocationId": 343,
+        "DistrictId": 343,
         "Code_Local": "THA-HYDH",
         "District_VN": "Yên Định",
         "ParentCode": "THA",
@@ -2232,7 +2232,7 @@
         "District_EN": "Yen Dinh"
     },
     {
-        "LocationId": 344,
+        "DistrictId": 344,
         "Code_Local": "THA-HTXN",
         "District_VN": "Thọ Xuân",
         "ParentCode": "THA",
@@ -2240,7 +2240,7 @@
         "District_EN": "Tho Xuan"
     },
     {
-        "LocationId": 345,
+        "DistrictId": 345,
         "Code_Local": "THA-HTGX",
         "District_VN": "Thường Xuân",
         "ParentCode": "THA",
@@ -2248,7 +2248,7 @@
         "District_EN": "Thuong Xuan"
     },
     {
-        "LocationId": 346,
+        "DistrictId": 346,
         "Code_Local": "THA-HTSN",
         "District_VN": "Triệu Sơn",
         "ParentCode": "THA",
@@ -2256,7 +2256,7 @@
         "District_EN": "Trieu Son"
     },
     {
-        "LocationId": 347,
+        "DistrictId": 347,
         "Code_Local": "THA-HTHA",
         "District_VN": "Thiệu Hoá",
         "ParentCode": "THA",
@@ -2264,7 +2264,7 @@
         "District_EN": "Thieu Hoa"
     },
     {
-        "LocationId": 348,
+        "DistrictId": 348,
         "Code_Local": "THA-HHHA",
         "District_VN": "Hoằng Hóa",
         "ParentCode": "THA",
@@ -2272,7 +2272,7 @@
         "District_EN": "Hoang Hoa"
     },
     {
-        "LocationId": 349,
+        "DistrictId": 349,
         "Code_Local": "THA-HHLC",
         "District_VN": "Hậu Lộc",
         "ParentCode": "THA",
@@ -2280,7 +2280,7 @@
         "District_EN": "Hau Loc"
     },
     {
-        "LocationId": 350,
+        "DistrictId": 350,
         "Code_Local": "THA-HNSN",
         "District_VN": "Nga Sơn",
         "ParentCode": "THA",
@@ -2288,7 +2288,7 @@
         "District_EN": "Nga Son"
     },
     {
-        "LocationId": 351,
+        "DistrictId": 351,
         "Code_Local": "THA-HNXN",
         "District_VN": "Như Xuân",
         "ParentCode": "THA",
@@ -2296,7 +2296,7 @@
         "District_EN": "Nhu Xuan"
     },
     {
-        "LocationId": 352,
+        "DistrictId": 352,
         "Code_Local": "THA-HNTH",
         "District_VN": "Như Thanh",
         "ParentCode": "THA",
@@ -2304,7 +2304,7 @@
         "District_EN": "Nhu Thanh"
     },
     {
-        "LocationId": 353,
+        "DistrictId": 353,
         "Code_Local": "THA-HNCG",
         "District_VN": "Nông Cống",
         "ParentCode": "THA",
@@ -2312,7 +2312,7 @@
         "District_EN": "Nong Cong"
     },
     {
-        "LocationId": 354,
+        "DistrictId": 354,
         "Code_Local": "THA-HDSN",
         "District_VN": "Đông Sơn",
         "ParentCode": "THA",
@@ -2320,7 +2320,7 @@
         "District_EN": "Dong Son"
     },
     {
-        "LocationId": 355,
+        "DistrictId": 355,
         "Code_Local": "THA-HQXG",
         "District_VN": "Quảng Xương",
         "ParentCode": "THA",
@@ -2328,7 +2328,7 @@
         "District_EN": "Quang Xuong"
     },
     {
-        "LocationId": 356,
+        "DistrictId": 356,
         "Code_Local": "THA-HTGA",
         "District_VN": "Tĩnh Gia",
         "ParentCode": "THA",
@@ -2336,7 +2336,7 @@
         "District_EN": "Tinh Gia"
     },
     {
-        "LocationId": 357,
+        "DistrictId": 357,
         "Code_Local": "NAN-TPVH",
         "District_VN": "Vinh",
         "ParentCode": "NAN",
@@ -2344,7 +2344,7 @@
         "District_EN": "Vinh"
     },
     {
-        "LocationId": 358,
+        "DistrictId": 358,
         "Code_Local": "NAN-HCLO",
         "District_VN": "Cửa Lò",
         "ParentCode": "NAN",
@@ -2352,7 +2352,7 @@
         "District_EN": "Cua Lo"
     },
     {
-        "LocationId": 359,
+        "DistrictId": 359,
         "Code_Local": "NAN-TXTHA",
         "District_VN": "Thái Hoà",
         "ParentCode": "NAN",
@@ -2360,7 +2360,7 @@
         "District_EN": "Thai Hoa"
     },
     {
-        "LocationId": 360,
+        "DistrictId": 360,
         "Code_Local": "NAN-HQPG",
         "District_VN": "Quế Phong",
         "ParentCode": "NAN",
@@ -2368,7 +2368,7 @@
         "District_EN": "Que Phong"
     },
     {
-        "LocationId": 361,
+        "DistrictId": 361,
         "Code_Local": "NAN-HQCU",
         "District_VN": "Quỳ Châu",
         "ParentCode": "NAN",
@@ -2376,7 +2376,7 @@
         "District_EN": "Quy Chau"
     },
     {
-        "LocationId": 362,
+        "DistrictId": 362,
         "Code_Local": "NAN-HKSN",
         "District_VN": "Kỳ Sơn",
         "ParentCode": "NAN",
@@ -2384,7 +2384,7 @@
         "District_EN": "Ky Son"
     },
     {
-        "LocationId": 363,
+        "DistrictId": 363,
         "Code_Local": "NAN-HTDG",
         "District_VN": "Tương Dương",
         "ParentCode": "NAN",
@@ -2392,7 +2392,7 @@
         "District_EN": "Tuong Duong"
     },
     {
-        "LocationId": 364,
+        "DistrictId": 364,
         "Code_Local": "NAN-HNGN",
         "District_VN": "Nghĩa Đàn",
         "ParentCode": "NAN",
@@ -2400,7 +2400,7 @@
         "District_EN": "Nghia Dan"
     },
     {
-        "LocationId": 365,
+        "DistrictId": 365,
         "Code_Local": "NAN-HQHP",
         "District_VN": "Quỳ Hợp",
         "ParentCode": "NAN",
@@ -2408,7 +2408,7 @@
         "District_EN": "Quy Hop"
     },
     {
-        "LocationId": 366,
+        "DistrictId": 366,
         "Code_Local": "NAN-HQLU",
         "District_VN": "Quỳnh Lưu",
         "ParentCode": "NAN",
@@ -2416,7 +2416,7 @@
         "District_EN": "Quynh Luu"
     },
     {
-        "LocationId": 367,
+        "DistrictId": 367,
         "Code_Local": "NAN-HCCG",
         "District_VN": "Con Cuông",
         "ParentCode": "NAN",
@@ -2424,7 +2424,7 @@
         "District_EN": "Con Cuong"
     },
     {
-        "LocationId": 368,
+        "DistrictId": 368,
         "Code_Local": "NAN-HTKY",
         "District_VN": "Tân Kỳ",
         "ParentCode": "NAN",
@@ -2432,7 +2432,7 @@
         "District_EN": "Tan Ky"
     },
     {
-        "LocationId": 369,
+        "DistrictId": 369,
         "Code_Local": "NAN-HASN",
         "District_VN": "Anh Sơn",
         "ParentCode": "NAN",
@@ -2440,7 +2440,7 @@
         "District_EN": "Anh Son"
     },
     {
-        "LocationId": 370,
+        "DistrictId": 370,
         "Code_Local": "NAN-HDCU",
         "District_VN": "Diễn Châu",
         "ParentCode": "NAN",
@@ -2448,7 +2448,7 @@
         "District_EN": "Dien Chau"
     },
     {
-        "LocationId": 371,
+        "DistrictId": 371,
         "Code_Local": "NAN-HYTH",
         "District_VN": "Yên Thành",
         "ParentCode": "NAN",
@@ -2456,7 +2456,7 @@
         "District_EN": "Yen Thanh"
     },
     {
-        "LocationId": 372,
+        "DistrictId": 372,
         "Code_Local": "NAN-HĐLG",
         "District_VN": "Đô Lương",
         "ParentCode": "NAN",
@@ -2464,7 +2464,7 @@
         "District_EN": "Do Luong"
     },
     {
-        "LocationId": 373,
+        "DistrictId": 373,
         "Code_Local": "NAN-HTCG",
         "District_VN": "Thanh Chương",
         "ParentCode": "NAN",
@@ -2472,7 +2472,7 @@
         "District_EN": "Thanh Chuong"
     },
     {
-        "LocationId": 374,
+        "DistrictId": 374,
         "Code_Local": "NAN-HNLC",
         "District_VN": "Nghi Lộc",
         "ParentCode": "NAN",
@@ -2480,7 +2480,7 @@
         "District_EN": "Nghi Loc"
     },
     {
-        "LocationId": 375,
+        "DistrictId": 375,
         "Code_Local": "NAN-HNDN",
         "District_VN": "Nam Đàn",
         "ParentCode": "NAN",
@@ -2488,7 +2488,7 @@
         "District_EN": "Nam Dan"
     },
     {
-        "LocationId": 376,
+        "DistrictId": 376,
         "Code_Local": "NAN-HHNN",
         "District_VN": "Hưng Nguyên",
         "ParentCode": "NAN",
@@ -2496,7 +2496,7 @@
         "District_EN": "Hung Nguyen"
     },
     {
-        "LocationId": 377,
+        "DistrictId": 377,
         "Code_Local": "HTH-TPHTH",
         "District_VN": "Hà Tĩnh",
         "ParentCode": "HTH",
@@ -2504,7 +2504,7 @@
         "District_EN": "Ha Tinh"
     },
     {
-        "LocationId": 378,
+        "DistrictId": 378,
         "Code_Local": "HTH-HHLH",
         "District_VN": "Hồng Lĩnh",
         "ParentCode": "HTH",
@@ -2512,7 +2512,7 @@
         "District_EN": "Hong Linh"
     },
     {
-        "LocationId": 379,
+        "DistrictId": 379,
         "Code_Local": "HTH-HHSN",
         "District_VN": "Hương Sơn",
         "ParentCode": "HTH",
@@ -2520,7 +2520,7 @@
         "District_EN": "Huong Son"
     },
     {
-        "LocationId": 380,
+        "DistrictId": 380,
         "Code_Local": "HTH-HDTO",
         "District_VN": "Đức Thọ",
         "ParentCode": "HTH",
@@ -2528,7 +2528,7 @@
         "District_EN": "Duc Tho"
     },
     {
-        "LocationId": 381,
+        "DistrictId": 381,
         "Code_Local": "HTH-HVQG",
         "District_VN": "Vũ Quang",
         "ParentCode": "HTH",
@@ -2536,7 +2536,7 @@
         "District_EN": "Vu Quang"
     },
     {
-        "LocationId": 382,
+        "DistrictId": 382,
         "Code_Local": "HTH-HNXN",
         "District_VN": "Nghi Xuân",
         "ParentCode": "HTH",
@@ -2544,7 +2544,7 @@
         "District_EN": "Nghi Xuan"
     },
     {
-        "LocationId": 383,
+        "DistrictId": 383,
         "Code_Local": "HTH-HCLC",
         "District_VN": "Can Lộc",
         "ParentCode": "HTH",
@@ -2552,7 +2552,7 @@
         "District_EN": "Can Loc"
     },
     {
-        "LocationId": 384,
+        "DistrictId": 384,
         "Code_Local": "HTH-HHKE",
         "District_VN": "Hương Khê",
         "ParentCode": "HTH",
@@ -2560,7 +2560,7 @@
         "District_EN": "Huong Khe"
     },
     {
-        "LocationId": 385,
+        "DistrictId": 385,
         "Code_Local": "HTH-HTHA",
         "District_VN": "Thạch Hà",
         "ParentCode": "HTH",
@@ -2568,7 +2568,7 @@
         "District_EN": "Thach Ha"
     },
     {
-        "LocationId": 386,
+        "DistrictId": 386,
         "Code_Local": "HTH-HCXN",
         "District_VN": "Cẩm Xuyên",
         "ParentCode": "HTH",
@@ -2576,7 +2576,7 @@
         "District_EN": "Cam Xuyen"
     },
     {
-        "LocationId": 387,
+        "DistrictId": 387,
         "Code_Local": "HTH-HKAH",
         "District_VN": "Kỳ Anh",
         "ParentCode": "HTH",
@@ -2584,7 +2584,7 @@
         "District_EN": "Ky Anh"
     },
     {
-        "LocationId": 388,
+        "DistrictId": 388,
         "Code_Local": "HTH-HLHA",
         "District_VN": "Lộc Hà",
         "ParentCode": "HTH",
@@ -2592,7 +2592,7 @@
         "District_EN": "Loc Ha"
     },
     {
-        "LocationId": 389,
+        "DistrictId": 389,
         "Code_Local": "QBH-TPDHI",
         "District_VN": "Đồng Hới",
         "ParentCode": "QBH",
@@ -2600,7 +2600,7 @@
         "District_EN": "Dong Hoi"
     },
     {
-        "LocationId": 390,
+        "DistrictId": 390,
         "Code_Local": "QBH-HMHA",
         "District_VN": "Minh Hóa",
         "ParentCode": "QBH",
@@ -2608,7 +2608,7 @@
         "District_EN": "Minh Hoa"
     },
     {
-        "LocationId": 391,
+        "DistrictId": 391,
         "Code_Local": "QBH-HTHA",
         "District_VN": "Tuyên Hóa",
         "ParentCode": "QBH",
@@ -2616,7 +2616,7 @@
         "District_EN": "Tuyen Hoa"
     },
     {
-        "LocationId": 392,
+        "DistrictId": 392,
         "Code_Local": "QBH-HQTH",
         "District_VN": "Quảng Trạch",
         "ParentCode": "QBH",
@@ -2624,7 +2624,7 @@
         "District_EN": "Quang Trach"
     },
     {
-        "LocationId": 393,
+        "DistrictId": 393,
         "Code_Local": "QBH-HBTH",
         "District_VN": "Bố Trạch",
         "ParentCode": "QBH",
@@ -2632,7 +2632,7 @@
         "District_EN": "Bo Trach"
     },
     {
-        "LocationId": 394,
+        "DistrictId": 394,
         "Code_Local": "QBH-HQNH",
         "District_VN": "Quảng Ninh",
         "ParentCode": "QBH",
@@ -2640,7 +2640,7 @@
         "District_EN": "Quang Ninh"
     },
     {
-        "LocationId": 395,
+        "DistrictId": 395,
         "Code_Local": "QBH-HLTY",
         "District_VN": "Lệ Thủy",
         "ParentCode": "QBH",
@@ -2648,7 +2648,7 @@
         "District_EN": "Le Thuy"
     },
     {
-        "LocationId": 396,
+        "DistrictId": 396,
         "Code_Local": "QTI-TPDHA",
         "District_VN": "Đông Hà",
         "ParentCode": "QTI",
@@ -2656,7 +2656,7 @@
         "District_EN": "Dong Ha"
     },
     {
-        "LocationId": 397,
+        "DistrictId": 397,
         "Code_Local": "QTI-HQTI",
         "District_VN": "Quảng Trị",
         "ParentCode": "QTI",
@@ -2664,7 +2664,7 @@
         "District_EN": "Quang Tri"
     },
     {
-        "LocationId": 398,
+        "DistrictId": 398,
         "Code_Local": "QTI-HVLH",
         "District_VN": "Vĩnh Linh",
         "ParentCode": "QTI",
@@ -2672,7 +2672,7 @@
         "District_EN": "Vinh Linh"
     },
     {
-        "LocationId": 399,
+        "DistrictId": 399,
         "Code_Local": "QTI-HHHA",
         "District_VN": "Hướng Hóa",
         "ParentCode": "QTI",
@@ -2680,7 +2680,7 @@
         "District_EN": "Huong Hoa"
     },
     {
-        "LocationId": 400,
+        "DistrictId": 400,
         "Code_Local": "QTI-HGLH",
         "District_VN": "Gio Linh",
         "ParentCode": "QTI",
@@ -2688,7 +2688,7 @@
         "District_EN": "Gio Linh"
     },
     {
-        "LocationId": 401,
+        "DistrictId": 401,
         "Code_Local": "QTI-HDKG",
         "District_VN": "Đa Krông",
         "ParentCode": "QTI",
@@ -2696,7 +2696,7 @@
         "District_EN": "Da Krong"
     },
     {
-        "LocationId": 402,
+        "DistrictId": 402,
         "Code_Local": "QTI-HCLO",
         "District_VN": "Cam Lộ",
         "ParentCode": "QTI",
@@ -2704,7 +2704,7 @@
         "District_EN": "Cam Lo"
     },
     {
-        "LocationId": 403,
+        "DistrictId": 403,
         "Code_Local": "QTI-HTPG",
         "District_VN": "Triệu Phong",
         "ParentCode": "QTI",
@@ -2712,7 +2712,7 @@
         "District_EN": "Trieu Phong"
     },
     {
-        "LocationId": 404,
+        "DistrictId": 404,
         "Code_Local": "QTI-HHLG",
         "District_VN": "Hải Lăng",
         "ParentCode": "QTI",
@@ -2720,7 +2720,7 @@
         "District_EN": "Hai Lang"
     },
     {
-        "LocationId": 405,
+        "DistrictId": 405,
         "Code_Local": "QTI-HCCO",
         "District_VN": "Cồn Cỏ",
         "ParentCode": "QTI",
@@ -2728,7 +2728,7 @@
         "District_EN": "Con Co"
     },
     {
-        "LocationId": 406,
+        "DistrictId": 406,
         "Code_Local": "HUE-TPHE",
         "District_VN": "Huế",
         "ParentCode": "HUE",
@@ -2736,7 +2736,7 @@
         "District_EN": "Hue"
     },
     {
-        "LocationId": 407,
+        "DistrictId": 407,
         "Code_Local": "HUE-HPDN",
         "District_VN": "Phong Điền",
         "ParentCode": "HUE",
@@ -2744,7 +2744,7 @@
         "District_EN": "Phong Dien"
     },
     {
-        "LocationId": 408,
+        "DistrictId": 408,
         "Code_Local": "HUE-HQDN",
         "District_VN": "Quảng Điền",
         "ParentCode": "HUE",
@@ -2752,7 +2752,7 @@
         "District_EN": "Quang Dien"
     },
     {
-        "LocationId": 409,
+        "DistrictId": 409,
         "Code_Local": "HUE-HPVG",
         "District_VN": "Phú Vang",
         "ParentCode": "HUE",
@@ -2760,7 +2760,7 @@
         "District_EN": "Phu Vang"
     },
     {
-        "LocationId": 410,
+        "DistrictId": 410,
         "Code_Local": "HUE-HHTY",
         "District_VN": "Hương Thủy",
         "ParentCode": "HUE",
@@ -2768,7 +2768,7 @@
         "District_EN": "Huong Thuy"
     },
     {
-        "LocationId": 411,
+        "DistrictId": 411,
         "Code_Local": "HUE-HHTA",
         "District_VN": "Hương Trà",
         "ParentCode": "HUE",
@@ -2776,7 +2776,7 @@
         "District_EN": "Huong Tra"
     },
     {
-        "LocationId": 412,
+        "DistrictId": 412,
         "Code_Local": "HUE-HALI",
         "District_VN": "A Lưới",
         "ParentCode": "HUE",
@@ -2784,7 +2784,7 @@
         "District_EN": "A Luoi"
     },
     {
-        "LocationId": 413,
+        "DistrictId": 413,
         "Code_Local": "HUE-HPLC",
         "District_VN": "Phú Lộc",
         "ParentCode": "HUE",
@@ -2792,7 +2792,7 @@
         "District_EN": "Phu Loc"
     },
     {
-        "LocationId": 414,
+        "DistrictId": 414,
         "Code_Local": "HUE-HNDG",
         "District_VN": "Nam Đông",
         "ParentCode": "HUE",
@@ -2800,7 +2800,7 @@
         "District_EN": "Nam Dong"
     },
     {
-        "LocationId": 415,
+        "DistrictId": 415,
         "Code_Local": "DNG-QLCU",
         "District_VN": "Liên Chiểu",
         "ParentCode": "DNG",
@@ -2808,7 +2808,7 @@
         "District_EN": "Lien Chieu"
     },
     {
-        "LocationId": 416,
+        "DistrictId": 416,
         "Code_Local": "DNG-QTKE",
         "District_VN": "Thanh Khê",
         "ParentCode": "DNG",
@@ -2816,7 +2816,7 @@
         "District_EN": "Thanh Khe"
     },
     {
-        "LocationId": 417,
+        "DistrictId": 417,
         "Code_Local": "DNG-QHCU",
         "District_VN": "Hải Châu",
         "ParentCode": "DNG",
@@ -2824,7 +2824,7 @@
         "District_EN": "Hai Chau"
     },
     {
-        "LocationId": 418,
+        "DistrictId": 418,
         "Code_Local": "DNG-QSTA",
         "District_VN": "Sơn Trà",
         "ParentCode": "DNG",
@@ -2832,7 +2832,7 @@
         "District_EN": "Son Tra"
     },
     {
-        "LocationId": 419,
+        "DistrictId": 419,
         "Code_Local": "DNG-QNHSN",
         "District_VN": "Ngũ Hành Sơn",
         "ParentCode": "DNG",
@@ -2840,7 +2840,7 @@
         "District_EN": "Ngu Hanh Son"
     },
     {
-        "LocationId": 420,
+        "DistrictId": 420,
         "Code_Local": "DNG-QCLE",
         "District_VN": "Cẩm Lệ",
         "ParentCode": "DNG",
@@ -2848,7 +2848,7 @@
         "District_EN": "Cam Le"
     },
     {
-        "LocationId": 421,
+        "DistrictId": 421,
         "Code_Local": "DNG-HHVG",
         "District_VN": "Hoà Vang",
         "ParentCode": "DNG",
@@ -2856,7 +2856,7 @@
         "District_EN": "Hoa Vang"
     },
     {
-        "LocationId": 422,
+        "DistrictId": 422,
         "Code_Local": "DNG-QHSA",
         "District_VN": "Hoàng Sa",
         "ParentCode": "DNG",
@@ -2864,7 +2864,7 @@
         "District_EN": "Hoang Sa"
     },
     {
-        "LocationId": 423,
+        "DistrictId": 423,
         "Code_Local": "QNM-TPTKY",
         "District_VN": "Tam Kỳ",
         "ParentCode": "QNM",
@@ -2872,7 +2872,7 @@
         "District_EN": "Tam Ky"
     },
     {
-        "LocationId": 424,
+        "DistrictId": 424,
         "Code_Local": "QNM-HHAN",
         "District_VN": "Hội An",
         "ParentCode": "QNM",
@@ -2880,7 +2880,7 @@
         "District_EN": "Hoi An"
     },
     {
-        "LocationId": 425,
+        "DistrictId": 425,
         "Code_Local": "QNM-HTGG",
         "District_VN": "Tây Giang",
         "ParentCode": "QNM",
@@ -2888,7 +2888,7 @@
         "District_EN": "Tay Giang"
     },
     {
-        "LocationId": 426,
+        "DistrictId": 426,
         "Code_Local": "QNM-HDGG",
         "District_VN": "Đông Giang",
         "ParentCode": "QNM",
@@ -2896,7 +2896,7 @@
         "District_EN": "Dong Giang"
     },
     {
-        "LocationId": 427,
+        "DistrictId": 427,
         "Code_Local": "QNM-HDLC",
         "District_VN": "Đại Lộc",
         "ParentCode": "QNM",
@@ -2904,7 +2904,7 @@
         "District_EN": "Dai Loc"
     },
     {
-        "LocationId": 428,
+        "DistrictId": 428,
         "Code_Local": "QNM-HDBN",
         "District_VN": "Điện Bàn",
         "ParentCode": "QNM",
@@ -2912,7 +2912,7 @@
         "District_EN": "Dien Ban"
     },
     {
-        "LocationId": 429,
+        "DistrictId": 429,
         "Code_Local": "QNM-HDXN",
         "District_VN": "Duy Xuyên",
         "ParentCode": "QNM",
@@ -2920,7 +2920,7 @@
         "District_EN": "Duy Xuyen"
     },
     {
-        "LocationId": 430,
+        "DistrictId": 430,
         "Code_Local": "QNM-HQSN",
         "District_VN": "Quế Sơn",
         "ParentCode": "QNM",
@@ -2928,7 +2928,7 @@
         "District_EN": "Que Son"
     },
     {
-        "LocationId": 431,
+        "DistrictId": 431,
         "Code_Local": "QNM-HNGG",
         "District_VN": "Nam Giang",
         "ParentCode": "QNM",
@@ -2936,7 +2936,7 @@
         "District_EN": "Nam Giang"
     },
     {
-        "LocationId": 432,
+        "DistrictId": 432,
         "Code_Local": "QNM-HPSN",
         "District_VN": "Phước Sơn",
         "ParentCode": "QNM",
@@ -2944,7 +2944,7 @@
         "District_EN": "Phuoc Son"
     },
     {
-        "LocationId": 433,
+        "DistrictId": 433,
         "Code_Local": "QNM-HHDC",
         "District_VN": "Hiệp Đức",
         "ParentCode": "QNM",
@@ -2952,7 +2952,7 @@
         "District_EN": "Hiep Duc"
     },
     {
-        "LocationId": 434,
+        "DistrictId": 434,
         "Code_Local": "QNM-HTBH",
         "District_VN": "Thăng Bình",
         "ParentCode": "QNM",
@@ -2960,7 +2960,7 @@
         "District_EN": "Thang Binh"
     },
     {
-        "LocationId": 435,
+        "DistrictId": 435,
         "Code_Local": "QNM-HTPC",
         "District_VN": "Tiên Phước",
         "ParentCode": "QNM",
@@ -2968,7 +2968,7 @@
         "District_EN": "Tien Phuoc"
     },
     {
-        "LocationId": 436,
+        "DistrictId": 436,
         "Code_Local": "QNM-HBMY",
         "District_VN": "Bắc Trà My",
         "ParentCode": "QNM",
@@ -2976,7 +2976,7 @@
         "District_EN": "Bac Tra My"
     },
     {
-        "LocationId": 437,
+        "DistrictId": 437,
         "Code_Local": "QNM-HNMY",
         "District_VN": "Nam Trà My",
         "ParentCode": "QNM",
@@ -2984,7 +2984,7 @@
         "District_EN": "Nam Tra My"
     },
     {
-        "LocationId": 438,
+        "DistrictId": 438,
         "Code_Local": "QNM-HNTH",
         "District_VN": "Núi Thành",
         "ParentCode": "QNM",
@@ -2992,7 +2992,7 @@
         "District_EN": "Nui Thanh"
     },
     {
-        "LocationId": 439,
+        "DistrictId": 439,
         "Code_Local": "QNM-HPNH",
         "District_VN": "Phú Ninh",
         "ParentCode": "QNM",
@@ -3000,7 +3000,7 @@
         "District_EN": "Phu Ninh"
     },
     {
-        "LocationId": 440,
+        "DistrictId": 440,
         "Code_Local": "QNM-HNSN",
         "District_VN": "Nông Sơn",
         "ParentCode": "QNM",
@@ -3008,7 +3008,7 @@
         "District_EN": "Nong Son"
     },
     {
-        "LocationId": 441,
+        "DistrictId": 441,
         "Code_Local": "QNI-TPQNI",
         "District_VN": "Quảng Ngãi",
         "ParentCode": "QNI",
@@ -3016,7 +3016,7 @@
         "District_EN": "Quang Ngai"
     },
     {
-        "LocationId": 442,
+        "DistrictId": 442,
         "Code_Local": "QNI-HBSN",
         "District_VN": "Bình Sơn",
         "ParentCode": "QNI",
@@ -3024,7 +3024,7 @@
         "District_EN": "Binh Son"
     },
     {
-        "LocationId": 443,
+        "DistrictId": 443,
         "Code_Local": "QNI-HTBG",
         "District_VN": "Trà Bồng",
         "ParentCode": "QNI",
@@ -3032,7 +3032,7 @@
         "District_EN": "Tra Bong"
     },
     {
-        "LocationId": 444,
+        "DistrictId": 444,
         "Code_Local": "QNI-HTTA",
         "District_VN": "Tây Trà",
         "ParentCode": "QNI",
@@ -3040,7 +3040,7 @@
         "District_EN": "Tay Tra"
     },
     {
-        "LocationId": 445,
+        "DistrictId": 445,
         "Code_Local": "QNI-HSTH",
         "District_VN": "Sơn Tịnh",
         "ParentCode": "QNI",
@@ -3048,7 +3048,7 @@
         "District_EN": "Son Tinh"
     },
     {
-        "LocationId": 446,
+        "DistrictId": 446,
         "Code_Local": "QNI-HTNA",
         "District_VN": "Tư Nghĩa",
         "ParentCode": "QNI",
@@ -3056,7 +3056,7 @@
         "District_EN": "Tu Nghia"
     },
     {
-        "LocationId": 447,
+        "DistrictId": 447,
         "Code_Local": "QNI-HSHA",
         "District_VN": "Sơn Hà",
         "ParentCode": "QNI",
@@ -3064,7 +3064,7 @@
         "District_EN": "Son Ha"
     },
     {
-        "LocationId": 448,
+        "DistrictId": 448,
         "Code_Local": "QNI-HSTY",
         "District_VN": "Sơn Tây",
         "ParentCode": "QNI",
@@ -3072,7 +3072,7 @@
         "District_EN": "Son Tay"
     },
     {
-        "LocationId": 449,
+        "DistrictId": 449,
         "Code_Local": "QNI-HMLG",
         "District_VN": "Minh Long",
         "ParentCode": "QNI",
@@ -3080,7 +3080,7 @@
         "District_EN": "Minh Long"
     },
     {
-        "LocationId": 450,
+        "DistrictId": 450,
         "Code_Local": "QNI-HNHH",
         "District_VN": "Nghĩa Hành",
         "ParentCode": "QNI",
@@ -3088,7 +3088,7 @@
         "District_EN": "Nghia Hanh"
     },
     {
-        "LocationId": 451,
+        "DistrictId": 451,
         "Code_Local": "QNI-HMDC",
         "District_VN": "Mộ Đức",
         "ParentCode": "QNI",
@@ -3096,7 +3096,7 @@
         "District_EN": "Mo Duc"
     },
     {
-        "LocationId": 452,
+        "DistrictId": 452,
         "Code_Local": "QNI-HDPO",
         "District_VN": "Đức Phổ",
         "ParentCode": "QNI",
@@ -3104,7 +3104,7 @@
         "District_EN": "Duc Pho"
     },
     {
-        "LocationId": 453,
+        "DistrictId": 453,
         "Code_Local": "QNI-HBTO",
         "District_VN": "Ba Tơ",
         "ParentCode": "QNI",
@@ -3112,7 +3112,7 @@
         "District_EN": "Ba To"
     },
     {
-        "LocationId": 454,
+        "DistrictId": 454,
         "Code_Local": "QNI-HLSN",
         "District_VN": "Lý Sơn",
         "ParentCode": "QNI",
@@ -3120,7 +3120,7 @@
         "District_EN": "Ly Son"
     },
     {
-        "LocationId": 455,
+        "DistrictId": 455,
         "Code_Local": "BDH-TPQNN",
         "District_VN": "Quy Nhơn",
         "ParentCode": "BDH",
@@ -3128,7 +3128,7 @@
         "District_EN": "Quy Nhon"
     },
     {
-        "LocationId": 456,
+        "DistrictId": 456,
         "Code_Local": "BDH-HALO",
         "District_VN": "An Lão",
         "ParentCode": "BDH",
@@ -3136,7 +3136,7 @@
         "District_EN": "An Lao"
     },
     {
-        "LocationId": 457,
+        "DistrictId": 457,
         "Code_Local": "BDH-HHNN",
         "District_VN": "Hoài Nhơn",
         "ParentCode": "BDH",
@@ -3144,7 +3144,7 @@
         "District_EN": "Hoai Nhon"
     },
     {
-        "LocationId": 458,
+        "DistrictId": 458,
         "Code_Local": "BDH-HHAN",
         "District_VN": "Hoài Ân",
         "ParentCode": "BDH",
@@ -3152,7 +3152,7 @@
         "District_EN": "Hoai An"
     },
     {
-        "LocationId": 459,
+        "DistrictId": 459,
         "Code_Local": "BDH-HPMY",
         "District_VN": "Phù Mỹ",
         "ParentCode": "BDH",
@@ -3160,7 +3160,7 @@
         "District_EN": "Phu My"
     },
     {
-        "LocationId": 460,
+        "DistrictId": 460,
         "Code_Local": "BDH-HVTH",
         "District_VN": "Vĩnh Thạnh",
         "ParentCode": "BDH",
@@ -3168,7 +3168,7 @@
         "District_EN": "Vinh Thanh"
     },
     {
-        "LocationId": 461,
+        "DistrictId": 461,
         "Code_Local": "BDH-HTSN",
         "District_VN": "Tây Sơn",
         "ParentCode": "BDH",
@@ -3176,7 +3176,7 @@
         "District_EN": "Tay Son"
     },
     {
-        "LocationId": 462,
+        "DistrictId": 462,
         "Code_Local": "BDH-HPCT",
         "District_VN": "Phù Cát",
         "ParentCode": "BDH",
@@ -3184,7 +3184,7 @@
         "District_EN": "Phu Cat"
     },
     {
-        "LocationId": 463,
+        "DistrictId": 463,
         "Code_Local": "BDH-HANN",
         "District_VN": "An Nhơn",
         "ParentCode": "BDH",
@@ -3192,7 +3192,7 @@
         "District_EN": "An Nhon"
     },
     {
-        "LocationId": 464,
+        "DistrictId": 464,
         "Code_Local": "BDH-HTPC",
         "District_VN": "Tuy Phước",
         "ParentCode": "BDH",
@@ -3200,7 +3200,7 @@
         "District_EN": "Tuy Phuoc"
     },
     {
-        "LocationId": 465,
+        "DistrictId": 465,
         "Code_Local": "BDH-HVCH",
         "District_VN": "Vân Canh",
         "ParentCode": "BDH",
@@ -3208,7 +3208,7 @@
         "District_EN": "Van Canh"
     },
     {
-        "LocationId": 466,
+        "DistrictId": 466,
         "Code_Local": "PYN-TPTHA",
         "District_VN": "Tuy Hòa",
         "ParentCode": "PYN",
@@ -3216,7 +3216,7 @@
         "District_EN": "Tuy Hoa"
     },
     {
-        "LocationId": 467,
+        "DistrictId": 467,
         "Code_Local": "PYN-HSCU",
         "District_VN": "Sông Cầu",
         "ParentCode": "PYN",
@@ -3224,7 +3224,7 @@
         "District_EN": "Song Cau"
     },
     {
-        "LocationId": 468,
+        "DistrictId": 468,
         "Code_Local": "PYN-HDXN",
         "District_VN": "Đồng Xuân",
         "ParentCode": "PYN",
@@ -3232,7 +3232,7 @@
         "District_EN": "Dong Xuan"
     },
     {
-        "LocationId": 469,
+        "DistrictId": 469,
         "Code_Local": "PYN-HTAN",
         "District_VN": "Tuy An",
         "ParentCode": "PYN",
@@ -3240,7 +3240,7 @@
         "District_EN": "Tuy An"
     },
     {
-        "LocationId": 470,
+        "DistrictId": 470,
         "Code_Local": "PYN-HSHA",
         "District_VN": "Sơn Hòa",
         "ParentCode": "PYN",
@@ -3248,7 +3248,7 @@
         "District_EN": "Son Hoa"
     },
     {
-        "LocationId": 471,
+        "DistrictId": 471,
         "Code_Local": "PYN-HSHH",
         "District_VN": "Sông Hinh",
         "ParentCode": "PYN",
@@ -3256,7 +3256,7 @@
         "District_EN": "Song Hinh"
     },
     {
-        "LocationId": 472,
+        "DistrictId": 472,
         "Code_Local": "PYN-HTHA",
         "District_VN": "Tây Hoà",
         "ParentCode": "PYN",
@@ -3264,7 +3264,7 @@
         "District_EN": "Tay Hoa"
     },
     {
-        "LocationId": 473,
+        "DistrictId": 473,
         "Code_Local": "PYN-HPHA",
         "District_VN": "Phú Hoà",
         "ParentCode": "PYN",
@@ -3272,7 +3272,7 @@
         "District_EN": "Phu Hoa"
     },
     {
-        "LocationId": 474,
+        "DistrictId": 474,
         "Code_Local": "PYN-HDHA",
         "District_VN": "Đông Hoà",
         "ParentCode": "PYN",
@@ -3280,7 +3280,7 @@
         "District_EN": "Dong Hoa"
     },
     {
-        "LocationId": 475,
+        "DistrictId": 475,
         "Code_Local": "KHA-TPNTG",
         "District_VN": "Nha Trang",
         "ParentCode": "KHA",
@@ -3288,7 +3288,7 @@
         "District_EN": "Nha Trang"
     },
     {
-        "LocationId": 476,
+        "DistrictId": 476,
         "Code_Local": "KHA-HCRH",
         "District_VN": "Cam Ranh",
         "ParentCode": "KHA",
@@ -3296,7 +3296,7 @@
         "District_EN": "Cam Ranh"
     },
     {
-        "LocationId": 477,
+        "DistrictId": 477,
         "Code_Local": "KHA-HCLM",
         "District_VN": "Cam Lâm",
         "ParentCode": "KHA",
@@ -3304,7 +3304,7 @@
         "District_EN": "Cam Lam"
     },
     {
-        "LocationId": 478,
+        "DistrictId": 478,
         "Code_Local": "KHA-HVNH",
         "District_VN": "Vạn Ninh",
         "ParentCode": "KHA",
@@ -3312,7 +3312,7 @@
         "District_EN": "Van Ninh"
     },
     {
-        "LocationId": 479,
+        "DistrictId": 479,
         "Code_Local": "KHA-HNHA",
         "District_VN": "Ninh Hòa",
         "ParentCode": "KHA",
@@ -3320,7 +3320,7 @@
         "District_EN": "Ninh Hoa"
     },
     {
-        "LocationId": 480,
+        "DistrictId": 480,
         "Code_Local": "KHA-HKVH",
         "District_VN": "Khánh Vĩnh",
         "ParentCode": "KHA",
@@ -3328,7 +3328,7 @@
         "District_EN": "Khanh Vinh"
     },
     {
-        "LocationId": 481,
+        "DistrictId": 481,
         "Code_Local": "KHA-HDKH",
         "District_VN": "Diên Khánh",
         "ParentCode": "KHA",
@@ -3336,7 +3336,7 @@
         "District_EN": "Dien Khanh"
     },
     {
-        "LocationId": 482,
+        "DistrictId": 482,
         "Code_Local": "KHA-HKSN",
         "District_VN": "Khánh Sơn",
         "ParentCode": "KHA",
@@ -3344,7 +3344,7 @@
         "District_EN": "Khanh Son"
     },
     {
-        "LocationId": 483,
+        "DistrictId": 483,
         "Code_Local": "KHA-HTSA",
         "District_VN": "Trường Sa",
         "ParentCode": "KHA",
@@ -3352,7 +3352,7 @@
         "District_EN": "Truong Sa"
     },
     {
-        "LocationId": 484,
+        "DistrictId": 484,
         "Code_Local": "NTN-TPPRG",
         "District_VN": "Phan Rang-Tháp Chàm",
         "ParentCode": "NTN",
@@ -3360,7 +3360,7 @@
         "District_EN": "Phan Rang-Thap Cham"
     },
     {
-        "LocationId": 485,
+        "DistrictId": 485,
         "Code_Local": "NTN-HBAI",
         "District_VN": "Bác Ái",
         "ParentCode": "NTN",
@@ -3368,7 +3368,7 @@
         "District_EN": "Bac Ai"
     },
     {
-        "LocationId": 486,
+        "DistrictId": 486,
         "Code_Local": "NTN-HNSN",
         "District_VN": "Ninh Sơn",
         "ParentCode": "NTN",
@@ -3376,7 +3376,7 @@
         "District_EN": "Ninh Son"
     },
     {
-        "LocationId": 487,
+        "DistrictId": 487,
         "Code_Local": "NTN-HNHI",
         "District_VN": "Ninh Hải",
         "ParentCode": "NTN",
@@ -3384,7 +3384,7 @@
         "District_EN": "Ninh Hai"
     },
     {
-        "LocationId": 488,
+        "DistrictId": 488,
         "Code_Local": "NTN-HNPC",
         "District_VN": "Ninh Phước",
         "ParentCode": "NTN",
@@ -3392,7 +3392,7 @@
         "District_EN": "Ninh Phuoc"
     },
     {
-        "LocationId": 489,
+        "DistrictId": 489,
         "Code_Local": "NTN-HTBC",
         "District_VN": "Thuận Bắc",
         "ParentCode": "NTN",
@@ -3400,7 +3400,7 @@
         "District_EN": "Thuan Bac"
     },
     {
-        "LocationId": 490,
+        "DistrictId": 490,
         "Code_Local": "NTN-HTNM",
         "District_VN": "Thuận Nam",
         "ParentCode": "NTN",
@@ -3408,7 +3408,7 @@
         "District_EN": "Thuan Nam"
     },
     {
-        "LocationId": 491,
+        "DistrictId": 491,
         "Code_Local": "BTN-TPPTT",
         "District_VN": "Phan Thiết",
         "ParentCode": "BTN",
@@ -3416,7 +3416,7 @@
         "District_EN": "Phan Thiet"
     },
     {
-        "LocationId": 492,
+        "DistrictId": 492,
         "Code_Local": "BTN-TXLGI",
         "District_VN": "La Gi",
         "ParentCode": "BTN",
@@ -3424,7 +3424,7 @@
         "District_EN": "La Gi"
     },
     {
-        "LocationId": 493,
+        "DistrictId": 493,
         "Code_Local": "BTN-HTPG",
         "District_VN": "Tuy Phong",
         "ParentCode": "BTN",
@@ -3432,7 +3432,7 @@
         "District_EN": "Tuy Phong"
     },
     {
-        "LocationId": 494,
+        "DistrictId": 494,
         "Code_Local": "BTN-HBBH",
         "District_VN": "Bắc Bình",
         "ParentCode": "BTN",
@@ -3440,7 +3440,7 @@
         "District_EN": "Bac Binh"
     },
     {
-        "LocationId": 495,
+        "DistrictId": 495,
         "Code_Local": "BTN-HHTBC",
         "District_VN": "Hàm Thuận Bắc",
         "ParentCode": "BTN",
@@ -3448,7 +3448,7 @@
         "District_EN": "Ham Thuan Bac"
     },
     {
-        "LocationId": 496,
+        "DistrictId": 496,
         "Code_Local": "BTN-HHTNM",
         "District_VN": "Hàm Thuận Nam",
         "ParentCode": "BTN",
@@ -3456,7 +3456,7 @@
         "District_EN": "Ham Thuan Nam"
     },
     {
-        "LocationId": 497,
+        "DistrictId": 497,
         "Code_Local": "BTN-HTLH",
         "District_VN": "Tánh Linh",
         "ParentCode": "BTN",
@@ -3464,7 +3464,7 @@
         "District_EN": "Tanh Linh"
     },
     {
-        "LocationId": 498,
+        "DistrictId": 498,
         "Code_Local": "BTN-HDLH",
         "District_VN": "Đức Linh",
         "ParentCode": "BTN",
@@ -3472,7 +3472,7 @@
         "District_EN": "Duc Linh"
     },
     {
-        "LocationId": 499,
+        "DistrictId": 499,
         "Code_Local": "BTN-HHTN",
         "District_VN": "Hàm Tân",
         "ParentCode": "BTN",
@@ -3480,7 +3480,7 @@
         "District_EN": "Ham Tan"
     },
     {
-        "LocationId": 500,
+        "DistrictId": 500,
         "Code_Local": "BTN-HPQI",
         "District_VN": "Phú Quí",
         "ParentCode": "BTN",
@@ -3488,7 +3488,7 @@
         "District_EN": "Phu Qui"
     },
     {
-        "LocationId": 501,
+        "DistrictId": 501,
         "Code_Local": "KTM-TPKTM",
         "District_VN": "Kon Tum",
         "ParentCode": "KTM",
@@ -3496,7 +3496,7 @@
         "District_EN": "Kon Tum"
     },
     {
-        "LocationId": 502,
+        "DistrictId": 502,
         "Code_Local": "KTM-HDGI",
         "District_VN": "Đắk Glei",
         "ParentCode": "KTM",
@@ -3504,7 +3504,7 @@
         "District_EN": "Dak Glei"
     },
     {
-        "LocationId": 503,
+        "DistrictId": 503,
         "Code_Local": "KTM-HNHI",
         "District_VN": "Ngọc Hồi",
         "ParentCode": "KTM",
@@ -3512,7 +3512,7 @@
         "District_EN": "Ngoc Hoi"
     },
     {
-        "LocationId": 504,
+        "DistrictId": 504,
         "Code_Local": "KTM-HDTO",
         "District_VN": "Đắk Tô",
         "ParentCode": "KTM",
@@ -3520,7 +3520,7 @@
         "District_EN": "Dak To"
     },
     {
-        "LocationId": 505,
+        "DistrictId": 505,
         "Code_Local": "KTM-HKPG",
         "District_VN": "Kon Plông",
         "ParentCode": "KTM",
@@ -3528,7 +3528,7 @@
         "District_EN": "Kon Plong"
     },
     {
-        "LocationId": 506,
+        "DistrictId": 506,
         "Code_Local": "KTM-HKRY",
         "District_VN": "Kon Rẫy",
         "ParentCode": "KTM",
@@ -3536,7 +3536,7 @@
         "District_EN": "Kon Ray"
     },
     {
-        "LocationId": 507,
+        "DistrictId": 507,
         "Code_Local": "KTM-HDHA",
         "District_VN": "Đắk Hà",
         "ParentCode": "KTM",
@@ -3544,7 +3544,7 @@
         "District_EN": "Dak Ha"
     },
     {
-        "LocationId": 508,
+        "DistrictId": 508,
         "Code_Local": "KTM-HSTY",
         "District_VN": "Sa Thầy",
         "ParentCode": "KTM",
@@ -3552,7 +3552,7 @@
         "District_EN": "Sa Thay"
     },
     {
-        "LocationId": 509,
+        "DistrictId": 509,
         "Code_Local": "KTM-HTMRG",
         "District_VN": "Tu Mơ Rông",
         "ParentCode": "KTM",
@@ -3560,7 +3560,7 @@
         "District_EN": "Tu Mo Rong"
     },
     {
-        "LocationId": 510,
+        "DistrictId": 510,
         "Code_Local": "GLI-TPPKU",
         "District_VN": "Pleiku",
         "ParentCode": "GLI",
@@ -3568,7 +3568,7 @@
         "District_EN": "Pleiku"
     },
     {
-        "LocationId": 511,
+        "DistrictId": 511,
         "Code_Local": "GLI-HAKE",
         "District_VN": "An Khê",
         "ParentCode": "GLI",
@@ -3576,7 +3576,7 @@
         "District_EN": "An Khe"
     },
     {
-        "LocationId": 512,
+        "DistrictId": 512,
         "Code_Local": "GLI-HAPA",
         "District_VN": "Ayun Pa",
         "ParentCode": "GLI",
@@ -3584,7 +3584,7 @@
         "District_EN": "Ayun Pa"
     },
     {
-        "LocationId": 513,
+        "DistrictId": 513,
         "Code_Local": "GLI-HKBG",
         "District_VN": "Kbang",
         "ParentCode": "GLI",
@@ -3592,7 +3592,7 @@
         "District_EN": "Kbang"
     },
     {
-        "LocationId": 514,
+        "DistrictId": 514,
         "Code_Local": "GLI-HDDA",
         "District_VN": "Đăk Đoa",
         "ParentCode": "GLI",
@@ -3600,7 +3600,7 @@
         "District_EN": "Dak Doa"
     },
     {
-        "LocationId": 515,
+        "DistrictId": 515,
         "Code_Local": "GLI-HCPAH",
         "District_VN": "Chư Păh",
         "ParentCode": "GLI",
@@ -3608,7 +3608,7 @@
         "District_EN": "Chu Pah"
     },
     {
-        "LocationId": 516,
+        "DistrictId": 516,
         "Code_Local": "GLI-HLGI",
         "District_VN": "Ia Grai",
         "ParentCode": "GLI",
@@ -3616,7 +3616,7 @@
         "District_EN": "Ia Grai"
     },
     {
-        "LocationId": 517,
+        "DistrictId": 517,
         "Code_Local": "GLI-HMYG",
         "District_VN": "Mang Yang",
         "ParentCode": "GLI",
@@ -3624,7 +3624,7 @@
         "District_EN": "Mang Yang"
     },
     {
-        "LocationId": 518,
+        "DistrictId": 518,
         "Code_Local": "GLI-HKCO",
         "District_VN": "Kông Chro",
         "ParentCode": "GLI",
@@ -3632,7 +3632,7 @@
         "District_EN": "Kong Chro"
     },
     {
-        "LocationId": 519,
+        "DistrictId": 519,
         "Code_Local": "GLI-HDCO",
         "District_VN": "Đức Cơ",
         "ParentCode": "GLI",
@@ -3640,7 +3640,7 @@
         "District_EN": "Duc Co"
     },
     {
-        "LocationId": 520,
+        "DistrictId": 520,
         "Code_Local": "GLI-HCPG",
         "District_VN": "Chư Prông",
         "ParentCode": "GLI",
@@ -3648,7 +3648,7 @@
         "District_EN": "Chu Prong"
     },
     {
-        "LocationId": 521,
+        "DistrictId": 521,
         "Code_Local": "GLI-HCSE",
         "District_VN": "Chư Sê",
         "ParentCode": "GLI",
@@ -3656,7 +3656,7 @@
         "District_EN": "Chu Se"
     },
     {
-        "LocationId": 522,
+        "DistrictId": 522,
         "Code_Local": "GLI-HDPO",
         "District_VN": "Đăk Pơ",
         "ParentCode": "GLI",
@@ -3664,7 +3664,7 @@
         "District_EN": "Dak Po"
     },
     {
-        "LocationId": 523,
+        "DistrictId": 523,
         "Code_Local": "GLI-HIPA",
         "District_VN": "Ia Pa",
         "ParentCode": "GLI",
@@ -3672,7 +3672,7 @@
         "District_EN": "Ia Pa"
     },
     {
-        "LocationId": 524,
+        "DistrictId": 524,
         "Code_Local": "GLI-HKPA",
         "District_VN": "Krông Pa",
         "ParentCode": "GLI",
@@ -3680,7 +3680,7 @@
         "District_EN": "Krong Pa"
     },
     {
-        "LocationId": 525,
+        "DistrictId": 525,
         "Code_Local": "GLI-HPTN",
         "District_VN": "Phú Thiện",
         "ParentCode": "GLI",
@@ -3688,7 +3688,7 @@
         "District_EN": "Phu Thien"
     },
     {
-        "LocationId": 526,
+        "DistrictId": 526,
         "Code_Local": "GLI-HCPH",
         "District_VN": "Chư Pưh",
         "ParentCode": "GLI",
@@ -3696,7 +3696,7 @@
         "District_EN": "Chu Puh"
     },
     {
-        "LocationId": 527,
+        "DistrictId": 527,
         "Code_Local": "DLK-TPBMTT",
         "District_VN": "Buôn Ma Thuột",
         "ParentCode": "DLK",
@@ -3704,7 +3704,7 @@
         "District_EN": "Buon Ma Thuot"
     },
     {
-        "LocationId": 528,
+        "DistrictId": 528,
         "Code_Local": "DLK-HBHO",
         "District_VN": "Buôn Hồ",
         "ParentCode": "DLK",
@@ -3712,7 +3712,7 @@
         "District_EN": "Buon Ho"
     },
     {
-        "LocationId": 529,
+        "DistrictId": 529,
         "Code_Local": "DLK-HEHO",
         "District_VN": "Ea Hleo",
         "ParentCode": "DLK",
@@ -3720,7 +3720,7 @@
         "District_EN": "Ea Hleo"
     },
     {
-        "LocationId": 530,
+        "DistrictId": 530,
         "Code_Local": "DLK-HESP",
         "District_VN": "Ea Súp",
         "ParentCode": "DLK",
@@ -3728,7 +3728,7 @@
         "District_EN": "Ea Sup"
     },
     {
-        "LocationId": 531,
+        "DistrictId": 531,
         "Code_Local": "DLK-HBDN",
         "District_VN": "Buôn Đôn",
         "ParentCode": "DLK",
@@ -3736,7 +3736,7 @@
         "District_EN": "Buon Don"
     },
     {
-        "LocationId": 532,
+        "DistrictId": 532,
         "Code_Local": "DLK-HCMR",
         "District_VN": "Cư Mgar",
         "ParentCode": "DLK",
@@ -3744,7 +3744,7 @@
         "District_EN": "Cu Mgar"
     },
     {
-        "LocationId": 533,
+        "DistrictId": 533,
         "Code_Local": "DLK-HKBK",
         "District_VN": "Krông Búk",
         "ParentCode": "DLK",
@@ -3752,7 +3752,7 @@
         "District_EN": "Krong Buk"
     },
     {
-        "LocationId": 534,
+        "DistrictId": 534,
         "Code_Local": "DLK-HKNG",
         "District_VN": "Krông Năng",
         "ParentCode": "DLK",
@@ -3760,7 +3760,7 @@
         "District_EN": "Krong Nang"
     },
     {
-        "LocationId": 535,
+        "DistrictId": 535,
         "Code_Local": "DLK-HEKR",
         "District_VN": "Ea Kar",
         "ParentCode": "DLK",
@@ -3768,7 +3768,7 @@
         "District_EN": "Ea Kar"
     },
     {
-        "LocationId": 536,
+        "DistrictId": 536,
         "Code_Local": "DLK-HMK",
         "District_VN": "Mđrắk",
         "ParentCode": "DLK",
@@ -3776,7 +3776,7 @@
         "District_EN": "Mdrak"
     },
     {
-        "LocationId": 537,
+        "DistrictId": 537,
         "Code_Local": "DLK-HKBG",
         "District_VN": "Krông Bông",
         "ParentCode": "DLK",
@@ -3784,7 +3784,7 @@
         "District_EN": "Krong Bong"
     },
     {
-        "LocationId": 538,
+        "DistrictId": 538,
         "Code_Local": "DLK-HKPC",
         "District_VN": "Krông Pắc",
         "ParentCode": "DLK",
@@ -3792,7 +3792,7 @@
         "District_EN": "Krong Pac"
     },
     {
-        "LocationId": 539,
+        "DistrictId": 539,
         "Code_Local": "DLK-HKANA",
         "District_VN": "Krông A Na",
         "ParentCode": "DLK",
@@ -3800,7 +3800,7 @@
         "District_EN": "Krong A Na"
     },
     {
-        "LocationId": 540,
+        "DistrictId": 540,
         "Code_Local": "DLK-HLK",
         "District_VN": "Lắk",
         "ParentCode": "DLK",
@@ -3808,7 +3808,7 @@
         "District_EN": "Lak"
     },
     {
-        "LocationId": 541,
+        "DistrictId": 541,
         "Code_Local": "DLK-HCKN",
         "District_VN": "Cư Kuin",
         "ParentCode": "DLK",
@@ -3816,7 +3816,7 @@
         "District_EN": "Cu Kuin"
     },
     {
-        "LocationId": 542,
+        "DistrictId": 542,
         "Code_Local": "DAG-HGNA",
         "District_VN": "Gia Nghĩa",
         "ParentCode": "DAG",
@@ -3824,7 +3824,7 @@
         "District_EN": "Gia Nghia"
     },
     {
-        "LocationId": 543,
+        "DistrictId": 543,
         "Code_Local": "DAG-HDGG",
         "District_VN": "Đắk Glong",
         "ParentCode": "DAG",
@@ -3832,7 +3832,7 @@
         "District_EN": "Dak Glong"
     },
     {
-        "LocationId": 544,
+        "DistrictId": 544,
         "Code_Local": "DAG-HCJT",
         "District_VN": "Cư Jút",
         "ParentCode": "DAG",
@@ -3840,7 +3840,7 @@
         "District_EN": "Cu Jut"
     },
     {
-        "LocationId": 545,
+        "DistrictId": 545,
         "Code_Local": "DAG-HDML",
         "District_VN": "Đắk Mil",
         "ParentCode": "DAG",
@@ -3848,7 +3848,7 @@
         "District_EN": "Dak Mil"
     },
     {
-        "LocationId": 546,
+        "DistrictId": 546,
         "Code_Local": "DAG-HKNO",
         "District_VN": "Krông Nô",
         "ParentCode": "DAG",
@@ -3856,7 +3856,7 @@
         "District_EN": "Krong No"
     },
     {
-        "LocationId": 547,
+        "DistrictId": 547,
         "Code_Local": "DAG-HDSG",
         "District_VN": "Đắk Song",
         "ParentCode": "DAG",
@@ -3864,7 +3864,7 @@
         "District_EN": "Dak Song"
     },
     {
-        "LocationId": 548,
+        "DistrictId": 548,
         "Code_Local": "DAG-HDRP",
         "District_VN": "Đắk Rlấp",
         "ParentCode": "DAG",
@@ -3872,7 +3872,7 @@
         "District_EN": "Dak Rlap"
     },
     {
-        "LocationId": 549,
+        "DistrictId": 549,
         "Code_Local": "DAG-HTDC",
         "District_VN": "Tuy Đức",
         "ParentCode": "DAG",
@@ -3880,7 +3880,7 @@
         "District_EN": "Tuy Duc"
     },
     {
-        "LocationId": 550,
+        "DistrictId": 550,
         "Code_Local": "LDG-TPDLT",
         "District_VN": "Đà Lạt",
         "ParentCode": "LDG",
@@ -3888,7 +3888,7 @@
         "District_EN": "Da Lat"
     },
     {
-        "LocationId": 551,
+        "DistrictId": 551,
         "Code_Local": "LDG-HBLC",
         "District_VN": "Bảo Lộc",
         "ParentCode": "LDG",
@@ -3896,7 +3896,7 @@
         "District_EN": "Bao Loc"
     },
     {
-        "LocationId": 552,
+        "DistrictId": 552,
         "Code_Local": "LDG-HDRG",
         "District_VN": "Đam Rông",
         "ParentCode": "LDG",
@@ -3904,7 +3904,7 @@
         "District_EN": "Dam Rong"
     },
     {
-        "LocationId": 553,
+        "DistrictId": 553,
         "Code_Local": "LDG-HLDG",
         "District_VN": "Lạc Dương",
         "ParentCode": "LDG",
@@ -3912,7 +3912,7 @@
         "District_EN": "Lac Duong"
     },
     {
-        "LocationId": 554,
+        "DistrictId": 554,
         "Code_Local": "LDG-HLHA",
         "District_VN": "Lâm Hà",
         "ParentCode": "LDG",
@@ -3920,7 +3920,7 @@
         "District_EN": "Lam Ha"
     },
     {
-        "LocationId": 555,
+        "DistrictId": 555,
         "Code_Local": "LDG-HDDG",
         "District_VN": "Đơn Dương",
         "ParentCode": "LDG",
@@ -3928,7 +3928,7 @@
         "District_EN": "Don Duong"
     },
     {
-        "LocationId": 556,
+        "DistrictId": 556,
         "Code_Local": "LDG-HDTG",
         "District_VN": "Đức Trọng",
         "ParentCode": "LDG",
@@ -3936,7 +3936,7 @@
         "District_EN": "Duc Trong"
     },
     {
-        "LocationId": 557,
+        "DistrictId": 557,
         "Code_Local": "LDG-HDLH",
         "District_VN": "Di Linh",
         "ParentCode": "LDG",
@@ -3944,7 +3944,7 @@
         "District_EN": "Di Linh"
     },
     {
-        "LocationId": 558,
+        "DistrictId": 558,
         "Code_Local": "LDG-HBLM",
         "District_VN": "Bảo Lâm",
         "ParentCode": "LDG",
@@ -3952,7 +3952,7 @@
         "District_EN": "Bao Lam"
     },
     {
-        "LocationId": 559,
+        "DistrictId": 559,
         "Code_Local": "LDG-HDHI",
         "District_VN": "Đạ Huoai",
         "ParentCode": "LDG",
@@ -3960,7 +3960,7 @@
         "District_EN": "Da Huoai"
     },
     {
-        "LocationId": 560,
+        "DistrictId": 560,
         "Code_Local": "LDG-HDTH",
         "District_VN": "Đạ Tẻh",
         "ParentCode": "LDG",
@@ -3968,7 +3968,7 @@
         "District_EN": "Da Teh"
     },
     {
-        "LocationId": 561,
+        "DistrictId": 561,
         "Code_Local": "LDG-HCTN",
         "District_VN": "Cát Tiên",
         "ParentCode": "LDG",
@@ -3976,7 +3976,7 @@
         "District_EN": "Cat Tien"
     },
     {
-        "LocationId": 562,
+        "DistrictId": 562,
         "Code_Local": "BPC-HDXI",
         "District_VN": "Đồng Xoài",
         "ParentCode": "BPC",
@@ -3984,7 +3984,7 @@
         "District_EN": "Dong Xoai"
     },
     {
-        "LocationId": 563,
+        "DistrictId": 563,
         "Code_Local": "BPC-HPLG",
         "District_VN": "Phước Long",
         "ParentCode": "BPC",
@@ -3992,7 +3992,7 @@
         "District_EN": "Phuoc Long"
     },
     {
-        "LocationId": 564,
+        "DistrictId": 564,
         "Code_Local": "BPC-HBLG",
         "District_VN": "Bình Long",
         "ParentCode": "BPC",
@@ -4000,7 +4000,7 @@
         "District_EN": "Binh Long"
     },
     {
-        "LocationId": 565,
+        "DistrictId": 565,
         "Code_Local": "BPC-HBMP",
         "District_VN": "Bù Gia Mập",
         "ParentCode": "BPC",
@@ -4008,7 +4008,7 @@
         "District_EN": "Bu Gia Map"
     },
     {
-        "LocationId": 566,
+        "DistrictId": 566,
         "Code_Local": "BPC-HLNH",
         "District_VN": "Lộc Ninh",
         "ParentCode": "BPC",
@@ -4016,7 +4016,7 @@
         "District_EN": "Loc Ninh"
     },
     {
-        "LocationId": 567,
+        "DistrictId": 567,
         "Code_Local": "BPC-HBDP",
         "District_VN": "Bù Đốp",
         "ParentCode": "BPC",
@@ -4024,7 +4024,7 @@
         "District_EN": "Bu Dop"
     },
     {
-        "LocationId": 568,
+        "DistrictId": 568,
         "Code_Local": "BPC-HHQN",
         "District_VN": "Hớn Quản",
         "ParentCode": "BPC",
@@ -4032,7 +4032,7 @@
         "District_EN": "Hon Quan"
     },
     {
-        "LocationId": 569,
+        "DistrictId": 569,
         "Code_Local": "BPC-HDPU",
         "District_VN": "Đồng Phú",
         "ParentCode": "BPC",
@@ -4040,7 +4040,7 @@
         "District_EN": "Dong Phu"
     },
     {
-        "LocationId": 570,
+        "DistrictId": 570,
         "Code_Local": "BPC-HBDG",
         "District_VN": "Bù Đăng",
         "ParentCode": "BPC",
@@ -4048,7 +4048,7 @@
         "District_EN": "Bu Dang"
     },
     {
-        "LocationId": 571,
+        "DistrictId": 571,
         "Code_Local": "BPC-HCTH",
         "District_VN": "Chơn Thành",
         "ParentCode": "BPC",
@@ -4056,7 +4056,7 @@
         "District_EN": "Chon Thanh"
     },
     {
-        "LocationId": 572,
+        "DistrictId": 572,
         "Code_Local": "TNH-HTNH",
         "District_VN": "Tây Ninh",
         "ParentCode": "TNH",
@@ -4064,7 +4064,7 @@
         "District_EN": "Tay Ninh"
     },
     {
-        "LocationId": 573,
+        "DistrictId": 573,
         "Code_Local": "TNH-HTBN",
         "District_VN": "Tân Biên",
         "ParentCode": "TNH",
@@ -4072,7 +4072,7 @@
         "District_EN": "Tan Bien"
     },
     {
-        "LocationId": 574,
+        "DistrictId": 574,
         "Code_Local": "TNH-HTCU",
         "District_VN": "Tân Châu",
         "ParentCode": "TNH",
@@ -4080,7 +4080,7 @@
         "District_EN": "Tan Chau"
     },
     {
-        "LocationId": 575,
+        "DistrictId": 575,
         "Code_Local": "TNH-HDMCU",
         "District_VN": "Dương Minh Châu",
         "ParentCode": "TNH",
@@ -4088,7 +4088,7 @@
         "District_EN": "Duong Minh Chau"
     },
     {
-        "LocationId": 576,
+        "DistrictId": 576,
         "Code_Local": "TNH-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "TNH",
@@ -4096,7 +4096,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 577,
+        "DistrictId": 577,
         "Code_Local": "TNH-HHTH",
         "District_VN": "Hòa Thành",
         "ParentCode": "TNH",
@@ -4104,7 +4104,7 @@
         "District_EN": "Hoa Thanh"
     },
     {
-        "LocationId": 578,
+        "DistrictId": 578,
         "Code_Local": "TNH-HGDU",
         "District_VN": "Gò Dầu",
         "ParentCode": "TNH",
@@ -4112,7 +4112,7 @@
         "District_EN": "Go Dau"
     },
     {
-        "LocationId": 579,
+        "DistrictId": 579,
         "Code_Local": "TNH-HBCU",
         "District_VN": "Bến Cầu",
         "ParentCode": "TNH",
@@ -4120,7 +4120,7 @@
         "District_EN": "Ben Cau"
     },
     {
-        "LocationId": 580,
+        "DistrictId": 580,
         "Code_Local": "TNH-HTBG",
         "District_VN": "Trảng Bàng",
         "ParentCode": "TNH",
@@ -4128,7 +4128,7 @@
         "District_EN": "Trang Bang"
     },
     {
-        "LocationId": 581,
+        "DistrictId": 581,
         "Code_Local": "BDG-TPTDMT",
         "District_VN": "Thủ Dầu Một",
         "ParentCode": "BDG",
@@ -4136,7 +4136,7 @@
         "District_EN": "Thu Dau Mot"
     },
     {
-        "LocationId": 582,
+        "DistrictId": 582,
         "Code_Local": "BDG-HDTG",
         "District_VN": "Dầu Tiếng",
         "ParentCode": "BDG",
@@ -4144,7 +4144,7 @@
         "District_EN": "Dau Tieng"
     },
     {
-        "LocationId": 583,
+        "DistrictId": 583,
         "Code_Local": "BDG-HBCT",
         "District_VN": "Bến Cát",
         "ParentCode": "BDG",
@@ -4152,7 +4152,7 @@
         "District_EN": "Ben Cat"
     },
     {
-        "LocationId": 584,
+        "DistrictId": 584,
         "Code_Local": "BDG-HPGO",
         "District_VN": "Phú Giáo",
         "ParentCode": "BDG",
@@ -4160,7 +4160,7 @@
         "District_EN": "Phu Giao"
     },
     {
-        "LocationId": 585,
+        "DistrictId": 585,
         "Code_Local": "BDG-HTUN",
         "District_VN": "Tân Uyên",
         "ParentCode": "BDG",
@@ -4168,7 +4168,7 @@
         "District_EN": "Tan Uyen"
     },
     {
-        "LocationId": 586,
+        "DistrictId": 586,
         "Code_Local": "BDG-HDAN",
         "District_VN": "Dĩ An",
         "ParentCode": "BDG",
@@ -4176,7 +4176,7 @@
         "District_EN": "Di An"
     },
     {
-        "LocationId": 587,
+        "DistrictId": 587,
         "Code_Local": "BDG-HTAN",
         "District_VN": "Thuận An",
         "ParentCode": "BDG",
@@ -4184,7 +4184,7 @@
         "District_EN": "Thuan An"
     },
     {
-        "LocationId": 588,
+        "DistrictId": 588,
         "Code_Local": "DNI-TPBHA",
         "District_VN": "Biên Hòa",
         "ParentCode": "DNI",
@@ -4192,7 +4192,7 @@
         "District_EN": "Bien Hoa"
     },
     {
-        "LocationId": 589,
+        "DistrictId": 589,
         "Code_Local": "DNI-HLKH",
         "District_VN": "Long Khánh",
         "ParentCode": "DNI",
@@ -4200,7 +4200,7 @@
         "District_EN": "Long Khanh"
     },
     {
-        "LocationId": 590,
+        "DistrictId": 590,
         "Code_Local": "DNI-HTPU",
         "District_VN": "Tân Phú",
         "ParentCode": "DNI",
@@ -4208,7 +4208,7 @@
         "District_EN": "Tan Phu"
     },
     {
-        "LocationId": 591,
+        "DistrictId": 591,
         "Code_Local": "DNI-HVCU",
         "District_VN": "Vĩnh Cửu",
         "ParentCode": "DNI",
@@ -4216,7 +4216,7 @@
         "District_EN": "Vinh Cuu"
     },
     {
-        "LocationId": 592,
+        "DistrictId": 592,
         "Code_Local": "DNI-HDQN",
         "District_VN": "Định Quán",
         "ParentCode": "DNI",
@@ -4224,7 +4224,7 @@
         "District_EN": "Dinh Quan"
     },
     {
-        "LocationId": 593,
+        "DistrictId": 593,
         "Code_Local": "DNI-HTBM",
         "District_VN": "Trảng Bom",
         "ParentCode": "DNI",
@@ -4232,7 +4232,7 @@
         "District_EN": "Trang Bom"
     },
     {
-        "LocationId": 594,
+        "DistrictId": 594,
         "Code_Local": "DNI-HTNT",
         "District_VN": "Thống Nhất",
         "ParentCode": "DNI",
@@ -4240,7 +4240,7 @@
         "District_EN": "Thong Nhat"
     },
     {
-        "LocationId": 595,
+        "DistrictId": 595,
         "Code_Local": "DNI-HCMY",
         "District_VN": "Cẩm Mỹ",
         "ParentCode": "DNI",
@@ -4248,7 +4248,7 @@
         "District_EN": "Cam My"
     },
     {
-        "LocationId": 596,
+        "DistrictId": 596,
         "Code_Local": "DNI-HLTH",
         "District_VN": "Long Thành",
         "ParentCode": "DNI",
@@ -4256,7 +4256,7 @@
         "District_EN": "Long Thanh"
     },
     {
-        "LocationId": 597,
+        "DistrictId": 597,
         "Code_Local": "DNI-HXLC",
         "District_VN": "Xuân Lộc",
         "ParentCode": "DNI",
@@ -4264,7 +4264,7 @@
         "District_EN": "Xuan Loc"
     },
     {
-        "LocationId": 598,
+        "DistrictId": 598,
         "Code_Local": "DNI-HNTH",
         "District_VN": "Nhơn Trạch",
         "ParentCode": "DNI",
@@ -4272,7 +4272,7 @@
         "District_EN": "Nhon Trach"
     },
     {
-        "LocationId": 599,
+        "DistrictId": 599,
         "Code_Local": "VTU-TPVTU",
         "District_VN": "Vũng Tàu",
         "ParentCode": "VTU",
@@ -4280,7 +4280,7 @@
         "District_EN": "Vung Tau"
     },
     {
-        "LocationId": 600,
+        "DistrictId": 600,
         "Code_Local": "VTU-TPBRA",
         "District_VN": "Bà Rịa",
         "ParentCode": "VTU",
@@ -4288,7 +4288,7 @@
         "District_EN": "Ba Ria"
     },
     {
-        "LocationId": 601,
+        "DistrictId": 601,
         "Code_Local": "VTU-HCDC",
         "District_VN": "Châu Đức",
         "ParentCode": "VTU",
@@ -4296,7 +4296,7 @@
         "District_EN": "Chau Duc"
     },
     {
-        "LocationId": 602,
+        "DistrictId": 602,
         "Code_Local": "VTU-HXMC",
         "District_VN": "Xuyên Mộc",
         "ParentCode": "VTU",
@@ -4304,7 +4304,7 @@
         "District_EN": "Xuyen Moc"
     },
     {
-        "LocationId": 603,
+        "DistrictId": 603,
         "Code_Local": "VTU-HLDN",
         "District_VN": "Long Điền",
         "ParentCode": "VTU",
@@ -4312,7 +4312,7 @@
         "District_EN": "Long Dien"
     },
     {
-        "LocationId": 604,
+        "DistrictId": 604,
         "Code_Local": "VTU-HDDO",
         "District_VN": "Đất Đỏ",
         "ParentCode": "VTU",
@@ -4320,7 +4320,7 @@
         "District_EN": "Dat Do"
     },
     {
-        "LocationId": 605,
+        "DistrictId": 605,
         "Code_Local": "VTU-TXPMY",
         "District_VN": "Phú Mỹ",
         "ParentCode": "VTU",
@@ -4328,7 +4328,7 @@
         "District_EN": "Phu My"
     },
     {
-        "LocationId": 606,
+        "DistrictId": 606,
         "Code_Local": "VTU-HCDO",
         "District_VN": "Côn Đảo",
         "ParentCode": "VTU",
@@ -4336,7 +4336,7 @@
         "District_EN": "Con Dao"
     },
     {
-        "LocationId": 607,
+        "DistrictId": 607,
         "Code_Local": "SGN-Q1",
         "District_VN": "1",
         "ParentCode": "SGN",
@@ -4344,7 +4344,7 @@
         "District_EN": "1"
     },
     {
-        "LocationId": 608,
+        "DistrictId": 608,
         "Code_Local": "SGN-Q12",
         "District_VN": "12",
         "ParentCode": "SGN",
@@ -4352,7 +4352,7 @@
         "District_EN": "12"
     },
     {
-        "LocationId": 609,
+        "DistrictId": 609,
         "Code_Local": "SGN-QTDC",
         "District_VN": "Thủ Đức",
         "ParentCode": "SGN",
@@ -4360,7 +4360,7 @@
         "District_EN": "Thu Duc"
     },
     {
-        "LocationId": 610,
+        "DistrictId": 610,
         "Code_Local": "SGN-Q9",
         "District_VN": "9",
         "ParentCode": "SGN",
@@ -4368,7 +4368,7 @@
         "District_EN": "9"
     },
     {
-        "LocationId": 611,
+        "DistrictId": 611,
         "Code_Local": "SGN-QGVP",
         "District_VN": "Gò Vấp",
         "ParentCode": "SGN",
@@ -4376,7 +4376,7 @@
         "District_EN": "Go Vap"
     },
     {
-        "LocationId": 612,
+        "DistrictId": 612,
         "Code_Local": "SGN-QBTH",
         "District_VN": "Bình Thạnh",
         "ParentCode": "SGN",
@@ -4384,7 +4384,7 @@
         "District_EN": "Binh Thanh"
     },
     {
-        "LocationId": 613,
+        "DistrictId": 613,
         "Code_Local": "SGN-QTBH",
         "District_VN": "Tân Bình",
         "ParentCode": "SGN",
@@ -4392,7 +4392,7 @@
         "District_EN": "Tan Binh"
     },
     {
-        "LocationId": 614,
+        "DistrictId": 614,
         "Code_Local": "SGN-QTPU",
         "District_VN": "Tân Phú",
         "ParentCode": "SGN",
@@ -4400,7 +4400,7 @@
         "District_EN": "Tan Phu"
     },
     {
-        "LocationId": 615,
+        "DistrictId": 615,
         "Code_Local": "SGN-QPNN",
         "District_VN": "Phú Nhuận",
         "ParentCode": "SGN",
@@ -4408,7 +4408,7 @@
         "District_EN": "Phu Nhuan"
     },
     {
-        "LocationId": 616,
+        "DistrictId": 616,
         "Code_Local": "SGN-Q2",
         "District_VN": "2",
         "ParentCode": "SGN",
@@ -4416,7 +4416,7 @@
         "District_EN": "2"
     },
     {
-        "LocationId": 617,
+        "DistrictId": 617,
         "Code_Local": "SGN-Q3",
         "District_VN": "Quận 3",
         "ParentCode": "SGN",
@@ -4424,7 +4424,7 @@
         "District_EN": "Quan 3"
     },
     {
-        "LocationId": 618,
+        "DistrictId": 618,
         "Code_Local": "SGN-Q10",
         "District_VN": "Quận 10",
         "ParentCode": "SGN",
@@ -4432,7 +4432,7 @@
         "District_EN": "Quan 10"
     },
     {
-        "LocationId": 619,
+        "DistrictId": 619,
         "Code_Local": "SGN-Q11",
         "District_VN": "11",
         "ParentCode": "SGN",
@@ -4440,7 +4440,7 @@
         "District_EN": "11"
     },
     {
-        "LocationId": 620,
+        "DistrictId": 620,
         "Code_Local": "SGN-Q4",
         "District_VN": "4",
         "ParentCode": "SGN",
@@ -4448,7 +4448,7 @@
         "District_EN": "4"
     },
     {
-        "LocationId": 621,
+        "DistrictId": 621,
         "Code_Local": "SGN-Q5",
         "District_VN": "5",
         "ParentCode": "SGN",
@@ -4456,7 +4456,7 @@
         "District_EN": "5"
     },
     {
-        "LocationId": 622,
+        "DistrictId": 622,
         "Code_Local": "SGN-Q6",
         "District_VN": "6",
         "ParentCode": "SGN",
@@ -4464,7 +4464,7 @@
         "District_EN": "6"
     },
     {
-        "LocationId": 623,
+        "DistrictId": 623,
         "Code_Local": "SGN-Q8",
         "District_VN": "8",
         "ParentCode": "SGN",
@@ -4472,7 +4472,7 @@
         "District_EN": "8"
     },
     {
-        "LocationId": 624,
+        "DistrictId": 624,
         "Code_Local": "SGN-QBTN",
         "District_VN": "Bình Tân",
         "ParentCode": "SGN",
@@ -4480,7 +4480,7 @@
         "District_EN": "Binh Tan"
     },
     {
-        "LocationId": 625,
+        "DistrictId": 625,
         "Code_Local": "SGN-Q7",
         "District_VN": "7",
         "ParentCode": "SGN",
@@ -4488,7 +4488,7 @@
         "District_EN": "7"
     },
     {
-        "LocationId": 626,
+        "DistrictId": 626,
         "Code_Local": "SGN-HCCI",
         "District_VN": "Củ Chi",
         "ParentCode": "SGN",
@@ -4496,7 +4496,7 @@
         "District_EN": "Cu Chi"
     },
     {
-        "LocationId": 627,
+        "DistrictId": 627,
         "Code_Local": "SGN-HHMN",
         "District_VN": "Hóc Môn",
         "ParentCode": "SGN",
@@ -4504,7 +4504,7 @@
         "District_EN": "Hoc Mon"
     },
     {
-        "LocationId": 628,
+        "DistrictId": 628,
         "Code_Local": "SGN-HBCH",
         "District_VN": "Bình Chánh",
         "ParentCode": "SGN",
@@ -4512,7 +4512,7 @@
         "District_EN": "Binh Chanh"
     },
     {
-        "LocationId": 629,
+        "DistrictId": 629,
         "Code_Local": "SGN-HNBE",
         "District_VN": "Nhà Bè",
         "ParentCode": "SGN",
@@ -4520,7 +4520,7 @@
         "District_EN": "Nha Be"
     },
     {
-        "LocationId": 630,
+        "DistrictId": 630,
         "Code_Local": "SGN-HCGO",
         "District_VN": "Cần Giờ",
         "ParentCode": "SGN",
@@ -4528,7 +4528,7 @@
         "District_EN": "Can Gio"
     },
     {
-        "LocationId": 631,
+        "DistrictId": 631,
         "Code_Local": "LAN-TPTAN",
         "District_VN": "Tân An",
         "ParentCode": "LAN",
@@ -4536,7 +4536,7 @@
         "District_EN": "Tan An"
     },
     {
-        "LocationId": 632,
+        "DistrictId": 632,
         "Code_Local": "LAN-HTHG",
         "District_VN": "Tân Hưng",
         "ParentCode": "LAN",
@@ -4544,7 +4544,7 @@
         "District_EN": "Tan Hung"
     },
     {
-        "LocationId": 633,
+        "DistrictId": 633,
         "Code_Local": "LAN-HVHG",
         "District_VN": "Vĩnh Hưng",
         "ParentCode": "LAN",
@@ -4552,7 +4552,7 @@
         "District_EN": "Vinh Hung"
     },
     {
-        "LocationId": 634,
+        "DistrictId": 634,
         "Code_Local": "LAN-HMHA",
         "District_VN": "Mộc Hóa",
         "ParentCode": "LAN",
@@ -4560,7 +4560,7 @@
         "District_EN": "Moc Hoa"
     },
     {
-        "LocationId": 635,
+        "DistrictId": 635,
         "Code_Local": "LAN-HTTH",
         "District_VN": "Tân Thạnh",
         "ParentCode": "LAN",
@@ -4568,7 +4568,7 @@
         "District_EN": "Tan Thanh"
     },
     {
-        "LocationId": 636,
+        "DistrictId": 636,
         "Code_Local": "LAN-HTHA",
         "District_VN": "Thạnh Hóa",
         "ParentCode": "LAN",
@@ -4576,7 +4576,7 @@
         "District_EN": "Thanh Hoa"
     },
     {
-        "LocationId": 637,
+        "DistrictId": 637,
         "Code_Local": "LAN-HDHE",
         "District_VN": "Đức Huệ",
         "ParentCode": "LAN",
@@ -4584,7 +4584,7 @@
         "District_EN": "Duc Hue"
     },
     {
-        "LocationId": 638,
+        "DistrictId": 638,
         "Code_Local": "LAN-HDHA",
         "District_VN": "Đức Hòa",
         "ParentCode": "LAN",
@@ -4592,7 +4592,7 @@
         "District_EN": "Duc Hoa"
     },
     {
-        "LocationId": 639,
+        "DistrictId": 639,
         "Code_Local": "LAN-HBLC",
         "District_VN": "Bến Lức",
         "ParentCode": "LAN",
@@ -4600,7 +4600,7 @@
         "District_EN": "Ben Luc"
     },
     {
-        "LocationId": 640,
+        "DistrictId": 640,
         "Code_Local": "LAN-HTTA",
         "District_VN": "Thủ Thừa",
         "ParentCode": "LAN",
@@ -4608,7 +4608,7 @@
         "District_EN": "Thu Thua"
     },
     {
-        "LocationId": 641,
+        "DistrictId": 641,
         "Code_Local": "LAN-HTTU",
         "District_VN": "Tân Trụ",
         "ParentCode": "LAN",
@@ -4616,7 +4616,7 @@
         "District_EN": "Tan Tru"
     },
     {
-        "LocationId": 642,
+        "DistrictId": 642,
         "Code_Local": "LAN-HCDC",
         "District_VN": "Cần Đước",
         "ParentCode": "LAN",
@@ -4624,7 +4624,7 @@
         "District_EN": "Can Duoc"
     },
     {
-        "LocationId": 643,
+        "DistrictId": 643,
         "Code_Local": "LAN-HCGC",
         "District_VN": "Cần Giuộc",
         "ParentCode": "LAN",
@@ -4632,7 +4632,7 @@
         "District_EN": "Can Giuoc"
     },
     {
-        "LocationId": 644,
+        "DistrictId": 644,
         "Code_Local": "LAN-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "LAN",
@@ -4640,7 +4640,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 645,
+        "DistrictId": 645,
         "Code_Local": "TGG-TPMTO",
         "District_VN": "Mỹ Tho",
         "ParentCode": "TGG",
@@ -4648,7 +4648,7 @@
         "District_EN": "My Tho"
     },
     {
-        "LocationId": 646,
+        "DistrictId": 646,
         "Code_Local": "TGG-HGCG",
         "District_VN": "Gò Công",
         "ParentCode": "TGG",
@@ -4656,7 +4656,7 @@
         "District_EN": "Go Cong"
     },
     {
-        "LocationId": 647,
+        "DistrictId": 647,
         "Code_Local": "TGG-HTPC",
         "District_VN": "Tân Phước",
         "ParentCode": "TGG",
@@ -4664,7 +4664,7 @@
         "District_EN": "Tan Phuoc"
     },
     {
-        "LocationId": 648,
+        "DistrictId": 648,
         "Code_Local": "TGG-HCBE",
         "District_VN": "Cái Bè",
         "ParentCode": "TGG",
@@ -4672,7 +4672,7 @@
         "District_EN": "Cai Be"
     },
     {
-        "LocationId": 649,
+        "DistrictId": 649,
         "Code_Local": "TGG-HCLY",
         "District_VN": "Cai Lậy",
         "ParentCode": "TGG",
@@ -4680,7 +4680,7 @@
         "District_EN": "Cai Lay"
     },
     {
-        "LocationId": 650,
+        "DistrictId": 650,
         "Code_Local": "TGG-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "TGG",
@@ -4688,7 +4688,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 651,
+        "DistrictId": 651,
         "Code_Local": "TGG-HCGO",
         "District_VN": "Chợ Gạo",
         "ParentCode": "TGG",
@@ -4696,7 +4696,7 @@
         "District_EN": "Cho Gao"
     },
     {
-        "LocationId": 652,
+        "DistrictId": 652,
         "Code_Local": "TGG-HGTY",
         "District_VN": "Gò Công Tây",
         "ParentCode": "TGG",
@@ -4704,7 +4704,7 @@
         "District_EN": "Go Cong Tay"
     },
     {
-        "LocationId": 653,
+        "DistrictId": 653,
         "Code_Local": "TGG-HGDG",
         "District_VN": "Gò Công Đông",
         "ParentCode": "TGG",
@@ -4712,7 +4712,7 @@
         "District_EN": "Go Cong Dong"
     },
     {
-        "LocationId": 654,
+        "DistrictId": 654,
         "Code_Local": "TGG-HTDG",
         "District_VN": "Tân Phú Đông",
         "ParentCode": "TGG",
@@ -4720,7 +4720,7 @@
         "District_EN": "Tan Phu Dong"
     },
     {
-        "LocationId": 655,
+        "DistrictId": 655,
         "Code_Local": "BTE-TPBTE",
         "District_VN": "Bến Tre",
         "ParentCode": "BTE",
@@ -4728,7 +4728,7 @@
         "District_EN": "Ben Tre"
     },
     {
-        "LocationId": 656,
+        "DistrictId": 656,
         "Code_Local": "BTE-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "BTE",
@@ -4736,7 +4736,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 657,
+        "DistrictId": 657,
         "Code_Local": "BTE-HCLH",
         "District_VN": "Chợ Lách",
         "ParentCode": "BTE",
@@ -4744,7 +4744,7 @@
         "District_EN": "Cho Lach"
     },
     {
-        "LocationId": 658,
+        "DistrictId": 658,
         "Code_Local": "BTE-HMNM",
         "District_VN": "Mỏ Cày Nam",
         "ParentCode": "BTE",
@@ -4752,7 +4752,7 @@
         "District_EN": "Mo Cay Nam"
     },
     {
-        "LocationId": 659,
+        "DistrictId": 659,
         "Code_Local": "BTE-HGTM",
         "District_VN": "Giồng Trôm",
         "ParentCode": "BTE",
@@ -4760,7 +4760,7 @@
         "District_EN": "Giong Trom"
     },
     {
-        "LocationId": 660,
+        "DistrictId": 660,
         "Code_Local": "BTE-HBDI",
         "District_VN": "Bình Đại",
         "ParentCode": "BTE",
@@ -4768,7 +4768,7 @@
         "District_EN": "Binh Dai"
     },
     {
-        "LocationId": 661,
+        "DistrictId": 661,
         "Code_Local": "BTE-HBTI",
         "District_VN": "Ba Tri",
         "ParentCode": "BTE",
@@ -4776,7 +4776,7 @@
         "District_EN": "Ba Tri"
     },
     {
-        "LocationId": 662,
+        "DistrictId": 662,
         "Code_Local": "BTE-HTPU",
         "District_VN": "Thạnh Phú",
         "ParentCode": "BTE",
@@ -4784,7 +4784,7 @@
         "District_EN": "Thanh Phu"
     },
     {
-        "LocationId": 663,
+        "DistrictId": 663,
         "Code_Local": "BTE-HMBC",
         "District_VN": "Mỏ Cày Bắc",
         "ParentCode": "BTE",
@@ -4792,7 +4792,7 @@
         "District_EN": "Mo Cay Bac"
     },
     {
-        "LocationId": 664,
+        "DistrictId": 664,
         "Code_Local": "TVH-TPTVH",
         "District_VN": "Trà Vinh",
         "ParentCode": "TVH",
@@ -4800,7 +4800,7 @@
         "District_EN": "Tra Vinh"
     },
     {
-        "LocationId": 665,
+        "DistrictId": 665,
         "Code_Local": "TVH-HCLG",
         "District_VN": "Càng Long",
         "ParentCode": "TVH",
@@ -4808,7 +4808,7 @@
         "District_EN": "Cang Long"
     },
     {
-        "LocationId": 666,
+        "DistrictId": 666,
         "Code_Local": "TVH-HCKE",
         "District_VN": "Cầu Kè",
         "ParentCode": "TVH",
@@ -4816,7 +4816,7 @@
         "District_EN": "Cau Ke"
     },
     {
-        "LocationId": 667,
+        "DistrictId": 667,
         "Code_Local": "TVH-HTCN",
         "District_VN": "Tiểu Cần",
         "ParentCode": "TVH",
@@ -4824,7 +4824,7 @@
         "District_EN": "Tieu Can"
     },
     {
-        "LocationId": 668,
+        "DistrictId": 668,
         "Code_Local": "TVH-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "TVH",
@@ -4832,7 +4832,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 669,
+        "DistrictId": 669,
         "Code_Local": "TVH-HCNG",
         "District_VN": "Cầu Ngang",
         "ParentCode": "TVH",
@@ -4840,7 +4840,7 @@
         "District_EN": "Cau Ngang"
     },
     {
-        "LocationId": 670,
+        "DistrictId": 670,
         "Code_Local": "TVH-HTCU",
         "District_VN": "Trà Cú",
         "ParentCode": "TVH",
@@ -4848,7 +4848,7 @@
         "District_EN": "Tra Cu"
     },
     {
-        "LocationId": 671,
+        "DistrictId": 671,
         "Code_Local": "TVH-HDHI",
         "District_VN": "Duyên Hải",
         "ParentCode": "TVH",
@@ -4856,7 +4856,7 @@
         "District_EN": "Duyen Hai"
     },
     {
-        "LocationId": 672,
+        "DistrictId": 672,
         "Code_Local": "VLG-TPVLG",
         "District_VN": "Vĩnh Long",
         "ParentCode": "VLG",
@@ -4864,7 +4864,7 @@
         "District_EN": "Vinh Long"
     },
     {
-        "LocationId": 673,
+        "DistrictId": 673,
         "Code_Local": "VLG-HLHO",
         "District_VN": "Long Hồ",
         "ParentCode": "VLG",
@@ -4872,7 +4872,7 @@
         "District_EN": "Long Ho"
     },
     {
-        "LocationId": 674,
+        "DistrictId": 674,
         "Code_Local": "VLG-HMTT",
         "District_VN": "Mang Thít",
         "ParentCode": "VLG",
@@ -4880,7 +4880,7 @@
         "District_EN": "Mang Thit"
     },
     {
-        "LocationId": 675,
+        "DistrictId": 675,
         "Code_Local": "VLG-HVLM",
         "District_VN": "Vũng Liêm",
         "ParentCode": "VLG",
@@ -4888,7 +4888,7 @@
         "District_EN": "Vung Liem"
     },
     {
-        "LocationId": 676,
+        "DistrictId": 676,
         "Code_Local": "VLG-HTBH",
         "District_VN": "Tam Bình",
         "ParentCode": "VLG",
@@ -4896,7 +4896,7 @@
         "District_EN": "Tam Binh"
     },
     {
-        "LocationId": 677,
+        "DistrictId": 677,
         "Code_Local": "VLG-HBMH",
         "District_VN": "Bình Minh",
         "ParentCode": "VLG",
@@ -4904,7 +4904,7 @@
         "District_EN": "Binh Minh"
     },
     {
-        "LocationId": 678,
+        "DistrictId": 678,
         "Code_Local": "VLG-HTON",
         "District_VN": "Trà Ôn",
         "ParentCode": "VLG",
@@ -4912,7 +4912,7 @@
         "District_EN": "Tra On"
     },
     {
-        "LocationId": 679,
+        "DistrictId": 679,
         "Code_Local": "VLG-HBTN",
         "District_VN": "Bình Tân",
         "ParentCode": "VLG",
@@ -4920,7 +4920,7 @@
         "District_EN": "Binh Tan"
     },
     {
-        "LocationId": 680,
+        "DistrictId": 680,
         "Code_Local": "DTP-TPCLH",
         "District_VN": "Cao Lãnh",
         "ParentCode": "DTP",
@@ -4928,7 +4928,7 @@
         "District_EN": "Cao Lanh"
     },
     {
-        "LocationId": 681,
+        "DistrictId": 681,
         "Code_Local": "DTP-TPSDC",
         "District_VN": "Sa Đéc",
         "ParentCode": "DTP",
@@ -4936,7 +4936,7 @@
         "District_EN": "Sa Dec"
     },
     {
-        "LocationId": 683,
+        "DistrictId": 683,
         "Code_Local": "DTP-HTHG",
         "District_VN": "Tân Hồng",
         "ParentCode": "DTP",
@@ -4944,7 +4944,7 @@
         "District_EN": "Tan Hong"
     },
     {
-        "LocationId": 684,
+        "DistrictId": 684,
         "Code_Local": "DTP-HHNU",
         "District_VN": "Hồng Ngự",
         "ParentCode": "DTP",
@@ -4952,7 +4952,7 @@
         "District_EN": "Hong Ngu"
     },
     {
-        "LocationId": 685,
+        "DistrictId": 685,
         "Code_Local": "DTP-HTNG",
         "District_VN": "Tam Nông",
         "ParentCode": "DTP",
@@ -4960,7 +4960,7 @@
         "District_EN": "Tam Nong"
     },
     {
-        "LocationId": 686,
+        "DistrictId": 686,
         "Code_Local": "DTP-HTMI",
         "District_VN": "Tháp Mười",
         "ParentCode": "DTP",
@@ -4968,7 +4968,7 @@
         "District_EN": "Thap Muoi"
     },
     {
-        "LocationId": 687,
+        "DistrictId": 687,
         "Code_Local": "DTP-HCLH",
         "District_VN": "Cao Lãnh",
         "ParentCode": "DTP",
@@ -4976,7 +4976,7 @@
         "District_EN": "Cao Lanh"
     },
     {
-        "LocationId": 688,
+        "DistrictId": 688,
         "Code_Local": "DTP-HTBH",
         "District_VN": "Thanh Bình",
         "ParentCode": "DTP",
@@ -4984,7 +4984,7 @@
         "District_EN": "Thanh Binh"
     },
     {
-        "LocationId": 689,
+        "DistrictId": 689,
         "Code_Local": "DTP-HLVO",
         "District_VN": "Lấp Vò",
         "ParentCode": "DTP",
@@ -4992,7 +4992,7 @@
         "District_EN": "Lap Vo"
     },
     {
-        "LocationId": 690,
+        "DistrictId": 690,
         "Code_Local": "DTP-HLVG",
         "District_VN": "Lai Vung",
         "ParentCode": "DTP",
@@ -5000,7 +5000,7 @@
         "District_EN": "Lai Vung"
     },
     {
-        "LocationId": 691,
+        "DistrictId": 691,
         "Code_Local": "DTP-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "DTP",
@@ -5008,7 +5008,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 692,
+        "DistrictId": 692,
         "Code_Local": "AGG-TPLXN",
         "District_VN": "Long Xuyên",
         "ParentCode": "AGG",
@@ -5016,7 +5016,7 @@
         "District_EN": "Long Xuyen"
     },
     {
-        "LocationId": 693,
+        "DistrictId": 693,
         "Code_Local": "AGG-HCDC",
         "District_VN": "Châu Đốc",
         "ParentCode": "AGG",
@@ -5024,7 +5024,7 @@
         "District_EN": "Chau Doc"
     },
     {
-        "LocationId": 694,
+        "DistrictId": 694,
         "Code_Local": "AGG-HAPU",
         "District_VN": "An Phú",
         "ParentCode": "AGG",
@@ -5032,7 +5032,7 @@
         "District_EN": "An Phu"
     },
     {
-        "LocationId": 695,
+        "DistrictId": 695,
         "Code_Local": "AGG-HTCU",
         "District_VN": "Tân Châu",
         "ParentCode": "AGG",
@@ -5040,7 +5040,7 @@
         "District_EN": "Tan Chau"
     },
     {
-        "LocationId": 696,
+        "DistrictId": 696,
         "Code_Local": "AGG-HPTN",
         "District_VN": "Phú Tân",
         "ParentCode": "AGG",
@@ -5048,7 +5048,7 @@
         "District_EN": "Phu Tan"
     },
     {
-        "LocationId": 697,
+        "DistrictId": 697,
         "Code_Local": "AGG-HCPU",
         "District_VN": "Châu Phú",
         "ParentCode": "AGG",
@@ -5056,7 +5056,7 @@
         "District_EN": "Chau Phu"
     },
     {
-        "LocationId": 698,
+        "DistrictId": 698,
         "Code_Local": "AGG-HTBN",
         "District_VN": "Tịnh Biên",
         "ParentCode": "AGG",
@@ -5064,7 +5064,7 @@
         "District_EN": "Tinh Bien"
     },
     {
-        "LocationId": 699,
+        "DistrictId": 699,
         "Code_Local": "AGG-HTTN",
         "District_VN": "Tri Tôn",
         "ParentCode": "AGG",
@@ -5072,7 +5072,7 @@
         "District_EN": "Tri Ton"
     },
     {
-        "LocationId": 700,
+        "DistrictId": 700,
         "Code_Local": "AGG-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "AGG",
@@ -5080,7 +5080,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 701,
+        "DistrictId": 701,
         "Code_Local": "AGG-HCMI",
         "District_VN": "Chợ Mới",
         "ParentCode": "AGG",
@@ -5088,7 +5088,7 @@
         "District_EN": "Cho Moi"
     },
     {
-        "LocationId": 702,
+        "DistrictId": 702,
         "Code_Local": "AGG-HTSN",
         "District_VN": "Thoại Sơn",
         "ParentCode": "AGG",
@@ -5096,7 +5096,7 @@
         "District_EN": "Thoai Son"
     },
     {
-        "LocationId": 703,
+        "DistrictId": 703,
         "Code_Local": "KGG-TPRGA",
         "District_VN": "Rạch Giá",
         "ParentCode": "KGG",
@@ -5104,7 +5104,7 @@
         "District_EN": "Rach Gia"
     },
     {
-        "LocationId": 704,
+        "DistrictId": 704,
         "Code_Local": "KGG-HHTN",
         "District_VN": "Hà Tiên",
         "ParentCode": "KGG",
@@ -5112,7 +5112,7 @@
         "District_EN": "Ha Tien"
     },
     {
-        "LocationId": 705,
+        "DistrictId": 705,
         "Code_Local": "KGG-HKLG",
         "District_VN": "Kiên Lương",
         "ParentCode": "KGG",
@@ -5120,7 +5120,7 @@
         "District_EN": "Kien Luong"
     },
     {
-        "LocationId": 706,
+        "DistrictId": 706,
         "Code_Local": "KGG-HHDT",
         "District_VN": "Hòn Đất",
         "ParentCode": "KGG",
@@ -5128,7 +5128,7 @@
         "District_EN": "Hon Dat"
     },
     {
-        "LocationId": 707,
+        "DistrictId": 707,
         "Code_Local": "KGG-HTHP",
         "District_VN": "Tân Hiệp",
         "ParentCode": "KGG",
@@ -5136,7 +5136,7 @@
         "District_EN": "Tan Hiep"
     },
     {
-        "LocationId": 708,
+        "DistrictId": 708,
         "Code_Local": "KGG-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "KGG",
@@ -5144,7 +5144,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 709,
+        "DistrictId": 709,
         "Code_Local": "KGG-HGGG",
         "District_VN": "Giồng Giềng",
         "ParentCode": "KGG",
@@ -5152,7 +5152,7 @@
         "District_EN": "Giong Gieng"
     },
     {
-        "LocationId": 710,
+        "DistrictId": 710,
         "Code_Local": "KGG-HGQO",
         "District_VN": "Gò Quao",
         "ParentCode": "KGG",
@@ -5160,7 +5160,7 @@
         "District_EN": "Go Quao"
     },
     {
-        "LocationId": 711,
+        "DistrictId": 711,
         "Code_Local": "KGG-HABN",
         "District_VN": "An Biên",
         "ParentCode": "KGG",
@@ -5168,7 +5168,7 @@
         "District_EN": "An Bien"
     },
     {
-        "LocationId": 712,
+        "DistrictId": 712,
         "Code_Local": "KGG-HAMH",
         "District_VN": "An Minh",
         "ParentCode": "KGG",
@@ -5176,7 +5176,7 @@
         "District_EN": "An Minh"
     },
     {
-        "LocationId": 713,
+        "DistrictId": 713,
         "Code_Local": "KGG-HVTN",
         "District_VN": "Vĩnh Thuận",
         "ParentCode": "KGG",
@@ -5184,7 +5184,7 @@
         "District_EN": "Vinh Thuan"
     },
     {
-        "LocationId": 714,
+        "DistrictId": 714,
         "Code_Local": "KGG-HPQC",
         "District_VN": "Phú Quốc",
         "ParentCode": "KGG",
@@ -5192,7 +5192,7 @@
         "District_EN": "Phu Quoc"
     },
     {
-        "LocationId": 715,
+        "DistrictId": 715,
         "Code_Local": "KGG-HKHI",
         "District_VN": "Kiên Hải",
         "ParentCode": "KGG",
@@ -5200,7 +5200,7 @@
         "District_EN": "Kien Hai"
     },
     {
-        "LocationId": 716,
+        "DistrictId": 716,
         "Code_Local": "KGG-HUMTG",
         "District_VN": "U Minh Thượng",
         "ParentCode": "KGG",
@@ -5208,7 +5208,7 @@
         "District_EN": "U Minh Thuong"
     },
     {
-        "LocationId": 717,
+        "DistrictId": 717,
         "Code_Local": "KGG-HGTH",
         "District_VN": "Giang Thành",
         "ParentCode": "KGG",
@@ -5216,7 +5216,7 @@
         "District_EN": "Giang Thanh"
     },
     {
-        "LocationId": 718,
+        "DistrictId": 718,
         "Code_Local": "CTO-QNKU",
         "District_VN": "Ninh Kiều",
         "ParentCode": "CTO",
@@ -5224,7 +5224,7 @@
         "District_EN": "Ninh Kieu"
     },
     {
-        "LocationId": 719,
+        "DistrictId": 719,
         "Code_Local": "CTO-QOMN",
         "District_VN": "Ô Môn",
         "ParentCode": "CTO",
@@ -5232,7 +5232,7 @@
         "District_EN": "O Mon"
     },
     {
-        "LocationId": 720,
+        "DistrictId": 720,
         "Code_Local": "CTO-QBTY",
         "District_VN": "Bình Thuỷ",
         "ParentCode": "CTO",
@@ -5240,7 +5240,7 @@
         "District_EN": "Binh Thuy"
     },
     {
-        "LocationId": 721,
+        "DistrictId": 721,
         "Code_Local": "CTO-QCRG",
         "District_VN": "Cái Răng",
         "ParentCode": "CTO",
@@ -5248,7 +5248,7 @@
         "District_EN": "Cai Rang"
     },
     {
-        "LocationId": 722,
+        "DistrictId": 722,
         "Code_Local": "CTO-HTNT",
         "District_VN": "Thốt Nốt",
         "ParentCode": "CTO",
@@ -5256,7 +5256,7 @@
         "District_EN": "Thot Not"
     },
     {
-        "LocationId": 723,
+        "DistrictId": 723,
         "Code_Local": "CTO-HVTH",
         "District_VN": "Vĩnh Thạnh",
         "ParentCode": "CTO",
@@ -5264,7 +5264,7 @@
         "District_EN": "Vinh Thanh"
     },
     {
-        "LocationId": 724,
+        "DistrictId": 724,
         "Code_Local": "CTO-HCDO",
         "District_VN": "Cờ Đỏ",
         "ParentCode": "CTO",
@@ -5272,7 +5272,7 @@
         "District_EN": "Co Do"
     },
     {
-        "LocationId": 725,
+        "DistrictId": 725,
         "Code_Local": "CTO-HPDN",
         "District_VN": "Phong Điền",
         "ParentCode": "CTO",
@@ -5280,7 +5280,7 @@
         "District_EN": "Phong Dien"
     },
     {
-        "LocationId": 726,
+        "DistrictId": 726,
         "Code_Local": "CTO-QTLI",
         "District_VN": "Thới Lai",
         "ParentCode": "CTO",
@@ -5288,7 +5288,7 @@
         "District_EN": "Thoi Lai"
     },
     {
-        "LocationId": 727,
+        "DistrictId": 727,
         "Code_Local": "HGG-TPVTH",
         "District_VN": "Vị Thanh",
         "ParentCode": "HGG",
@@ -5296,7 +5296,7 @@
         "District_EN": "Vi Thanh"
     },
     {
-        "LocationId": 728,
+        "DistrictId": 728,
         "Code_Local": "HGG-HNBY",
         "District_VN": "Ngã Bảy",
         "ParentCode": "HGG",
@@ -5304,7 +5304,7 @@
         "District_EN": "Nga Bay"
     },
     {
-        "LocationId": 729,
+        "DistrictId": 729,
         "Code_Local": "HGG-HCTA",
         "District_VN": "Châu Thành A",
         "ParentCode": "HGG",
@@ -5312,7 +5312,7 @@
         "District_EN": "Chau Thanh A"
     },
     {
-        "LocationId": 730,
+        "DistrictId": 730,
         "Code_Local": "HGG-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "HGG",
@@ -5320,7 +5320,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 731,
+        "DistrictId": 731,
         "Code_Local": "HGG-HPHP",
         "District_VN": "Phụng Hiệp",
         "ParentCode": "HGG",
@@ -5328,7 +5328,7 @@
         "District_EN": "Phung Hiep"
     },
     {
-        "LocationId": 732,
+        "DistrictId": 732,
         "Code_Local": "HGG-HVTY",
         "District_VN": "Vị Thuỷ",
         "ParentCode": "HGG",
@@ -5336,7 +5336,7 @@
         "District_EN": "Vi Thuy"
     },
     {
-        "LocationId": 734,
+        "DistrictId": 734,
         "Code_Local": "STG-TPSTG",
         "District_VN": "Sóc Trăng",
         "ParentCode": "STG",
@@ -5344,7 +5344,7 @@
         "District_EN": "Soc Trang"
     },
     {
-        "LocationId": 735,
+        "DistrictId": 735,
         "Code_Local": "STG-HCTH",
         "District_VN": "Châu Thành",
         "ParentCode": "STG",
@@ -5352,7 +5352,7 @@
         "District_EN": "Chau Thanh"
     },
     {
-        "LocationId": 736,
+        "DistrictId": 736,
         "Code_Local": "STG-HKSH",
         "District_VN": "Kế Sách",
         "ParentCode": "STG",
@@ -5360,7 +5360,7 @@
         "District_EN": "Ke Sach"
     },
     {
-        "LocationId": 737,
+        "DistrictId": 737,
         "Code_Local": "STG-HMTU",
         "District_VN": "Mỹ Tú",
         "ParentCode": "STG",
@@ -5368,7 +5368,7 @@
         "District_EN": "My Tu"
     },
     {
-        "LocationId": 738,
+        "DistrictId": 738,
         "Code_Local": "STG-HCLDG",
         "District_VN": "Cù Lao Dung",
         "ParentCode": "STG",
@@ -5376,7 +5376,7 @@
         "District_EN": "Cu Lao Dung"
     },
     {
-        "LocationId": 739,
+        "DistrictId": 739,
         "Code_Local": "STG-HLPU",
         "District_VN": "Long Phú",
         "ParentCode": "STG",
@@ -5384,7 +5384,7 @@
         "District_EN": "Long Phu"
     },
     {
-        "LocationId": 740,
+        "DistrictId": 740,
         "Code_Local": "STG-HMXN",
         "District_VN": "Mỹ Xuyên",
         "ParentCode": "STG",
@@ -5392,7 +5392,7 @@
         "District_EN": "My Xuyen"
     },
     {
-        "LocationId": 741,
+        "DistrictId": 741,
         "Code_Local": "STG-HNNM",
         "District_VN": "Ngã Năm",
         "ParentCode": "STG",
@@ -5400,7 +5400,7 @@
         "District_EN": "Nga Nam"
     },
     {
-        "LocationId": 742,
+        "DistrictId": 742,
         "Code_Local": "STG-HTTI",
         "District_VN": "Thạnh Trị",
         "ParentCode": "STG",
@@ -5408,7 +5408,7 @@
         "District_EN": "Thanh Tri"
     },
     {
-        "LocationId": 743,
+        "DistrictId": 743,
         "Code_Local": "STG-HVCU",
         "District_VN": "Vĩnh Châu",
         "ParentCode": "STG",
@@ -5416,7 +5416,7 @@
         "District_EN": "Vinh Chau"
     },
     {
-        "LocationId": 744,
+        "DistrictId": 744,
         "Code_Local": "STG-HTDE",
         "District_VN": "Trần Đề",
         "ParentCode": "STG",
@@ -5424,7 +5424,7 @@
         "District_EN": "Tran De"
     },
     {
-        "LocationId": 745,
+        "DistrictId": 745,
         "Code_Local": "BLU-TPBLU",
         "District_VN": "Bạc Liêu",
         "ParentCode": "BLU",
@@ -5432,7 +5432,7 @@
         "District_EN": "Bac Lieu"
     },
     {
-        "LocationId": 746,
+        "DistrictId": 746,
         "Code_Local": "BLU-HHDN",
         "District_VN": "Hồng Dân",
         "ParentCode": "BLU",
@@ -5440,7 +5440,7 @@
         "District_EN": "Hong Dan"
     },
     {
-        "LocationId": 747,
+        "DistrictId": 747,
         "Code_Local": "BLU-HPLG",
         "District_VN": "Phước Long",
         "ParentCode": "BLU",
@@ -5448,7 +5448,7 @@
         "District_EN": "Phuoc Long"
     },
     {
-        "LocationId": 748,
+        "DistrictId": 748,
         "Code_Local": "BLU-HVLI",
         "District_VN": "Vĩnh Lợi",
         "ParentCode": "BLU",
@@ -5456,7 +5456,7 @@
         "District_EN": "Vinh Loi"
     },
     {
-        "LocationId": 749,
+        "DistrictId": 749,
         "Code_Local": "BLU-HGRI",
         "District_VN": "Giá Rai",
         "ParentCode": "BLU",
@@ -5464,7 +5464,7 @@
         "District_EN": "Gia Rai"
     },
     {
-        "LocationId": 750,
+        "DistrictId": 750,
         "Code_Local": "BLU-HDHI",
         "District_VN": "Đông Hải",
         "ParentCode": "BLU",
@@ -5472,7 +5472,7 @@
         "District_EN": "Dong Hai"
     },
     {
-        "LocationId": 751,
+        "DistrictId": 751,
         "Code_Local": "BLU-HHBH",
         "District_VN": "Hoà Bình",
         "ParentCode": "BLU",
@@ -5480,7 +5480,7 @@
         "District_EN": "Hoa Binh"
     },
     {
-        "LocationId": 752,
+        "DistrictId": 752,
         "Code_Local": "CMU-TPCMU",
         "District_VN": "Cà Mau",
         "ParentCode": "CMU",
@@ -5488,7 +5488,7 @@
         "District_EN": "Ca Mau"
     },
     {
-        "LocationId": 753,
+        "DistrictId": 753,
         "Code_Local": "CMU-HUMH",
         "District_VN": "U Minh",
         "ParentCode": "CMU",
@@ -5496,7 +5496,7 @@
         "District_EN": "U Minh"
     },
     {
-        "LocationId": 754,
+        "DistrictId": 754,
         "Code_Local": "CMU-HTBH",
         "District_VN": "Thới Bình",
         "ParentCode": "CMU",
@@ -5504,7 +5504,7 @@
         "District_EN": "Thoi Binh"
     },
     {
-        "LocationId": 755,
+        "DistrictId": 755,
         "Code_Local": "CMU-HTVTI",
         "District_VN": "Trần Văn Thời",
         "ParentCode": "CMU",
@@ -5512,7 +5512,7 @@
         "District_EN": "Tran Van Thoi"
     },
     {
-        "LocationId": 756,
+        "DistrictId": 756,
         "Code_Local": "CMU-HCNC",
         "District_VN": "Cái Nước",
         "ParentCode": "CMU",
@@ -5520,7 +5520,7 @@
         "District_EN": "Cai Nuoc"
     },
     {
-        "LocationId": 757,
+        "DistrictId": 757,
         "Code_Local": "CMU-HDDI",
         "District_VN": "Đầm Dơi",
         "ParentCode": "CMU",
@@ -5528,7 +5528,7 @@
         "District_EN": "Dam Doi"
     },
     {
-        "LocationId": 758,
+        "DistrictId": 758,
         "Code_Local": "CMU-HNCN",
         "District_VN": "Năm Căn",
         "ParentCode": "CMU",
@@ -5536,7 +5536,7 @@
         "District_EN": "Nam Can"
     },
     {
-        "LocationId": 759,
+        "DistrictId": 759,
         "Code_Local": "CMU-HPTN",
         "District_VN": "Phú Tân",
         "ParentCode": "CMU",
@@ -5544,7 +5544,7 @@
         "District_EN": "Phu Tan"
     },
     {
-        "LocationId": 760,
+        "DistrictId": 760,
         "Code_Local": "CMU-HNHN",
         "District_VN": "Ngọc Hiển",
         "ParentCode": "CMU",
@@ -5552,7 +5552,7 @@
         "District_EN": "Ngoc Hien"
     },
     {
-        "LocationId": 12111,
+        "DistrictId": 12111,
         "Code_Local": "BPC-HPRG",
         "District_VN": "Phú Riềng",
         "ParentCode": "BPC",
@@ -5560,7 +5560,7 @@
         "District_EN": "Phu Rieng"
     },
     {
-        "LocationId": 12112,
+        "DistrictId": 12112,
         "Code_Local": "DBN-HNPO",
         "District_VN": "Nậm Pồ",
         "ParentCode": "DBN",
@@ -5568,7 +5568,7 @@
         "District_EN": "Nam Po"
     },
     {
-        "LocationId": 12113,
+        "DistrictId": 12113,
         "Code_Local": "LCU-HNNN",
         "District_VN": "Nậm Nhùn",
         "ParentCode": "LCU",
@@ -5576,7 +5576,7 @@
         "District_EN": "Nam Nhun"
     },
     {
-        "LocationId": 12114,
+        "DistrictId": 12114,
         "Code_Local": "HGG-TXLMY",
         "District_VN": "TX LONG MỸ",
         "ParentCode": "HGG",
@@ -5584,7 +5584,7 @@
         "District_EN": "TX LONG MY"
     },
     {
-        "LocationId": 12115,
+        "DistrictId": 12115,
         "Code_Local": "LAN-TXKTG",
         "District_VN": "Kiến Tường",
         "ParentCode": "LAN",
@@ -5592,7 +5592,7 @@
         "District_EN": "Kien Tuong"
     },
     {
-        "LocationId": 12116,
+        "DistrictId": 12116,
         "Code_Local": "NAN-TXHMI",
         "District_VN": "Hoàng Mai",
         "ParentCode": "NAN",
@@ -5600,7 +5600,7 @@
         "District_EN": "Hoang Mai"
     },
     {
-        "LocationId": 12118,
+        "DistrictId": 12118,
         "Code_Local": "QBH-TXBDN",
         "District_VN": "Ba Đồn",
         "ParentCode": "QBH",
@@ -5608,7 +5608,7 @@
         "District_EN": "Ba Don"
     },
     {
-        "LocationId": 12120,
+        "DistrictId": 12120,
         "Code_Local": "TQG-HLBH",
         "District_VN": "Lâm Bình",
         "ParentCode": "TQG",
@@ -5616,7 +5616,7 @@
         "District_EN": "Lam Binh"
     },
     {
-        "LocationId": 12122,
+        "DistrictId": 12122,
         "Code_Local": "BDG-HBBG",
         "District_VN": "Bàu Bàng",
         "ParentCode": "BDG",
@@ -5624,7 +5624,7 @@
         "District_EN": "Bau Bang"
     },
     {
-        "LocationId": 12123,
+        "DistrictId": 12123,
         "Code_Local": "BDG-HBTYN",
         "District_VN": "Bắc Tân Uyên",
         "ParentCode": "BDG",
@@ -5632,7 +5632,7 @@
         "District_EN": "Bac Tan Uyen"
     },
     {
-        "LocationId": 12125,
+        "DistrictId": 12125,
         "Code_Local": "SLA-HVHO",
         "District_VN": "Vân Hồ",
         "ParentCode": "SLA",
@@ -5640,7 +5640,7 @@
         "District_EN": "Van Ho"
     },
     {
-        "LocationId": 12296,
+        "DistrictId": 12296,
         "Code_Local": "DTP-TPHNU",
         "District_VN": "Tp Hồng Ngự",
         "ParentCode": "DTP",
@@ -5648,7 +5648,7 @@
         "District_EN": "Tp Hong Ngu"
     },
     {
-        "LocationId": 12349,
+        "DistrictId": 12349,
         "Code_Local": "HNI-QBTLM",
         "District_VN": "Bắc Từ Liêm",
         "ParentCode": "HNI",
@@ -5656,7 +5656,7 @@
         "District_EN": "Bac Tu Liem"
     },
     {
-        "LocationId": 12370,
+        "DistrictId": 12370,
         "Code_Local": "CBG-HQHA",
         "District_VN": "Quảng Hòa",
         "ParentCode": "CBG",
@@ -5664,7 +5664,7 @@
         "District_EN": "Quang Hoa"
     },
     {
-        "LocationId": 12388,
+        "DistrictId": 12388,
         "Code_Local": "TBH-HQCI",
         "District_VN": "Quỳnh Côi",
         "ParentCode": "TBH",
@@ -5672,7 +5672,7 @@
         "District_EN": "Quynh Coi"
     },
     {
-        "LocationId": 12389,
+        "DistrictId": 12389,
         "Code_Local": "KTM-HIDI",
         "District_VN": "Ia H Drai",
         "ParentCode": "KTM",
@@ -5680,7 +5680,7 @@
         "District_EN": "Ia H Drai"
     },
     {
-        "LocationId": 12687,
+        "DistrictId": 12687,
         "Code_Local": "THA-HNGSN",
         "District_VN": "Nghi Sơn",
         "ParentCode": "THA",
@@ -5688,7 +5688,7 @@
         "District_EN": "Nghi Son"
     },
     {
-        "LocationId": 12735,
+        "DistrictId": 12735,
         "Code_Local": "CBG-HPHA",
         "District_VN": "Phục Hòa",
         "ParentCode": "CBG",
@@ -5696,7 +5696,7 @@
         "District_EN": "Phuc Hoa"
     },
     {
-        "LocationId": 12756,
+        "DistrictId": 12756,
         "Code_Local": "LONGMY123",
         "District_VN": "HUYỆN LONG MỸ",
         "ParentCode": "HGG",
@@ -5704,7 +5704,7 @@
         "District_EN": "HUYEN LONG MY"
     },
     {
-        "LocationId": 12794,
+        "DistrictId": 12794,
         "Code_Local": "TANTHANH1111",
         "District_VN": "Tân Thành",
         "ParentCode": "VTU",
