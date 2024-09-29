@@ -1,0 +1,380 @@
+[
+    {
+        "LocationId": 1,
+        "Code_Local": "HNI",
+        "Location_VN": "Hà Nội",
+        "Location_EN": "Ha Noi"
+    },
+    {
+        "LocationId": 2,
+        "Code_Local": "HAG",
+        "Location_VN": "Hà Giang",
+        "Location_EN": "Ha Giang"
+    },
+    {
+        "LocationId": 3,
+        "Code_Local": "CBG",
+        "Location_VN": "Cao Bằng",
+        "Location_EN": "Cao Bang"
+    },
+    {
+        "LocationId": 4,
+        "Code_Local": "BCN",
+        "Location_VN": "Bắc Kạn",
+        "Location_EN": "Bac Kan"
+    },
+    {
+        "LocationId": 5,
+        "Code_Local": "TQG",
+        "Location_VN": "Tuyên Quang",
+        "Location_EN": "Tuyen Quang"
+    },
+    {
+        "LocationId": 6,
+        "Code_Local": "LCI",
+        "Location_VN": "Lào Cai",
+        "Location_EN": "Lao Cai"
+    },
+    {
+        "LocationId": 7,
+        "Code_Local": "DBN",
+        "Location_VN": "Điện Biên",
+        "Location_EN": "Dien Bien"
+    },
+    {
+        "LocationId": 8,
+        "Code_Local": "LCU",
+        "Location_VN": "Lai Châu",
+        "Location_EN": "Lai Chau"
+    },
+    {
+        "LocationId": 9,
+        "Code_Local": "SLA",
+        "Location_VN": "Sơn La",
+        "Location_EN": "Son La"
+    },
+    {
+        "LocationId": 10,
+        "Code_Local": "YBI",
+        "Location_VN": "Yên Bái",
+        "Location_EN": "Yen Bai"
+    },
+    {
+        "LocationId": 11,
+        "Code_Local": "HBH",
+        "Location_VN": "Hòa Bình",
+        "Location_EN": "Hoa Binh"
+    },
+    {
+        "LocationId": 12,
+        "Code_Local": "TNN",
+        "Location_VN": "Thái Nguyên",
+        "Location_EN": "Thai Nguyen"
+    },
+    {
+        "LocationId": 13,
+        "Code_Local": "LSN",
+        "Location_VN": "Lạng Sơn",
+        "Location_EN": "Lang Son"
+    },
+    {
+        "LocationId": 14,
+        "Code_Local": "QNH",
+        "Location_VN": "Quảng Ninh",
+        "Location_EN": "Quang Ninh"
+    },
+    {
+        "LocationId": 15,
+        "Code_Local": "BGG",
+        "Location_VN": "Bắc Giang",
+        "Location_EN": "Bac Giang"
+    },
+    {
+        "LocationId": 16,
+        "Code_Local": "PTO",
+        "Location_VN": "Phú Thọ",
+        "Location_EN": "Phu Tho"
+    },
+    {
+        "LocationId": 17,
+        "Code_Local": "VPC",
+        "Location_VN": "Vĩnh Phúc",
+        "Location_EN": "Vinh Phuc"
+    },
+    {
+        "LocationId": 18,
+        "Code_Local": "BNH",
+        "Location_VN": "Bắc Ninh",
+        "Location_EN": "Bac Ninh"
+    },
+    {
+        "LocationId": 19,
+        "Code_Local": "HDG",
+        "Location_VN": "Hải Dương",
+        "Location_EN": "Hai Duong"
+    },
+    {
+        "LocationId": 20,
+        "Code_Local": "HPG",
+        "Location_VN": "Hải Phòng",
+        "Location_EN": "Hai Phong"
+    },
+    {
+        "LocationId": 21,
+        "Code_Local": "HYN",
+        "Location_VN": "Hưng Yên",
+        "Location_EN": "Hung Yen"
+    },
+    {
+        "LocationId": 22,
+        "Code_Local": "TBH",
+        "Location_VN": "Thái Bình",
+        "Location_EN": "Thai Binh"
+    },
+    {
+        "LocationId": 23,
+        "Code_Local": "HNM",
+        "Location_VN": "Hà Nam",
+        "Location_EN": "Ha Nam"
+    },
+    {
+        "LocationId": 24,
+        "Code_Local": "NDH",
+        "Location_VN": "Nam Định",
+        "Location_EN": "Nam Dinh"
+    },
+    {
+        "LocationId": 25,
+        "Code_Local": "NBH",
+        "Location_VN": "Ninh Bình",
+        "Location_EN": "Ninh Binh"
+    },
+    {
+        "LocationId": 26,
+        "Code_Local": "THA",
+        "Location_VN": "Thanh Hóa",
+        "Location_EN": "Thanh Hoa"
+    },
+    {
+        "LocationId": 27,
+        "Code_Local": "NAN",
+        "Location_VN": "Nghệ An",
+        "Location_EN": "Nghe An"
+    },
+    {
+        "LocationId": 28,
+        "Code_Local": "HTH",
+        "Location_VN": "Hà Tĩnh",
+        "Location_EN": "Ha Tinh"
+    },
+    {
+        "LocationId": 29,
+        "Code_Local": "QBH",
+        "Location_VN": "Quảng Bình",
+        "Location_EN": "Quang Binh"
+    },
+    {
+        "LocationId": 30,
+        "Code_Local": "QTI",
+        "Location_VN": "Quảng Trị",
+        "Location_EN": "Quang Tri"
+    },
+    {
+        "LocationId": 31,
+        "Code_Local": "HUE",
+        "Location_VN": "Huế",
+        "Location_EN": "Hue"
+    },
+    {
+        "LocationId": 32,
+        "Code_Local": "DNG",
+        "Location_VN": "Đà Nẵng",
+        "Location_EN": "Da Nang"
+    },
+    {
+        "LocationId": 33,
+        "Code_Local": "QNM",
+        "Location_VN": "Quảng Nam",
+        "Location_EN": "Quang Nam"
+    },
+    {
+        "LocationId": 34,
+        "Code_Local": "QNI",
+        "Location_VN": "Quảng Ngãi",
+        "Location_EN": "Quang Ngai"
+    },
+    {
+        "LocationId": 35,
+        "Code_Local": "BDH",
+        "Location_VN": "Bình Định",
+        "Location_EN": "Binh Dinh"
+    },
+    {
+        "LocationId": 36,
+        "Code_Local": "PYN",
+        "Location_VN": "Phú Yên",
+        "Location_EN": "Phu Yen"
+    },
+    {
+        "LocationId": 37,
+        "Code_Local": "KHA",
+        "Location_VN": "Khánh Hòa",
+        "Location_EN": "Khanh Hoa"
+    },
+    {
+        "LocationId": 38,
+        "Code_Local": "NTN",
+        "Location_VN": "Ninh Thuận",
+        "Location_EN": "Ninh Thuan"
+    },
+    {
+        "LocationId": 39,
+        "Code_Local": "BTN",
+        "Location_VN": "Bình Thuận",
+        "Location_EN": "Binh Thuan"
+    },
+    {
+        "LocationId": 40,
+        "Code_Local": "KTM",
+        "Location_VN": "Kon Tum",
+        "Location_EN": "Kon Tum"
+    },
+    {
+        "LocationId": 41,
+        "Code_Local": "GLI",
+        "Location_VN": "Gia Lai",
+        "Location_EN": "Gia Lai"
+    },
+    {
+        "LocationId": 42,
+        "Code_Local": "DLK",
+        "Location_VN": "Đắk Lắk",
+        "Location_EN": "Dak Lak"
+    },
+    {
+        "LocationId": 43,
+        "Code_Local": "DAG",
+        "Location_VN": "Đắk Nông",
+        "Location_EN": "Dak Nong"
+    },
+    {
+        "LocationId": 44,
+        "Code_Local": "LDG",
+        "Location_VN": "Lâm Đồng",
+        "Location_EN": "Lam Dong"
+    },
+    {
+        "LocationId": 45,
+        "Code_Local": "BPC",
+        "Location_VN": "Bình Phước",
+        "Location_EN": "Binh Phuoc"
+    },
+    {
+        "LocationId": 46,
+        "Code_Local": "TNH",
+        "Location_VN": "Tây Ninh",
+        "Location_EN": "Tay Ninh"
+    },
+    {
+        "LocationId": 47,
+        "Code_Local": "BDG",
+        "Location_VN": "Bình Dương",
+        "Location_EN": "Binh Duong"
+    },
+    {
+        "LocationId": 48,
+        "Code_Local": "DNI",
+        "Location_VN": "Đồng Nai",
+        "Location_EN": "Dong Nai"
+    },
+    {
+        "LocationId": 49,
+        "Code_Local": "VTU",
+        "Location_VN": "Vũng Tàu",
+        "Location_EN": "Vung Tau"
+    },
+    {
+        "LocationId": 50,
+        "Code_Local": "SGN",
+        "Location_VN": "Hồ Chí Minh",
+        "Location_EN": "Ho Chi Minh"
+    },
+    {
+        "LocationId": 51,
+        "Code_Local": "LAN",
+        "Location_VN": "Long An",
+        "Location_EN": "Long An"
+    },
+    {
+        "LocationId": 52,
+        "Code_Local": "TGG",
+        "Location_VN": "Tiền Giang",
+        "Location_EN": "Tien Giang"
+    },
+    {
+        "LocationId": 53,
+        "Code_Local": "BTE",
+        "Location_VN": "Bến Tre",
+        "Location_EN": "Ben Tre"
+    },
+    {
+        "LocationId": 54,
+        "Code_Local": "TVH",
+        "Location_VN": "Trà Vinh",
+        "Location_EN": "Tra Vinh"
+    },
+    {
+        "LocationId": 55,
+        "Code_Local": "VLG",
+        "Location_VN": "Vĩnh Long",
+        "Location_EN": "Vinh Long"
+    },
+    {
+        "LocationId": 56,
+        "Code_Local": "DTP",
+        "Location_VN": "Đồng Tháp",
+        "Location_EN": "Dong Thap"
+    },
+    {
+        "LocationId": 57,
+        "Code_Local": "AGG",
+        "Location_VN": "An Giang",
+        "Location_EN": "An Giang"
+    },
+    {
+        "LocationId": 58,
+        "Code_Local": "KGG",
+        "Location_VN": "Kiên Giang",
+        "Location_EN": "Kien Giang"
+    },
+    {
+        "LocationId": 59,
+        "Code_Local": "CTO",
+        "Location_VN": "Cần Thơ",
+        "Location_EN": "Can Tho"
+    },
+    {
+        "LocationId": 60,
+        "Code_Local": "HGG",
+        "Location_VN": "Hậu Giang",
+        "Location_EN": "Hau Giang"
+    },
+    {
+        "LocationId": 61,
+        "Code_Local": "STG",
+        "Location_VN": "Sóc Trăng",
+        "Location_EN": "Soc Trang"
+    },
+    {
+        "LocationId": 62,
+        "Code_Local": "BLU",
+        "Location_VN": "Bạc Liêu",
+        "Location_EN": "Bac Lieu"
+    },
+    {
+        "LocationId": 63,
+        "Code_Local": "CMU",
+        "Location_VN": "Cà Mau",
+        "Location_EN": "Ca Mau"
+    }
+]
